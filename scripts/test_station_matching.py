@@ -1,17 +1,9 @@
-import csv
-
+from fuel_optimizer.services.station_data_service import load_station_data
 from fuel_optimizer.services.station_matching_service import match_station
-
-CSV_FILE = "data/fuel_stations_preprocessed.csv"
-
-
-def load_csv_stations():
-    with open(CSV_FILE, encoding="utf-8-sig", newline="") as file:
-        return list(csv.DictReader(file))
 
 
 def main():
-    csv_stations = load_csv_stations()
+    csv_stations = load_station_data()
 
     # here im trying to simulate Kwik Trip result.
 
@@ -34,9 +26,8 @@ def main():
     print("------------------------")
     print("Status:", result["status"])
     print("Reason:", result["reason"])
-    print("Score:", result["score"])
 
-    matched = result["matched_station"]
+    matched = result.get("station")
 
     if matched:
         print("\nMatched CSV station")

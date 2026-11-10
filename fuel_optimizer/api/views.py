@@ -60,6 +60,7 @@ class RouteOptimizationView(APIView):
 
         # 7. Match discovered stations against CSV stations.
         matched_stations = []
+        station_results = []
 
         try:
 
@@ -96,21 +97,24 @@ class RouteOptimizationView(APIView):
 
                 match_status = match["status"]
 
+                station_result = {
+                    **geo_station,
+                    "csv_match_status": match_status,
+                    "csv_match_reason": match["reason"],
+                    "csv_station": None,
+                    "fuel_price": None,
+                }
+
                 if match_status in match_status_counts:
                     match_status_counts[match_status] += 1
 
-                if match_status != "probable_match":
-                    continue
+                if match_status == "probable_match":
+                    csv_station = match["station"]
+                    station_result["fuel_price"] = float(csv_station["average_price"])
+                    station_result["csv_station"] = csv_station
+                    matched_stations.append(station_result)
 
-                csv_station = match["station"]
-
-                matched_stations.append(
-                    {
-                        **geo_station,
-                        "fuel_price": float(csv_station["average_price"]),
-                        "csv_station": csv_station,
-                    }
-                )
+                station_results.append(station_result)
             print("\nSTATION MATCHING DIAGNOSTICS")
             print("----------------------------")
             print("Geoapify discovered:", len(discovered_stations))
@@ -148,6 +152,7 @@ class RouteOptimizationView(APIView):
                         "discovered": len(discovered_stations),
                         "positioned": len(positioned_stations),
                         "reliable_price_matches": len(matched_stations),
+                        "items": station_results,
                     },
                     "fuel_optimization": optimization,
                 },

@@ -18,8 +18,7 @@ class FuelStationError(Exception):
     """this is raised when fuel station discovery fails."""
 
 
-def simplify_route_coordinates
-(
+def simplify_route_coordinates(
     route_coordinates,
     tolerance_meters=100,
 ):
