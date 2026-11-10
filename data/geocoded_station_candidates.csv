@@ -1,0 +1,1001 @@
+station_id,original_name,original_address,original_city,original_state,latitude,longitude,geocoded_address,country_code,result_type,geocoding_confidence,match_type,coordinate_status,source
+10006,FLINT HILLS FUEL MART,US-50 & US-77,Florence,KS,38.2400796,-96.9379371,"US 50, Florence, KS 66851, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+10007,CIRCLE K #2705346,SR-307,Savannah,GA,32.0790074,-81.0921335,"Savannah, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10014,Sudden Service #6604,"I-40, EXIT 212",Nashville,TN,36.1622767,-86.7742984,"Nashville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10015,Loves Travel Stop #429,"I-65 & I-24, EXIT 87",Nashville,TN,36.1622767,-86.7742984,"Nashville, TN, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+10020,Maplefields,"US-4, EXIT 2 & SR-22A",Fair Haven,VT,43.5947898,-73.2659674,"Fair Haven, VT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10024,MILLERS TRAVEL CENTER,US-6 & US-50,Wellington,UT,39.5424659,-110.735434,"Wellington, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10028,GOOD TO GO #10,US-35,Winamac,IN,41.0592047,-86.604608,"US 35, Winamac, IN 46996, United States of America",us,street,1,full_match,candidate,Geoapify
+10030,LOVES TRAVEL STOP #715,I-77 EXIT 58 & SR-666 & US-52,Bastian,VA,37.1520626,-81.1500931,"Bastian, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10033,SHELL,"I-95, EXIT 133 & US-17 BUS",Fredericksburg,VA,38.3001159,-77.4571472,"Fredericksburg, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10047,TOWN PUMP FOOD STORE #8929,"I-15, EXIT 339",Conrad,MT,48.170251,-111.943019,"Conrad, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10053,BECKS #27,"I-39/US-51, EXIT 72 & US-34",Mendota,IL,41.5472547,-89.1175852,"Mendota, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10057,Flying J Travel Plaza #649,"I-465, EXIT 4",Indianapolis,IN,39.7089665,-86.3031294,"Shuttle Bus exit, Indianapolis, IN 46251, United States of America",us,street,0.81,full_match,candidate,Geoapify
+10058,CITGO,US-431/SR-1 & SR-27,Abbeville,AL,31.5447267,-85.2872741,"US 431, Abbeville, AL 36310, United States of America",us,street,1,full_match,candidate,Geoapify
+10065,ROAD MART,US-71/US-59,Ashdown,AR,33.6233857,-94.0815792,"US 59;US 71 / US 59;US 71, Little River County, AR, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+10077,FLYING J TRAVEL PLAZA #607,"I-55, EXIT 4 & I-40, EXIT 280",West Memphis,AR,35.1464797,-90.1845388,"West Memphis, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10085,EL CENTRO TRAVEL CENTER,"I-8, EXIT 115 & SR-86",El Centro,CA,32.792,-115.563051,"El Centro, CA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10101,PILOT TRAVEL CENTERS #65,"I-20, EXIT 194",Augusta,GA,33.4709714,-81.9748429,"Augusta, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10104,GEO H GREEN OIL,"I-85/SR-403, EXIT 41 & US-27 ALT",Newnan,GA,33.3806716,-84.7996573,"Newnan, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10109,GIT N GO CONVENIENCE STORE #34,"US-30, EXIT 185 & SR-14",Marshalltown,IA,42.048881,-92.9122672,"Marshalltown, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10110,JACKSON'S FOODS DBA ONE9 #1427,"I-84, EXIT 36",Nampa,ID,43.5780381,-116.5616885,"Nampa, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10116,Petro Stopping Center #359,"I-39/US-51, EXIT 99 & SR-38",Rochelle,IL,41.9239178,-89.0687074,"Rochelle, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10122,LOVES TRAVEL STOP #417,"I-80 & I-94, EXIT 9A",Gary,IN,41.6020962,-87.3370646,"Gary, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10126,PILOT TRAVEL CENTERS #152,"I-65, EXIT 16 & MEMPHIS RD",Memphis,IN,38.4833963,-85.7616319,"Memphis, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10128,PETES #20,US-54/SR-7 & US-69,Fort Scott,KS,37.84752468710256,-94.70251739992197,"US 54;US 69;K-7 / US 54;US 69;K-7, Fort Scott, KS 66701, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+10135,YESWAY #1116,"I-35, EXIT 60",Mcpherson,KS,38.3708415,-97.6642087,"McPherson, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10142,PILOT TRAVEL CENTERS #438,"I-65, EXIT 6 & SR-100",Franklin,KY,36.722263,-86.5772177,"Franklin, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10144,PILOT TRAVEL CENTERS #358,"I-24 & US-305, EXIT 3",Paducah,KY,37.0833893,-88.6000478,"Paducah, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10146,PILOT TRAVEL CENTERS #437,"I-75, EXIT 11 & SR-92",Williamsburg,KY,36.7434169,-84.1596561,"Williamsburg, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10150,PILOT TRAVEL CENTERS #300,"I-12, EXIT 40",Hammond,LA,30.501623,-90.46711,"Hammond, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10154,I 49 TRUCK STOP,"I-49, EXIT 23 & US-167",Opelousas,LA,30.525943,-92.085363,"Opelousas, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10157,J AND  H OIL,"US-131, EXIT 72",Byron Center,MI,42.78438,-85.668365,"72 Exit Sb Us131 Highway, Byron Center, MI 49315, United States of America",us,building,0.7290000000000001,inner_part,needs_review,Geoapify
+10161,SPEEDWAY #8740,"I-69, EXIT 87",Dewitt,MI,42.8424784,-84.5697965,"DeWitt, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10168,Express Stop,"I-94, EXIT 145",Jackson,MI,42.2465036,-84.4016963,"Jackson, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10172,EXPRESS STOP FOOD STORE #4647,"I-75, EXIT 151 & SR- 81",Saginaw,MI,43.4200387,-83.9490365,"Saginaw, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10181,QUIKTRIP #611,I-55 EXIT 178,Herculaneum,MO,38.2683879,-90.3801201,"Herculaneum, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+10184,CIRCLE K #2721544,"I-55, EXIT 243 & US-278/SR-6",Batesville,MS,,,,,,,,not_found,Geoapify
+10192,INTERSTATE STATION #8,"I-55, EXIT 78",Natchez,MS,31.5604076,-91.403171,"Natchez, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1028,FOUR STATES TRUCK STOP,"I-495, EXIT 4 & SR-9",New Castle,DE,39.6620572,-75.5663132,"New Castle, DE, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1042,Union 76,US-441 & SR-100A,Lake City,FL,30.1894252,-82.6394803,"Lake City, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1043,ONE9 #1401,I-75 EXIT 414  & US-41,Lake City,FL,30.1894252,-82.6394803,"Lake City, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1047,TA MARIANNA TRAVEL CENTER,"I-10/SR-8, EXIT 142 & SR-71",Marianna,FL,30.7743596,-85.2268735,"Marianna, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+105,TA SAGINAW I 75 TRAVEL CENTER,"I-75, EXIT 144-B",Bridgeport,MI,43.3594696,-83.8816364,"Bridgeport, Bridgeport Charter Township, MI, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1075,PILOT TRAVEL CENTER #68,"I-16 /SR-404, EXIT 51 & US-441",Dublin,GA,32.5404447,-82.903754,"Dublin, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1106,CIRCLE K #2705367,"I-20, EXIT 172",Thomson,GA,33.51125,-82.50235,"Exit 59, McDuffie County, GA, United States of America",us,amenity,0.4233341332386101,inner_part,needs_review,Geoapify
+1112,BC AMPRIDE TRUCK PLAZA,US-59/SR-141,Denison,IA,42.0205674,-95.368264,"US 59;IA 141, Denison, IA 51442, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+1115,KWIK STAR #704,SR-57/SR-14,Parkersburg,IA,,,,,,,,not_found,Geoapify
+1121,TRAVELERS OASIS,"I-84, EXIT 182",Eden,ID,42.6059001,-114.209645,"Eden, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1128,TA CHICAGO NORTH TRAVEL CENTER,"I-94/US-41, EXIT 1",Wadsworth,IL,42.4286788,-87.9067248,"Wadsworth, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1132,SPEEDWAY #7423,"I-57, EXIT 83",Ina,IL,38.1511606,-88.9039554,"Ina, IL, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+1136,PILOT TRAVEL CENTER #171,"I-74, EXIT 206",Oakwood,IL,40.1161471,-87.7783592,"Oakwood, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1140,CIRCLE K #4701398,"I-55, EXIT 82 & SR-104",Divernon,IL,39.5656082,-89.6573192,"Divernon, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1149,PILOT TRAVEL CENTER #30,"I-70, EXIT 96",Greenfield,IN,39.7855096,-85.7681979,"Greenfield, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1151,SPEEDWAY #8061,"I-70, EXIT 115 & SR-109",Knightstown,IN,39.7956007,-85.5263629,"Knightstown, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1154,CIRCLE K #2704691,SR-71 & CR-214,Cedar Creek,TX,33.067047,-97.034274,"Cedar Creek, Lewisville, TX, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1156,CIRCLE K #4700028,"I-74/US-421, EXIT 116 & SR-44",Shelbyville,IN,39.5214373,-85.7769238,"Shelbyville, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1157,One9 #297,"I-70, EXIT 11 & SR-46",Terre Haute,IN,39.4309152,-87.3330455,"SR 46, Terre Haute, IN 47802, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+1158,PILOT TRAVEL CENTERS #36,US-30  & SR-49,Valparaiso,IN,41.4729559,-87.0203733,"SR 49, Valparaiso, IN 46383, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+1163,SHORT STOP #13,US-54,Emporia,KS,38.412283,-96.231942,"US 50, Emporia, KS 66801, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+1176,PILOT TRAVEL CENTERS #353,"I-75, EXIT 129",Georgetown,KY,38.2099837,-84.5597128,"Georgetown, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1179,PILOT TRAVEL CENTERS #399,"I-65, EXIT 105",Lebanon Junction,KY,37.839258,-85.722006,"Lebanon Junction, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+118,Lupton Truck Stop #567,"I-40, EXIT 359",Lupton,AZ,35.3539127,-109.053701,"Lupton, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1196,SOUTHERN BELLE TRUCK STOP,US-61 & SR-964,Saint Francisville,LA,30.7807244,-91.3763353,"St. Francisville, Saint Francisville, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1199,ALLTOWN MARKETS #306,"I-190, EXIT 7",Leominster,MA,42.526906,-71.759702,"Exit New Options Real Estate, Main Street, Leominster, MA 01453, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+1202,ONE9 #290,"I-95, EXIT 93 & SR-222",Perryville,MD,39.5594191,-76.0732254,"Perryville, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1204,PETRO STOPPING CENTER #321,"I-70 & I-57, EXIT 159",Effingham,IL,39.1206,-88.55172,"Interchange 159, Effingham, IL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+1208,D AVENUE FUEL PLAZA,US-131,Kalamazoo,MI,42.2531065,-85.6448343,"US 131, Kalamazoo, MI 49009, United States of America",us,street,1,full_match,candidate,Geoapify
+121,PETRO STOPPING CENTER #306,"I-10, EXIT 200",Eloy,AZ,32.7551703,-111.553493,"Eloy, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1210,ROADHAWK TRAVEL CENTER,"I-94, EXIT 56 & SR-51",Paw Paw,MI,42.2178171,-85.8911246,"Paw Paw, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1217,KWIK TRIP #250,"I-90, EXIT 179",Austin,MN,43.6679992,-92.9746498,"Austin, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1218,CASEYS #3658,SR-210,Pillager,MN,46.3263819,-94.4749228,"Pillager, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1225,AYERCO #35,US-61 & US-61 BUS,Bowling Green,MO,39.372576,-91.218528,"US 61 BUS, Bowling Green, MO 63334, United States of America",us,street,0.8333333333333334,full_match,candidate,Geoapify
+1234,Lamar Travel Plaza,US-71 & US-160,Lamar,MO,37.4937338,-94.2968976,"US 160, Lamar Heights, MO 64759, United States of America",us,street,0.54,full_match,needs_review,Geoapify
+1236,AYERCO #44,US-36 & US-24,Palmyra,MO,39.798365,-91.526854,"Liberty Township, Palmyra, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1240,TEMP STOP #103,US-65,Sedalia,MO,38.7237486,-93.2413495,"US 65, Sedalia, MO 65302, United States of America",us,street,1,full_match,candidate,Geoapify
+1247,SNAPPY MART #11,US-63 & SR-14,West Plains,MO,36.7281652,-91.8525756,"West Plains, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1251,MAPCO #3009,US-72,Corinth,MS,34.9188701,-88.5107852,"US 72, Corinth, MS 38834, United States of America",us,street,1,full_match,candidate,Geoapify
+1256,DOUBLE QUICK #89,US-82/US-278,Greenville,MS,33.3020272,-91.1335311,"US 82;US 278 / US 82;US 278, Refuge, MS, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+1265,JOE JOES TRAVEL CENTER,US-78 & RED BANKS RD S,Red Banks,MS,34.8263002,-89.5646458,"South Red Banks Road, Red Banks, MS 38661, United States of America",us,street,0.25004699999999996,full_match,needs_review,Geoapify
+127,CIRCLE K #4700095,US-41,Henderson,KY,37.859947,-87.575375,"US 41, Henderson, KY 42420, United States of America",us,street,1,full_match,candidate,Geoapify
+128,THE EFFINGHAM CHROME SHOP,"I-57 & I-70, EXIT 159",Effingham,IL,39.1206,-88.55172,"Interchange 159, Effingham, IL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+1304,LOVES TRAVEL STOP #667,"I-85, EXIT 152",Mebane,NC,36.0959715,-79.2669619,"Mebane, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1315,CIRCLE K #2720218,US-421 BUS & US-15/US-501/US-1,Sanford,NC,35.4798757,-79.1802994,"Sanford, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1325,SCOTCHMAN #3303,US-421 & US-74,Wilmington,NC,34.224766,-77.946123,"US 421, Wilmington, NC 28401, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+1326,SPEEDWAY #7949,US-301/US-264 ALT & CR-1674,Wilson,NC,35.6955564,-77.9386389,"US 301, Wilson, NC 27893, United States of America",us,street,1,full_match,candidate,Geoapify
+1333,PUMP & PANTRY #15,US-30,Grand Island,NE,40.932448,-98.3166425,"Highway 30, Grand Island, NE 68801, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+1340,BORDENTOWN VALERO,"NJ TNPK, EXIT 7 & US-206",Bordentown,NJ,40.149667,-74.700532,"206 US 206, Bordentown Township, Bordentown, NJ 08505, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+1342,Delta,"I-80, EXIT 47B",Fairfield,NJ,40.8837238,-74.3068718,"Fairfield, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1344,BOLLA TRUCK STOP #193,US-202 & SR-17,Mahwah,NJ,41.1071903,-74.1498497,"US 202;CR 507, West Mahwah, Mahwah, NJ 07495, United States of America",us,street,0.4444444444444444,full_match,needs_review,Geoapify
+1348,GLOBAL,SR-73,Palmyra,NJ,40.0070565,-75.0282271,"Palmyra, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+135,LOVES TRAVEL STOP #766,"I-80, EXIT 27",Atkinson,IL,41.4208678,-90.0151121,"Atkinson, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1356,LOVES TRAVEL STOP #257,"I-40 & HORIZON, EXIT 79",Milan,NM,35.1697175,-107.8908919,"Milan, NM, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+1364,7- ELEVEN #40507,"I-80/I-90, MM 56 WB",Rolling Prairie,IN,41.6745495,-86.6160192,"Rolling Prairie, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1372,PILOT TRAVEL CENTER #469,"I-77, EXIT 101 & SR-627",Canton,OH,40.7985464,-81.3749508,"Canton, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1376,FUEL MART #782,"I-75, EXIT 118",Lima,OH,40.7399785,-84.105006,"Lima, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1379,TA LODI TRAVEL CENTER,"I-71, EXIT 209 & I-76/US-224, EXIT 1",Seville,OH,41.010077,-81.8622222,"Seville, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1384,SUNOCO,"I-80/I-90, EXIT 13 & US-20ALT/SR-15",Montpelier,OH,41.5798683,-84.5557921,"SR 15, Montpelier, OH 43543, United States of America",us,street,1,full_match,candidate,Geoapify
+1391,ONCUE EXPRESS #2045,"I-35, EXIT 203 & SR-15",Billings,OK,36.5289239,-97.4439362,"Billings, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1395,DOMINO FOOD AND FUEL #1,"I-40, EXIT 66",Clinton,OK,35.5156056,-98.9673069,"Clinton, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1404,ONE9 #339,"I-74, EXIT 4 & SR-63",Covington,IN,40.1370345,-87.3970886,"Covington, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1414,SAC SHOP #507,"I-70, EXIT 12/161",Breezewood,PA,39.9990119,-78.2404221,"Breezewood, East Providence Township, PA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+1424,GETTYSBURG TRAVEL PLAZA,US-15 & SR-394,Gettysburg,PA,39.8308973,-77.231012,"Gettysburg, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1428,CIRCLE K #4702408,"I-65, EXIT 168 & SR-38/SR-25",Lafayette,IN,40.385821,-86.9218581,"SR 25, Lafayette, IN 47909, United States of America",us,street,1,full_match,candidate,Geoapify
+1432,KWIK FILL #259,"I-81, EXIT 57",Mechanicsburg,PA,40.2101972,-77.0047276,"Mechanicsburg, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1444,PILOT TRAVEL CENTERS #346,"I-20, EXIT 92 & US-601",Lugoff,SC,34.2273712,-80.6892487,"Lugoff, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1445,PILOT TRAVEL CENTERS #402,"I-80, EXIT 367",Cheyenne,WY,41.139981,-104.820246,"Cheyenne, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1447,HOT SPOT #3005,US-221,Chesnee,SC,35.144527,-81.838334,"US 221 Alternate, Cherokee County, SC 29323, United States of America",us,street,0.612186964276899,full_match,needs_review,Geoapify
+1453,EXPRESS STOP,US-278/SR-101/SR-6 & SR-113,Rockmart,GA,34.0026005,-85.0416133,"Rockmart, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1455,PETRO FLORENCE,"I-95, EXIT 169",Florence,SC,34.1984435,-79.7671658,"Florence, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1461,CIRCLE K #2705370,"I-26, EXIT 15 & US-176",Inman,SC,35.047841,-82.0906082,"Inman, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1464,CIRCLE K #2723254,"I-20, EXIT 55 & SR-6",Lexington,SC,33.9804494,-81.2374167,"Lexington, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+147,SPEEDWAY #8039,"I-69, EXIT 234 & SR-67",Daleville,IN,40.1211546,-85.5580301,"Daleville, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1470,CIRCLE K #2705348,US-1,Beech Island,SC,33.4280649,-81.8891583,"Beech Island, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1479,TA SPARTANBURG TRAVEL CENTER,"I-85, EXIT 63 & SR-290",Duncan,SC,34.9378962,-82.1451096,"Duncan, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1487,ROADRUNNER MARKET #6019,"I-81, EXIT 36 NORTH",Greeneville,TN,36.1631981,-82.8310464,"Greeneville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+149,RAYS TRUCK WASH,"I-69, EXIT 309 & US-30",Fort Wayne,IN,41.0799898,-85.1386015,"Fort Wayne, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1492,MAPCO #3538,"I-24, EXIT 174",Chattanooga,TN,35.0457219,-85.3094883,"Chattanooga, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1507,CIRCLE K #4703941,"I-55, EXIT 5A",Memphis,TN,35.146026,-90.0517786,"Memphis, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+151,CUBBYS #2101,"I-80, EXIT 211 & SR-47",Gothenburg,NE,40.9277324,-100.1619896,"Gothenburg, NE, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1516,LOVES TRAVEL STOP #261,I-27 EXIT 116,Amarillo,TX,35.20729,-101.8371192,"Amarillo, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1531,CircleK #4702365,"I-74, EXIT 112 & SR-9",Shelbyville,IN,39.5214373,-85.7769238,"Shelbyville, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1533,YESWAY #1157,US-62,Brownfield,TX,33.1811661,-102.274237,"Brownfield, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1546,SHELL,"I-35, EXIT 86 & SR-85",Dilley,TX,28.6695971,-99.1672017,"Dilley, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1548,TOOT N TOTUM #107,US-287,Dumas,TX,35.8061623,-101.9616858,"US Highway 287, Dumas, TX 79029, United States of America",us,street,1,full_match,candidate,Geoapify
+1552,STRIPES #40911,US-59 & SR-16,Freer,TX,27.8829016,-98.6006381,"US 59;TX 44, Freer, TX 78384, United States of America",us,street,0.2857142857142857,full_match,needs_review,Geoapify
+1555,SEIBERT TRAVEL PLAZA,"I-70, EXIT 405 & SR-59",Seibert,CO,39.30099,-102.8696143,"Seibert, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1560,CATTREZ,US-20 & SR-5,Irving,NY,42.564529,-79.111358,"458 Route 5 And 20, Irving, NY 14081, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+1562,I MART #108,"I-40, EXIT 108",Wildersville,TN,35.78145,-88.36032,"Wildersville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1567,KUM & GO #4110,"I-235, EXIT 11",Des Moines,IA,41.5868654,-93.6249494,"Des Moines, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1579,FLYING J TRAVEL PLAZA #924- TOWN PUMP,"I-15, EXIT 122 & I-90 MM220",Butte,MT,46.0131505,-112.536508,"Butte, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1582,LOVES TRAVEL STOP #250,I-40 EXIT 60,Amarillo,TX,35.20729,-101.8371192,"Amarillo, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1585,Stripes 7Fleet #42498,US-385 & CR-1910,Andrews,TX,32.3187158,-102.545715,"Andrews, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+159,PILOT TRAVEL CENTER #87,"I-10, EXIT 343",Jacksonville,FL,30.3262247,-81.6579179,"Jacksonville, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1590,ROAD RANGER #240,"I-80 & I-94, EXIT 15-A",Lake Station,IN,41.5750369,-87.2389246,"Lake Station, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1596,FLYING J #305,"I-40, EXIT 39",Jamestown,NM,35.480487,-108.430767,"Jamestown, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1597,7-ELEVEN #36156,"I-70 & SR-519, EXIT 25/333",Eighty Four,PA,40.1827171,-80.1331455,"Eighty Four, North Strabane Township, PA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+1599,ONVO TRAVEL PLAZA,"I-81, EXIT 10",Mc Graw,NY,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,inner_part,needs_review,Geoapify
+160,PILOT TRAVEL CENTERS #79,"I-12, EXIT 10 AT MILE 10",Denham Springs,LA,30.4868564,-90.9562125,"Denham Springs, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1602,CIRCLE K #2723387,US-98,Beaumont,MS,31.1703108,-88.9427697,"US 98, Beaumont, MS 30423, United States of America",us,street,1,full_match,candidate,Geoapify
+1606,DONNAS TRAVEL PLAZA,"I-5, EXIT 202",Marysville,WA,48.0517429,-122.1768209,"Marysville, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1610,TA BALTIMORE TRAVEL CENTER,"I-95, EXIT 57",Baltimore,MD,39.1796388,-76.6695607,"Express Exit, Glen Burnie, MD 21062, United States of America",us,street,0.48978472674974094,full_match,needs_review,Geoapify
+1618,GO MART FOOD STORE #33,US-33,Ripley,WV,38.8204151,-81.7267036,"US 33, Ripley, WV 25271, United States of America",us,street,1,full_match,candidate,Geoapify
+1621,CIRCLE K #2709337,"I-65, EXIT 262B",Birmingham,AL,33.5206824,-86.8024326,"Birmingham, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1622,RACEWAY #6973,US-380 & SR-114/SR-101,Bridgeport,TX,,,,,,,,not_found,Geoapify
+1623,SAPP BROS TRAVEL CENTER,"I-70 & I-270, EXIT 278",Commerce City,CO,39.85778,-104.91278,"Exit 10, Commerce City, CO, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+1625,PILOT TRAVEL CENTERS #60,"I-26, EXIT 159",Bowman,SC,33.3487699,-80.6828713,"Bowman, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1632,PILOT TRAVEL CENTERS #266,"I-10, EXIT 139 & SR-292",Las Cruces,NM,32.3140354,-106.779807,"Las Cruces, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1633,7-ELEVEN #36302,"I-35, EXIT 144",Von Ormy,TX,29.278779,-98.658588,"Von Ormy, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1634,PILOT TRAVEL CENTERS #40,"I-94, EXIT 322",Oak Creek,WI,42.879225,-87.914669,"Oak Creek, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+164,FLYING J TRAVEL PLAZA #650,"I-94, EXIT 15 B",Lake Station,IN,41.5750369,-87.2389246,"Lake Station, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1644,ALLSUPS CONVENIENCE STORE #2414,"I-20, EXIT 235",Roscoe,TX,32.441615,-100.539297,"Roscoe, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1646,SPEEDWAY #8310,US-6  & US-31,Plymouth,IN,41.350048,-86.321181,"Center Township, Plymouth, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1647,SPEEDWAY #8305,US-41 & SR-312,Hammond,IN,41.6173959,-87.5220108,"Hammond, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1653,ROAD RANGER #187,"I-55, EXIT 289",Chicago,IL,41.8513183,-87.620426,"Lot A Exit, Chicago, IL 60616, United States of America",us,amenity,0.81,inner_part,needs_review,Geoapify
+1654,CEFCO #3,US-77/US190/SR-36,Cameron,TX,30.858717,-96.975012,"Cameron, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1661,CHEVRON,"I-20, EXIT 101 & SR-151",Calhoun,LA,32.5126469,-92.3584744,"Calhoun, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1669,BETTY BEAVERS TRUCKSTOP,"I-90, EXIT 28",Fultonville,NY,42.9478324,-74.3701925,"Village of Fultonville, Fultonville, Glen, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+167,FLYING J TRAVEL PLAZA #653,RT 2 & I-65 EXIT 240,Hebron,IN,41.3186482,-87.2003091,"Hebron, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1670,Petro Stopping Center #54,"I-44, EXIT 4 & SR-3",Joplin,MO,37.0841838,-94.5133385,"Joplin, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1671,LOVES TRAVEL STOP #412,"I-95, EXIT 77",Dunn,NC,35.3076902,-78.6093257,"Dunn, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1672,HANA TRAVEL PLAZA,"I-40,  EXIT 77",Amarillo,TX,35.20729,-101.8371192,"Amarillo, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1699,ALLENS FOOD MART280,US-280/US-231/SR-53/SR-38 & CR-8/CR-34,Sylacauga,AL,33.170482,-86.2514099,"Sylacauga, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1700,TOPPS FUEL STOPS,US-259/SR-49,Daingerfield,TX,33.0438587,-94.7260103,"US 259;TX 49, Daingerfield, TX 75638, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+1720,TOOT N TOTUM #120,US-54 & S WESTERN AVE,Liberal,KS,37.0677056,-100.9388587,"Western Mobile Home Park, Liberal, KS, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+174,Hop-In Food Stores,US-59 & SR-224,Nacogdoches,TX,31.6037322,-94.6559702,"Nacogdoches, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1749,HIGHWAY 96 FUEL STOP,US-96 & SR-62/FM-1004,Buna,TX,30.4264179,-93.983416,"US 96, Buna, TX 77612, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+1753,PWI #169,"I-35/US-77, EXIT 359 & CR-1304",Abbott,TX,31.8899302,-97.0870831,"Abbott, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1773,M-46 AUTO TRUCK PLAZA,"US-131, EXIT 120 & SR-46",Howard City,MI,43.395583,-85.467815,"Howard City, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1791,PILOT TRAVEL CENTERS #257,"I-20, EXIT 126 & FM-1788",Midland,TX,31.9973662,-102.077948,"Midland, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1807,LOVES TRAVEL STOP #229,I-40 EXIT 96 & SR-207,Panhandle,TX,35.3454637,-101.3806571,"Panhandle, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1810,KENT KWIK #804,US-83,Perryton,TX,36.3910229,-100.8059035,"Perryton, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1829,PILOT TRAVEL CENTERS #96,"SR- 60 & FL TURNPIKE, EXIT 193",Okeechobee,FL,27.2437062,-80.8299044,"Okeechobee, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1832,CORNER FUEL CENTER,US-49,Hattiesburg,MS,31.2820831,-89.2943512,"US 49, Hattiesburg, MS 39401, United States of America",us,street,1,full_match,candidate,Geoapify
+1834,PUMP N PANTRY #15,"I-20, EXIT 617 & US-59",Marshall,TX,32.5447756,-94.3661004,"Marshall, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+184,SAPP BROS TRAVEL CENTER,"I-29 & I-80, EXIT 1B",Council Bluffs,IA,41.258841,-95.8519484,"Council Bluffs, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1849,Stripes #42457,US-67/US-277,San Angelo,TX,31.484351,-100.4131209,"Old Ballinger Highway / Old Ballinger Highway, San Angelo, TX 76905, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+1855,EXIT 76 AUTO TRUCK PLAZA,US-131,Byron Center,MI,42.7893237,-85.6682702,"US 131, Corinth, Byron Township, MI 49315, United States of America",us,street,1,full_match,candidate,Geoapify
+1858,FLYING J TRAVEL PLAZA #737,"I-10, EXIT 583",San Antonio,TX,29.4246002,-98.4951405,"San Antonio, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1859,GO MART FOOD STORE #44,"I-79, EXIT 67 & US-19/SR-4",Sutton,WV,,,,,,,,not_found,Geoapify
+186,COFFEE CUP FUEL STOP #5,"I-90, EXIT 154 & US-16",Moorcroft,WY,44.263315,-104.950252,"Moorcroft, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1860,MR FUEL #278,"I-75/71, EXIT 175 & SR-338",Walton,KY,38.8756194,-84.6102213,"Walton, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1861,PETRO STOPPING CENTER #315,"I-40, EXIT 66",Kingman,AZ,35.1895921,-114.0532996,"Kingman, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1866,PRI MART FUEL CENTER,"I-94, EXIT 29",Benton Harbor,MI,42.07917,-86.41667,"Interchange 29, Benton, MI, United States of America",us,amenity,0.81,inner_part,needs_review,Geoapify
+187,DUDLEYS CORNER,"I-35, EXIT 165 & SR-3",Latimer,IA,42.7635903,-93.3687645,"Latimer, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1873,JDS TRUCKSTOP,"US-12 & US-31, EXIT 3",Niles,MI,41.8297694,-86.2541768,"Niles, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1874,CIRCLE K #2744529,US-175,Seagoville,TX,32.660263,-96.570242,"US 175, Seagoville, TX 75159, United States of America",us,street,1,full_match,candidate,Geoapify
+1879,HOLIDAY STATIONSTORE #3552,"I-35, EXIT 81 & SR-70",Lakeville,MN,44.650051,-93.2432791,"Lakeville, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1888,STRIPES 7FLEET #42449,US-87,Sterling City,TX,31.8369062,-100.9990743,"US Highway 87 North, Sterling City, TX 76951, United States of America",us,street,0.9,full_match,candidate,Geoapify
+1889,TOOT N TOTUM #105,US-54 & US-287,Stratford,TX,36.3241175,-102.0662534,"US 287, Stratford, TX 79084, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+1893,MIKE MCDONALD TRUCK STOP,"I-20, EXIT 509",Terrell,TX,32.7359626,-96.2752569,"Terrell, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1894,CIRCLE K #2741544,"I-37 & SR-72, EXIT 69",Three Rivers,TX,28.4647614,-98.1809755,"Three Rivers, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1897,YESWAY #1077,"I-20/US-84, EXIT 278",Tye,TX,32.4545421,-99.8685101,"Tye, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1905,LUCKY TRUCK STOP,US-82,Whitesboro,TX,33.6746597,-96.8891849,"Highway 82, Whitesboro, TX 76273, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+1909,RALLYSTOP #1,"I-15, EXIT 62",Cedar City,UT,37.6774238,-113.061827,"Cedar City, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+191,KUM & GO #0302,"I-35, EXIT 193 & SR 106",Clear Lake,IA,43.1370751,-93.3813637,"Clear Lake, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1914,LOVES TRAVEL STOP #792,"I-70, EXIT 160",Green River,UT,38.9952294,-110.161725,"Green River, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+192,Brew Stuart Truckstop,"I-80, EXIT 93",Stuart,IA,41.49304,-94.3183,"Interchange 93, Stuart, IA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+1921,BELL TRUCK STOP,"I-80, EXIT 146",Park City,UT,40.6460921,-111.4979963,"Park City, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1923,SCENIC QUIK STOP,"I-70, EXIT 54 & US-89",Salina,UT,38.9562695,-111.8600482,"89 US 89, Salina, UT 84654, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+1930,CASEYS #3058,"I-35, EXIT 19 & US-160 E",Wellington,KS,37.267058,-97.421018,"US 160, Wellington, KS 67152, United States of America",us,street,0.33333333333333337,full_match,needs_review,Geoapify
+1931,RBS ONE STOP,"I-15, EXIT 320",Woods Cross,UT,40.8745737,-111.9017264,"Woods Cross, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1934,CIRCLE K #2723710,"I-77, EXIT 24",Austinville,VA,36.85123,-80.91202,"Austinville, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1936,QUICK STOP MARKET #36,"I-81, EXIT 10 & US-11",Bristol,VA,36.5959685,-82.1885009,"Bristol, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1940,7-ELEVEN #40063,"I-81, EXIT 98 & SR-100",Dublin,VA,37.1046408,-80.6850558,"Dublin, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1944,LOVES TRAVEL STOPS #399,"I-77, EXIT 1 & SR-620",Lambsburg,VA,36.5854078,-80.7611817,"Lambsburg, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+195,PETRO STOPPING CENTER #311,"I-40 & I-55, EXIT 280",West Memphis,AR,35.1464797,-90.1845388,"West Memphis, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1950,7-ELEVEN #34515,"I-81, EXIT 205",King George,VA,38.2663841,-77.1805099,"King George, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1951,CIRCLE K #2723713,"I-81, EXIT 205",Staunton,VA,38.1495947,-79.072557,"Staunton, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1953,FAS MART #3555,"I-64, EXIT 136 & US-15",Gordonsville,VA,38.1347217,-78.1865043,"Gordonsville, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1954,Joe's Kwik Mart #8409,US-58 & CR-645,Suffolk,VA,36.7281341,-76.5834683,"Suffolk, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1956,PILOT TRAVEL CENTER #4642,"I-81, EXIT 291",Toms Brook,VA,38.9464989,-78.4391741,"Toms Brook, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1958,SPEEDWAY #4618,"I-81 & I-77, EXIT 77",Wytheville,VA,36.9479966,-81.0869747,"Wytheville, VA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+1960,MAPLEWOOD IRVING,"I-89, EXIT 7",Montpelier,VT,44.2602244,-72.5750364,"Montpelier, VT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1962,SUPER QUIK,"I-64, EXIT 172 & SR-1/SR-7",Grayson,KY,,,,,,,,not_found,Geoapify
+1976,One9 #963,"I-90, EXIT 276",Spokane,WA,47.6571934,-117.42351,"Spokane, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1977,GEE CEES TRUCK STOP,"I-5, EXIT 57",Toledo,WA,46.4401007,-122.8467555,"Toledo, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+198,SINCLAIR,"I-76, EXIT 115",Atwood,CO,40.5477619,-103.2696575,"Atwood, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1983,KWIK TRIP #427,"US-53, EXIT 110 & SR-40",Bloomer,WI,45.1015011,-91.4887197,"Bloomer, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+1985,Camp Douglas BP,"I-90 & I-94, EXIT 55",Camp Douglas,WI,43.9193145,-90.2681006,"Camp Douglas, WI, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+199,PETRO STOPPING CENTER #366,"I-70, EXIT 252",Salina,KS,38.8402805,-97.6114237,"Salina, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20,PILOT TRAVEL CENTER #1243,"I-8, EXIT 119 & SR-85",Gila Bend,AZ,32.9476184,-112.7144993,"Gila Bend, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2000,RIVER CITY TRAVEL PLAZA,US-41,Marinette,WI,45.08363,-87.658534,"US 41, Marinette, WI 54143, United States of America",us,street,1,full_match,candidate,Geoapify
+20000,BIG BOYS TRUCK STOP,"I-95, EXIT 105",Kenly,NC,35.5959363,-78.1240031,"Kenly, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20003,PILOT #7976,"I-77, EXIT 42",Troutman,NC,35.7005832,-80.8882314,"Troutman, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20006,CENEX C STORE,US-52,Kenmare,ND,48.674748,-102.082664,"Kenmare, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20009,BIG SPRINGS TRUCK AND TRAVEL,"I-80, EXIT 107",Big Springs,NE,41.061381,-102.074349,"Big Springs, NE, United States of America",us,city,0,match_by_city_or_disrict,needs_review,Geoapify
+20011,CUBBYS #111,US-81,Norfolk,NE,42.036163,-97.429389,"Norfolk, NE, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20012,FLYING J TRAVEL PLAZA #686,"I-80, EXIT 432",Gretna,NE,41.095,-96.25307,"Interchange 432, Gretna, NE, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+20014,SIMONS EXIT 16,"I-89, EXIT 16",Enfield,NH,43.6446871,-72.1435861,"Enfield, NH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20019,SUNOCO,"I-295, EXIT 2C & SR-140",Penns Grove,NJ,39.7295581,-75.4679734,"Penns Grove, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2002,KWIK TRIP #222,US-53/US-2,Superior,WI,46.720612,-92.1059901,"US 2, City of Superior, WI 54880, United States of America",us,street,0.81,full_match,candidate,Geoapify
+20024,LOVES TRAVEL STOP #259,"I-10 & AIRPORT RD, EXIT 132",Las Cruces,NM,32.3140354,-106.779807,"Las Cruces, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20027,LOVES TRAVEL STOP #262,"I-40, EXIT 333",Tucumcari,NM,35.1719425,-103.72504,"Tucumcari, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20028,MORTONS TRUCK STOP,"I-15, EXIT 46",North Las Vegas,NV,36.2005191,-115.1214745,"North Las Vegas, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20031,FLYING J TRAVEL PLAZA #770,"I-80, EXIT 176",Winnemucca,NV,40.9724295,-117.734802,"Winnemucca, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20033,LOVES TRAVEL STOP #772,"I-86 & SR-17, EXIT 37",Bath,NY,42.336124,-77.316289,"Bath, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20036,SMOKIN JOES,I-90 EXIT 24,Sanborn,NY,43.136723,-78.8847611,"Sanborn, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20042,FLYING J TRAVEL PLAZA #700,I-80 & I-90 EXIT 71,Perrysburg,OH,41.5571178,-83.6279321,"Perrysburg, OH, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+20043,FRIENDSHIP FOOD MART #70,SR-2 & SR-53,Port Clinton,OH,41.5119954,-82.9376919,"Port Clinton, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20045,PILOT TRAVEL CENTERS #281,"I-80, EXIT 226",Girard,OH,41.1540381,-80.7009406,"Liberty Township, Girard, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20049,LOVES TRAVEL STOP #263,"I-44, EXIT 45 & SR-49",Lawton,OK,34.6051975,-98.3952279,"Lawton, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20050,LOVES TRAVEL STOP #260,"I-35, EXIT 106 & SR-9 W",Norman,OK,35.2225717,-97.4394816,"Norman, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20054,Jacksons Food Stores,"I-84, EXIT 261",La Grande,OR,45.3246068,-118.0878695,"La Grande, OR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20062,PILOT TRAVEL CENTERS #298,"I-80, EXIT 256 & SR-93",Drums,PA,41.018139,-75.9949252,"Drums, Butler Township, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20066,KWIK FILL #228,"I-90, EXIT 45 & US-20",North East,PA,42.2150373,-79.8358415,"North East, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20070,ONVO TRAVEL PLAZA - PROMISED LAND,"I-84, EXIT 26 & SR-390",Tafton,PA,41.404534,-75.1829535,"Tafton, Palmyra Township, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20072,PILOT TRAVEL CENTERS #310,"I-85, EXIT 63 & SR-290",Duncan,SC,34.9378962,-82.1451096,"Duncan, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20079,PETRO KINGSTON SPRINGS #349,"I-40, EXIT 188",Kingston Springs,TN,36.1020038,-87.1150054,"Kingston Springs, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20082,GOLDEN EXPRESS TRUCK STOP,US-287/US-81 & CR-1595,Alvord,TX,33.3546786,-97.7034049,"US 81;US 287, Alvord, TX 76225, United States of America",us,street,0.9,full_match,candidate,Geoapify
+20083,FLYING J TRAVEL PLAZA #724,"I-10, EXIT 0",Anthony,TX,25.907637,-97.460699,"Anthony Court, Brownsville, TX 78521, United States of America",us,street,0.5,match_by_street,needs_review,Geoapify
+20086,LOVES TRAVEL STOP #609,"I-35, EXIT 471 & US-77",Denton,TX,33.215038,-97.1330431,"Denton, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2009,KWIK TRIP #139,"I-43, EXIT 120 & CR-V/CR-OK",Sheboygan,WI,43.7508284,-87.71453,"Sheboygan, WI, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+20105,CEFCO #1050,"I-30, EXIT 146 & US-37",Mount Vernon,TX,33.1890841,-95.2214564,"Mount Vernon, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20108,TEX-BEST #501,"I-37, EXIT 125",Elmendorf,TX,29.2560731,-98.3327903,"Elmendorf, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20109,PILOT TRAVEL CENTERS #306,"I-10, EXIT 582",San Antonio,TX,29.4246002,-98.4951405,"San Antonio, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20114,CROSSROADS,"I-10, EXIT 829 & SR-124",Winnie,TX,29.8202205,-94.3840777,"Winnie, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20118,KWIK TRIP #648,"I-94, EXIT 116 & SR-54",Black River Falls,WI,44.2952152,-90.8484137,"Black River Falls, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20119,FREMONT CITGO,US-10 & SR-110,Fremont,WI,47.6192323,-122.194488,"NE 10th St & 110th Ave NE, Northeast 10th Street, Bellevue, WA 98004, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+20121,GO MART FOOD STORE #50,"I-77/I-64, EXIT 44 & SR-3",Beckley,WV,37.7781702,-81.1881557,"Beckley, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+20129,FLYING J #848- ROAD KING TRUCK,"HIGHWAY 2, EXIT 251",Calgary,AB,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,inner_part,needs_review,Geoapify
+2020,BFS FOODS #72,"I-68, EXIT 23 & SR-26",Bruceton Mills,WV,39.6589554,-79.6396445,"Bruceton Mills, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2021,GO MART FOOD STORE #59,"I-64, EXIT 15 & US-60",Huntington,WV,38.427837,-82.408518,"2625 Us 60, Huntington, WV 25702, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+2022,GO MART FOOD STORE #86,"I-79, EXIT 40 & SR-16",Ivydale,WV,47.6442986,-121.915428,"Sr 203 & NE 40th St, Tolt Avenue, Carnation, WA 98014, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+2029,HOMAX SERVICE,"I-25, EXIT 188",Mills,WY,42.841927,-106.367935,"Mills, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+203,PILOT TRAVEL CENTER #31,"I-80/94, EXIT 2",Highland,IN,41.551826,-87.461181,"North Township, Highland, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2030,GHOST TOWN FUEL STOP,US-26/US-20,Casper,WY,42.8584904,-106.3355621,"I 25;US 20;US 26;US 87 / I 25;US 20;US 26;US 87, Casper, WY 82601, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+2034,TA CHEYENNE TRAVEL CENTER,"I-80, EXIT 377 & SR-217/CR-140",Cheyenne,WY,41.1354222,-104.522701,"County Road 140, Laramie County, WY 82054, United States of America",us,street,0,full_match,needs_review,Geoapify
+2040,Fast Stop Travel Centers #1133,"I-25, EXIT 126 & US-18/20",Douglas,WY,42.7595708,-105.382624,"Douglas, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2041,PINE BLUFFS SINCLAIR,"I-80, EXIT 401 & US-30",Pine Bluffs,WY,41.179678,-104.0667789,"Pine Bluffs, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2044,One9 #1251,"I-80, EXIT 173",Wamsutter,WY,41.672931,-107.979217,"Wamsutter, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+207,MARATHON,SR-32,Sardinia,OH,39.004754,-83.80519,"Washington Township, Sardinia, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2074,STRIPES #40522,"I-10, EXIT 550",San Antonio,TX,29.4246002,-98.4951405,"San Antonio, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2076,ALLSUPS CONVENIENCE STORE #2159,US-283 BUS/US-277 BUS & SR-422,Seymour,TX,,,,,,,,not_found,Geoapify
+2078,ALLSUPS CONVENIENCE STORE #2366,US-84 & CR-3300,Slaton,TX,33.4343676,-101.643524,"Slaton, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2084,Main Street Market #112,"I-20, EXIT 73",Wickett,TX,31.568947,-103.0037,"Wickett, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2087,LWS TRUCK STOP,SR-30,Logan,UT,41.737965,-111.846011,"Logan, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2088,FLYING J TRAVEL PLAZA #773,"I-70, EXIT 40",Richfield,UT,38.7694278,-112.084706,"Richfield, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2089,FLYING J TRAVEL PLAZA #774,"I-84, EXIT 7",Snowville,UT,41.9654058,-112.710343,"Snowville, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2115,KWIK TRIP #838,SR-23/SR-33,Reedsburg,WI,,,,,,,,not_found,Geoapify
+2125,BIG D #44,"I-80, EXIT 311 & SR-130",Laramie,WY,41.3116442,-105.5917876,"Laramie, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2144,Mountain View Truck Stop,US-15,Thurmont,MD,39.6236095,-77.4115401,"Thurmont, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2152,SPEEDWAY #4709,"I-90, EXIT 102",Fairmont,MN,39.484898,-80.1426539,"Fairmont, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+216,CIRCLE K #2721593,"I-10, EXIT 50",Ocean Springs,MS,30.4112904,-88.8279165,"Ocean Springs, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2167,PILOT TRAVEL CENTERS #134,"I-94, EXIT 171 (CR 75)",Saint Cloud,MN,45.5616075,-94.1642004,"Saint Cloud, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+217,NORTH 9TH 24/7,"I-70, EXIT 252",Salina,KS,38.8402805,-97.6114237,"Salina, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2182,PILOT TRAVEL CENTER #4649,"I-64 & I-81, EXIT 205",Raphine,VA,37.9373548,-79.2328102,"Raphine, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2192,GO MART FOOD STORE #51,US-19/SR-129,Mount Nebo,WV,38.2030622,-80.8564495,"US 19, Mount Nebo, WV 26679, United States of America",us,street,1,full_match,candidate,Geoapify
+2194,A AND A TRUCKSTOP,US-35 & CR-41,Jackson,OH,39.0520169,-82.6365537,"Jackson, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2196,Certified Oil #400410,I-76 EXIT 43,Ravenna,OH,41.157557,-81.242047,"Ravenna, OH, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+2204,NATURAL BRIDGE SHELL,US-278 & SR-5,Lynn,AL,34.0470483,-87.54974,"Lynn, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2209,Roadrunner #471,"I-40/US-65, EXIT 142 & SR-365",North Little Rock,AR,34.769536,-92.2670941,"North Little Rock, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2219,PILOT TRAVEL CENTER #66,"I-85, EXIT 129",Braselton,GA,34.1092735,-83.7626729,"Braselton, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2223,PO JOS GAS N GO,"I-16 SR-404, EXIT 116 & US-301/SR-73",Register,GA,32.365927,-81.884804,"Register, GA, United States of America",us,city,0.6,full_match,needs_review,Geoapify
+2227,SPEEDWAY #7448,SR-59,Naperville,IL,41.7728699,-88.1479278,"Naperville, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2231,QUIKTRIP #605,"I-270, EXIT 33",Saint Louis,MO,38.6254063,-90.190009,"Saint Louis, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2255,S&G #36,"I-280, EXIT 2 & SR-795",Millbury,OH,41.5659599,-83.4248634,"Millbury, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2267,Circle K #4703917,"I-65, EXIT 112 & SR-25",Cross Plains,TN,36.5486597,-86.6961102,"Cross Plains, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2283,CIRCLE K #2707321,SR-60,Bartow,FL,27.9075293,-81.7999636,"SR 60, Bartow, FL 33830, United States of America",us,street,1,full_match,candidate,Geoapify
+2287,SAC SHOP #511,"I-76/I-70, EXIT 146 & I-99/US-220 EXIT 1",Bedford,PA,40.0221159,-78.5148843,"US 220, Bedford, PA 15522, United States of America",us,amenity,0.9,inner_part,needs_review,Geoapify
+2306,SCOTCHMAN #3894,"I-77, EXIT 73 & SR-901",Rock Hill,SC,34.9248667,-81.0250784,"Rock Hill, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+231,DERBY CITYS TRUCK PLAZA,"I-75, EXIT 62 & US-25",Mount Vernon,KY,37.35753,-84.353465,"25 Pittman Street, Mount Vernon, KY 40456, United States of America",us,building,0.36363636363636365,inner_part,needs_review,Geoapify
+2310,MAPCO #3686,"I-24, EXIT 175",Chattanooga,TN,35.0457219,-85.3094883,"Chattanooga, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2311,SHELL,"I-24 & EPPS MILL RD, EXIT 89",Christiana,TN,35.7187764,-86.3456179,"Epps Mill Road, Christiana, TN 37127, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+2331,PINNERS POINT,SR-135,Portsmouth,VA,36.8320081,-76.297699,"Portsmouth, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2336,FLYING J TRAVEL PLAZA #754,"I-77 & I-81, EXIT 77",Wytheville,VA,36.9479966,-81.0869747,"Wytheville, VA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+2340,RSTORE #4478,SR-8 & SR-13,Prentice,WI,45.5459408,-90.2875802,"Prentice, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+235,PILOT TRAVEL CENTERS #92,"I-75, EXIT 358",Ocala,FL,29.1871986,-82.1400923,"Ocala, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+240,LA 1 SOUTH TRUCKSTOP,"I-10, EXIT 153 & SR-1",Port Allen,LA,30.45335,-91.2100569,"Port Allen, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+243,SAVE,US-41 & SR-10,Lake Village,IN,41.1447693,-87.431326,"SR 10, Lake Village, IN 46349, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+244,BIG D TRUCK TRAVEL PLAZA,"I-10, EXIT 92 & SR-95",Duson,LA,30.2378751,-92.1801925,"Duson, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+248,Mardi Gras Truck Stop,"I-10, EXIT 236",New Orleans,LA,29.8478085,-89.9765376,"Ferry Exit - North, Belle Chasse, LA 70037, United States of America",us,street,0.4165330990745647,full_match,needs_review,Geoapify
+250,GOLDEN OX TRUCK STOP,"I-70/US-40, EXIT 159 & US-183",Hays,KS,38.8709984,-99.3311525,"Hays, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+253,LOVES TRAVEL STOP #450,"I-40, EXIT 280 & I-55, EXIT 4",West Memphis,AR,35.1464797,-90.1845388,"West Memphis, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2557,PWI #106,"I-30, EXIT 77B",Royse City,TX,32.971462,-96.330093,"Royse City, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+256,BFS FOODS #66,"I-68/US-40, EXIT 22 & US-219",Grantsville,MD,39.6991282,-79.1577212,"Grantsville, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+257,PILOT TRAVEL CENTER #917- TOWN PUMP,I-15 & 31ST STREET EXIT 277,Great Falls,MT,47.5048851,-111.29189,"Great Falls, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2602,PILOT TRAVEL CENTERS #9,"I-75, EXIT 36",Franklin,OH,39.5589474,-84.3041074,"Franklin, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2623,TA JANESVILLE TRAVEL CENTER,"I-90/I-39, EXIT 171B & US-14",Janesville,WI,42.6829765,-89.0226793,"Janesville, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2626,WEST END SINCLAIR,"I-80, EXIT 211",Rawlins,WY,41.7907878,-107.239176,"Rawlins, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2629,PILOT TRAVEL CENTERS #253,"I-295 & NJ TRNPK,  EXIT 2B",Penns Grove,NJ,39.7074,-75.4667,"Holiday Inn Express Hotel & Suites Carneys Point Nj Trnpk Exit 1, Carneys Point, NJ, United States of America",us,amenity,0.45783021470692814,inner_part,needs_review,Geoapify
+263,CASEYS #3956,I-94 EXIT 16,Bridgman,MI,41.9478823,-86.5640955,"I 94, Bridgman, MI 49106, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+2635,FLYING J #584,"I-5, EXIT 278",Aurora,OR,45.23664,-122.80579,"Interstate 5 Southbound Exit 278, Marion County, OR, United States of America",us,amenity,0.48179793477388877,inner_part,needs_review,Geoapify
+2638,PIT STOP TRAVEL CENTER,US-789,Riverton,WY,43.0553524,-108.380764,"US 26;WY 789, Riverton, WY 82501, United States of America",us,street,0.9,full_match,candidate,Geoapify
+2640,LITTLE NASHVILLE,"I-64, EXIT 50 & SR-127",Nashville,IL,38.3434906,-89.3809783,"Nashville Township, Nashville, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2644,FREDERICKS TRAVEL CENTER,"I-25/US-87, EXIT 235 & SR-52",Erie,CO,40.0502623,-105.049981,"Erie, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+267,CORNER MARKET #117,SR-154 & SR-129,Dodge City,KS,37.7527982,-100.0170787,"Dodge City, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+269,PILOT TRAVEL CENTERS #24,"I-75, EXIT 15",Monroe,MI,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,full_match,needs_review,Geoapify
+2756,PAR MAR FOOD STORE #89,"I-77/SR-2, EXIT 170 & SR-14 E",Mineral Wells,WV,39.1904082,-81.5320773,"Mineral Wells, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2761,PONY EXPRESS SERVICE CENTER,US-36 & SR-148,Hanover,KS,39.893892,-96.87947,"Hanover, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2764,LOVES TRAVEL STOP #046,US-64/54 & SR-94,Hooker,OK,36.8609639,-101.214077,"Hooker, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2765,LOVES TRAVEL STOP #023,US-50 & US-287,Lamar,CO,38.0871338,-102.6192251,"287 US 287, Lamar, CO 81052, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+2772,PILOT TRAVEL CENTERS #29,"I- 80, EXIT 144; I-69, EXIT 357",Fremont,IN,41.7308834,-84.9327395,"Fremont, IN, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+2779,Stinker #121,I-84 & EXIT 208,Heyburn,ID,42.5585202,-113.763904,"Heyburn, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+278,CARLISLE PLAZA,US-41,Carlisle,IN,38.92838,-87.419589,"Old South US Hwy 41, Carlisle, IN 47850, United States of America",us,street,0.81,full_match,candidate,Geoapify
+2788,JIFFY MART #451,"I-91, EXIT 17 & SR-302",Wells River,VT,44.1542997,-72.0471635,"Wells River, Newbury, VT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+28,LITTLEFIELD EXPRESS #2,"I-540, EXIT 12 & US-71",Fort Smith,AR,35.2955457,-94.3855717,"Moka Joe's Coffee, 9207 US 71, Fort Smith, AR 72916, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+2805,Fast Stop Travel Centers #1145,"I-15,  EXIT 31",Downey,ID,42.4285297,-112.124407,"Downey, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2807,SUDDEN SERVICE #25,"I-24, EXIT 11",Clarksville,TN,36.525005,-87.217205,"CLARKSVILLE EXIT 11 P&R, TN 76, Clarksville, TN 37010, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+281,CIRCLE K #4700065,"I-65, EXIT 76 & US-31",Taylorsville,IN,39.296138,-85.957646,"10080 US 31, Taylorsville, IN 47280, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+2811,KWIK FILL #22,"I-90, EXIT 40 & SR-34/SR-31",Weedsport,NY,43.0559475,-76.5480079,"State Route 31, North Weedsport, Brutus, NY 13166, United States of America",us,street,0,full_match,needs_review,Geoapify
+2817,Chevron #382354,"I-5/US-12, EXIT 72",Chehalis,WA,46.6599653,-122.963432,"Chehalis, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2848,TA TONOPAH TRAVEL CENTER,"I-10, EXIT 103",Tonopah,AZ,33.4938042,-112.936905,"Tonopah, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2851,SPEEDWAY #2958,"I-8, EXIT 12",Yuma,AZ,32.7210307,-114.6203217,"Yuma, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2862,TA TALLULAH TRAVEL CENTER,"I-20, EXIT 171 & US-65",Tallulah,LA,32.4084539,-91.1869112,"Tallulah, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2864,KUM & GO #0493,I-49 BUS/SR-59,Neosho,MO,36.8805019,-94.4267875,"I 49 Bus;MO 86, Neosho, MO 64850, United States of America",us,street,0,full_match,needs_review,Geoapify
+2875,CIRCLE K #2744138,"I-25, EXIT 101 & US-50/SR-47",Pueblo,CO,,,,,,,,not_found,Geoapify
+2883,PILOT TRAVEL CENTER #293,"I-75, EXIT 341 & CR-484",Ocala,FL,29.1871986,-82.1400923,"Ocala, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2885,SP Truckstop & Travel Center,US-84/SR-38,Bainbridge,GA,30.9031171,-84.5408458,"US 84;GA 38, Bainbridge, GA 31717, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+2889,MOULTON COWBOYS,SR-157,Moulton,AL,34.4817816,-87.2919449,"Moulton, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+289,LOVES TRAVEL STOP #173,"I-70, MM 209",Lawrence,KS,38.9719137,-95.2359403,"Lawrence, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2891,PETRO STOPPING CENTER #338,"I-80, EXIT 21",Sparks,NV,39.55373,-119.741624,"21 Rexford Court, Sparks, NV 89431, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+2895,EAGLE TRUCK STOP,I-77 EXIT 81,New Philadelphia,OH,40.4897871,-81.4456706,"New Philadelphia, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2896,NORTH LEWISTON DYNAMART,US-12 & SR 128,Lewiston,ID,46.4195913,-117.0216144,"Lewiston, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2897,GAS N GO #15,"I-80, EXIT 41",Lyman,WY,41.327394,-110.297477,"Lyman, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2910,FLYING J TRAVEL PLAZA #685,"I-29 & I- 94, EXIT 349",Fargo,ND,46.877229,-96.789821,"Fargo, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2913,ONE9#226,"I-40, EXIT 417 & SR-92",Dandridge,TN,36.0153693,-83.4148895,"Dandridge, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2915,TP TRUCK STOP,"I-15, EXIT 80",Fort Hall,ID,43.0332482,-112.4383131,"Fort Hall, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2917,GOLDYS TRUCK PLAZA,US-29,Rustburg,VA,37.2768113,-79.1008543,"Rustburg, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+292,PETES #56,US-169 & CR-5000,Cherryvale,KS,37.2665236,-95.5268789,"CR 5000, Cherryvale, KS 67335, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+2922,LOVES TRAVEL STOP #210,"I-40, EXIT 158",Albuquerque,NM,35.0841034,-106.650985,"Albuquerque, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2923,LOVES TRAVEL STOP #435,"I-95, EXIT 104 & SR-207",Ruther Glen,VA,37.9408753,-77.4618647,"Ruther Glen, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2924,HWY 190 FUEL STOP,US-190,Jasper,TX,30.8993883,-94.0310762,"US 190, Jasper, TX 75951, United States of America",us,street,1,full_match,candidate,Geoapify
+2926,EXIT 77 TRAVEL PLAZA,"I-81, EXIT 77 & SR-39",Harrisburg,PA,40.2663107,-76.8861122,"Harrisburg, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2929,TA EXPRESS STEELE,"I-94, EXIT 200 & SR- 3",Steele,ND,46.8547446,-99.9155172,"Steele, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+293,LOVES TRAVEL STOP #176,"I-35, MILE MARKER 97",Matfield Green,KS,38.1591843,-96.5605664,"Matfield Green, KS, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+2935,CIRCLE K #2726163,"I-295, EXIT 22",Jacksonville,FL,30.3262247,-81.6579179,"Jacksonville, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2937,FLYING J TRAVEL PLAZA #664,"I-75, EXIT 171",Walton,KY,38.8756194,-84.6102213,"Walton, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2956,PILOT TRAVEL CENTERS #275,"I-85, EXIT 39 I-77, EXIT 13",Charlotte,NC,35.2272086,-80.8430827,"Charlotte, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2963,SUPERPUMPER #26,"I-94, EXIT 258 & US-281",Jamestown,ND,46.88838,-98.718889,"US 281, Jamestown, ND 58401, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+2967,PETRO STOPPING CENTER #317,"I-57, EXIT 71",Perrysburg,OH,41.5571178,-83.6279321,"Perrysburg, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2968,E-Z MART #4460,"I-20,  EXIT 124",Monroe,LA,32.5025471,-92.116219,"Monroe, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2977,DISCOUNT FUEL,"I-90, EXIT 150 & SR-73",Kadoka,SD,43.833882,-101.509866,"Kadoka, SD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+2982,CIRCLE K #2723726,"I-59/I-20, EXIT 52 & US-11/US-43/SR-7",Knoxville,AL,40.414034,-79.993094,"Knoxville, Pittsburgh, PA, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3003,CHEVRON,"I-20, EXIT 186",Delta,LA,32.3207,-90.96177,"Interchange 186, Delta, LA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3008,BUSY BEE,"I-10, EXIT 283 & US-129",Live Oak,FL,30.312476,-82.973444,"1720 Us Hwy 129, Live Oak, FL 32064, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+3022,TA GREENCASTLE TRAVEL CENTER,"I-81, EXIT 5",Greencastle,PA,39.790371,-77.7277714,"Greencastle, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3030,Mr Ts Riverside,US-412,Cardwell,MO,36.0391468,-90.2962776,"US 412, Cardwell, MO 63829, United States of America",us,street,1,full_match,candidate,Geoapify
+304,FL Roberts,"I-91, EXIT 4",Springfield,MA,42.1018764,-72.5886727,"Springfield, MA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3064,PORTS TO PLAINS TRAVEL PLAZA,US-50 & US-287,Lamar,CO,38.0871338,-102.6192251,"287 US 287, Lamar, CO 81052, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+3086,SPEEDWAY #4638,US-29,Madison Heights,VA,37.46611,-79.119099,"US 29 BUS, Madison Heights, VA 24572, United States of America",us,street,0.9,full_match,candidate,Geoapify
+309,QUIKTRIP #231,"I-635, EXIT 3",Kansas City,KS,39.1134562,-94.626497,"Kansas City, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3093,RSTORE #4488,US-51,Merrill,WI,45.249155,-89.680898,"US 51, Merrill, WI 54452, United States of America",us,street,1,full_match,candidate,Geoapify
+3096,HOBO PANTRY #6,US-431/SR-210,Dothan,AL,31.2044872,-85.3660585,"Ross Clark Circle, Dothan, AL 36301, United States of America",us,street,0,full_match,needs_review,Geoapify
+3118,MOBIL,"I-87, EXIT 42 & US-11",Champlain,NY,44.9987957,-73.366384,"11 US 11, Champlain, NY 12979, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+3128,TA ATLANTA SOUTH TRAVEL CENTER,"I-75, EXIT 201 & SR-36",Jackson,GA,33.2945651,-83.9660209,"Jackson, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3138,TA EXPRESS #6264,"I-70, EXIT 26 & US-50",Grand Junction,CO,39.0352833,-108.5297642,"Grand Junction KOA Holiday, 2819 US 50, Grand Junction, CO 81503, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+3139,CHEROKEE TRAVEL MART,"I-40,  EXIT 108",Calumet,OK,35.6008883,-98.1188072,"Calumet, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3148,YESWAY #1038,US-60 & SR-86,Neosho,MO,36.8407968,-94.4060114,"US 60, Neosho, MO 64850, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+3155,QUIK MART #18,US-72/SR-157,Tuscumbia,AL,34.7162311,-87.6679631,"US 43;US 72;AL 13;AL 17;AL 20, Tuscumbia, AL 03564, United States of America",us,street,0,full_match,needs_review,Geoapify
+3163,QUIKTRIP #71,"I-44, EXIT 238",Tulsa,OK,36.1563122,-95.9927516,"Tulsa, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3164,QUIKTRIP #102,"I-44, EXIT 222A",Tulsa,OK,36.1563122,-95.9927516,"Tulsa, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3165,LOVES TRAVEL STOP #213,"I-35, EXIT 211",Tonkawa,OK,36.6783679,-97.3100442,"Tonkawa, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3167,JASPER FOOD MART,US-78,Jasper,AL,33.8424926,-87.3338139,"I 22;US 78, Jasper, AL 35502, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+3171,One9 #265,"I-40, EXIT 287 & SR-136",Cookeville,TN,36.1623886,-85.4997057,"Cookeville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3176,BP,US-6 & SR-15,New Paris,IN,41.5121957,-85.8319105,"SR 15, New Paris, IN 46553, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+3178,ERNIES FUEL STOP #1605,SR-167,Kent,WA,47.438426,-122.218207,"SR 167 - HOT Lanes, Kent, WA 98032, United States of America",us,street,0.81,full_match,candidate,Geoapify
+3179,MR FUEL #1020,"I-80 & I-94, EXIT 15B",Lake Station,IN,41.5750369,-87.2389246,"Lake Station, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3191,BUSY CORNER TRUCK STOP AND MARKET,"I-24, EXIT 105 & US-41/SR-2",Manchester,TN,35.417543,-86.0165274,"Wattendorf Memorial Hwy, Coffee County, TN 37342, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+3205,CROSSROADS TRUCK STOP STATION,"I-29 & SR 34, MM 109",Colman,SD,43.978883,-96.8137,"109 Se 3rd, Colman, SD 57017, United States of America",us,building,0,inner_part,needs_review,Geoapify
+3206,PERHAM OASIS,US-10 & SR-78,Perham,MN,46.5888309,-95.5919868,"US 10, Perham, MN 56573, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+3215,SHELL TRUCKSTOP,"I-4, EXIT 44",Polk City,FL,28.1825147,-81.8239676,"Polk City, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3216,MAXS #124,"I-24, EXIT 86 & US-41",Oak Grove,KY,36.6650471,-87.4427878,"Oak Grove, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3221,Pilot #1440,"US-67, EXIT 55 & US-64/US-167 & SR-367",Bald Knob,AR,,,,,,,,not_found,Geoapify
+3222,POMPANO TRUCK STOP,"I-95, EXIT 36B",Pompano Beach,FL,26.23127,-80.13654,"Interchange 36A and 36B, Pompano Beach, FL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3226,ONE9 #245,"I-81, EXIT 77 & SR-39",Harrisburg,PA,40.2663107,-76.8861122,"Harrisburg, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3227,ONE9 MR FUEL #64,"I-26 & US-17, EXIT 199",Summerville,SC,33.012176,-80.182766,"Summerville, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+323,SAPP BROS TRAVEL CENTER,"I-80, EXIT 126",Ogallala,NE,41.11527,-101.71573,"Interchange 126, Ogallala, NE, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3230,STRIPES #40815,US-281 & US-285,Falfurrias,TX,27.2725266,-98.1354294,"Danny’s Wooden Inspirations, 17315 US 281, Falfurrias, TX 78355, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+326,FLYING J TRAVEL PLAZA #748,"I-15, EXIT 357",Willard,UT,41.4085496,-112.03819,"Willard, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3264,TA WEST MEMPHIS TRAVEL CENTER,"I-40/US-63, EXIT 260 & SR-149",Earle,AR,35.270644,-90.4657018,"Earle, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3280,OUTPOST TRUCK STOP,US-85 & US-18/US-20,Lusk,WY,42.7553297,-104.4518377,"West 8th Street / South Main Street, Lusk, WY 82225, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+3281,AMERICAN TRUCK PLAZA,I-80 EXIT 215 & SR-254,Milton,PA,41.0177269,-76.853084,"Milton, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3284,CASEYS #4390,"I-49/US-71, EXIT 77 & US-160",Lamar,MO,37.4950527,-94.2768736,"Lamar, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3297,SAPP BROS TRAVEL CENTER,"I-80, EXIT 370",Cheyenne,WY,41.12049,-104.788042,"370 Bristol Drive, Cheyenne, WY 82007, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+3316,TRUCKOMAT OF N LITTLE ROCK,"I-40, EXIT 161 & SR-391",North Little Rock,AR,34.769536,-92.2670941,"North Little Rock, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3326,MIRABITO #61,"I-81, EXIT 32",Central Square,NY,43.2870009,-76.1463601,"Village of Central Square, Town of Hastings, Central Square, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3330,TA # 211 GREENLAND TRAVEL CENTER,"I-95, EXIT 3A & US-101",Greenland,NH,43.0361995,-70.8328322,"Greenland, NH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3349,QUEEN CITY TRUCK STOP,"I-20 & I-59, EXIT150",Meridian,MS,32.36736,-88.67474,"Holiday Inn Meridian E I 20 I 59, Meridian, MS EXIT150, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3383,E-Express at Central Truck Stop,"I-35, EXIT 137",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3386,LONGMONT TRUCK STOP,"I-25/US-87, EXIT 240 & SR-119",Longmont,CO,40.1672117,-105.101928,"Longmont, CO, Boulder County, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3401,POPS Mart #333,"I-77, EXIT 48 & SR-200",Winnsboro,SC,34.3807012,-81.0864776,"Winnsboro, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+341,TA JACKSONVILLE SOUTH TRAVEL CENTER,"I-95, EXIT 329",Saint Johns,FL,29.913888,-81.41394,"St. Johns County, FL, United States of America",us,county,0.25,match_by_country_or_state,needs_review,Geoapify
+3413,COUNTRY GIRL TRUCK STOP,US-167 & SR-156,Winnfield,LA,31.925228,-92.63994,"Winnfield, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3415,JAYS EL CHEAPO FUEL STOP,"I-16, EXIT 104",Metter,GA,32.397118,-82.0601196,"Metter, GA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+3418,Par Mar Store #164,"I-79, EXIT 105 & CR-7",Jane Lew,WV,39.1098747,-80.4067987,"Jane Lew, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3421,ERNIES TRUCK STOP,"I-5, EXIT 142",Federal Way,WA,47.306433,-122.336834,"Federal Way, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3422,PWI #167,"I-10, EXIT 601",Seguin,TX,29.5688411,-97.9647269,"Seguin, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3427,JOHNNYS MARKET,"I-69, EXIT 357",Fremont,IN,41.7308834,-84.9327395,"Fremont, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3432,PILOT TRAVEL CENTER #34,"I-65, EXIT 201 & US-231",Remington,IN,40.7608729,-87.1508522,"Remington, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3435,PWI #168,"I-35, EXIT 266 & SR-195",Georgetown,TX,30.6370152,-97.6775634,"Georgetown, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3444,Acme Truck Stop,US-441/SR-500,Orlando,FL,28.5649534,-81.4005724,"North Orange Blossom Trail, Orlando, FL 32804, United States of America",us,street,0,full_match,needs_review,Geoapify
+3460,CHROME TRUCK STOP,US-18 & US-169,Algona,IA,43.0768822,-94.2352219,"US Highway 169, Algona, IA 50511, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+3464,BOISE PETROLEUM LLC,"I-84,  EXIT 71",Boise,ID,43.6166163,-116.200886,"Boise, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+347,7-ELEVEN #40514,I-90/80-IN TOLL RD MM 22E,Portage,IN,41.5849731,-87.2945815,"Indiana Toll Road, Gary, IN 46401, United States of America",us,street,0,full_match,needs_review,Geoapify
+3471,MR FUEL DBA ONE9 #72,"I-16, EXIT 160",Savannah,GA,32.00465,-81.28345,"Exit 16, Savannah, GA, United States of America",us,amenity,0.5,inner_part,needs_review,Geoapify
+3475,PILOT TRAVEL CENTERS #56,"I-85, EXIT 63",Kannapolis,NC,35.4979605,-80.6240008,"Kannapolis, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3477,CIRCLE K #4707404,"I-91, EXIT 7",Springfield,VT,43.287122,-72.475565,"Springfield, VT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3479,FAST MARKET #4550,"I-75/SR-401, EXIT 136 & US-341",Perry,GA,32.4586695,-83.7319658,"Perry, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3493,CIRCLE K #2723675,"I-75, EXIT 290 & SR-20",Cartersville,GA,34.1652304,-84.7997613,"Cartersville, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+35,ACI TRUCK STOP,US-46,Columbia,NJ,40.9173036,-75.0822779,"US 46, Columbia, Knowlton Township, NJ 18351, United States of America",us,street,1,full_match,candidate,Geoapify
+3519,PILOT TRAVEL CENTERS #431,"I-10, EXIT 873",Orange,TX,30.0929879,-93.7365549,"Orange, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3522,SUNMART #308,US-59,Livingston,TX,30.7244895,-94.9449846,"US 59, Livingston, TX 77351, United States of America",us,street,1,full_match,candidate,Geoapify
+3526,JOE STOP 99,"I-75, EXIT 99 & SR-119",Anna,OH,40.3948773,-84.1729332,"Anna, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3530,SPARKYS ONE STOP #22,"I-35, EXIT 111B & US-30",Jefferson,IA,42.016055,-94.3741093,"Jefferson, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3536,PETRO STOPPING CENTER #307,I-40 EAST & S LAKESIDE Dr,Amarillo,TX,35.1929313,-101.7990718,"East I-40 & Seminole St, Gore Avenue/East Interstate Drive, Amarillo, TX 79104, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3539,Bigs 211,"I-10, EXIT 620 & SR-123",Seguin,TX,29.5688411,-97.9647269,"Seguin, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3545,STOCKMENS TRUCK PLAZA,"I-494, EXIT 64A",South Saint Paul,MN,44.88046,-93.02438,"Interchange 64A, Battle Creek, South St. Paul, MN, United States of America",us,amenity,0.5,inner_part,needs_review,Geoapify
+358,TA BINGHAMTON TRAVELCENTER,"I-81N, EXIT 2W & I-81S, EXIT 3",Binghamton,NY,42.098698,-75.9125187,"City of Binghamton, Binghamton, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3580,STINKER I 80 TRAVEL PLAZA,"I-80, EXIT 221 & SR-76",Sinclair,WY,41.7791754,-107.1162507,"Sinclair, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3585,CHEVRON,"I-80, EXIT 129",Lovelock,NV,40.1801273,-118.4747268,"Lovelock, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3588,BINGO TRUCK STOP,"I-10, EXIT 829 & SR-124",Winnie,TX,29.8202205,-94.3840777,"Winnie, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3592,TA BRIDGER TRAVEL CENTER #188,"I-80, EXIT 30 & CR-202",Fort Bridger,WY,41.3168326,-110.384961,"Fort Bridger, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3593,TA Parowan Travel Center,"I-15, EXIT 78",Parowan,UT,37.8421975,-112.8279996,"Parowan, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+36,SHENANDOAH TRUCK CENTER,"I-81, EXIT 273 & SR-703/SR-292",Mount Jackson,VA,,,,,,,,not_found,Geoapify
+3605,SPEEDYS #6,"I-35, EXIT 33",Saint Joseph,MO,39.7686055,-94.8466322,"Saint Joseph, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3608,FUEL MART #787,"I-57, EXIT 212 & US-36",Tuscola,IL,39.7998585,-88.2884552,"Tuscola, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+361,CIRCLE K #2726293,"I-295, EXIT 25",Jacksonville,FL,30.3262247,-81.6579179,"Jacksonville, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3614,PILOT TRAVEL CENTERS #35,"I-80/90, EXIT 72 & US-31",South Bend,IN,41.6833813,-86.2500066,"South Bend, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3616,PILOT TRAVEL CENTERS #15,"I-75, EXIT 210",Toledo,OH,41.6529143,-83.5378173,"Toledo, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3619,ROAD RANGER #141,"I-70, EXIT 23",Brazil,IN,39.523652,-87.1250154,"Brazil, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3620,One9 #16,"I-71 & US-68, EXIT 50",Wilmington,OH,39.4453393,-83.8285375,"Wilmington, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3645,SNOW SHOE TRAVEL PLAZA,"I-80, EXIT 147 & SR-144",Snow Shoe,PA,41.0308914,-77.9494489,"Snow Shoe, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3678,TIMES MARKET #299,US-281 BUS,Alice,TX,27.746829,-98.084154,"US 281 Business, Alice, TX 78332, United States of America",us,street,1,full_match,candidate,Geoapify
+368,WILTON TRAVEL PLAZA,"I-87, EXIT 16",Gansevoort,NY,43.1962051,-73.6513967,"Gansevoort, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3688,SPEEDWAY #2314,"I-94, EXIT 243 & SR-29",New Baltimore,MI,42.6811436,-82.7368616,"New Baltimore, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3692,CHARLOTTE TRAVEL PLAZA,"I-77,  EXIT 16B",Charlotte,NC,35.2272086,-80.8430827,"Charlotte, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3699,WARREN TRAVEL PLAZA,"I-69, EXIT 278 & SR-5",Warren,IN,40.6828226,-85.4271953,"Warren, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3702,BEARS DEN TRADING POST #101,ST 37 11 MI E OF MASSENA,Hogansburg,NY,44.9739364,-74.6632416,"Hogansburg, Bombay, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3707,SPEEDWAY #4704,"I-90, EXIT 154",Albert Lea,MN,43.6480127,-93.3682656,"Albert Lea, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3718,SPEEDWAY #4706,"I-90, EXIT 265",Chamberlain,SD,43.77093,-99.31243,"Interchange 265, Chamberlain, SD, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+3719,KEYSTONE TRUCK STOP,US-22 & SR-164,Loretto,PA,40.5029161,-78.6314019,"Loretto, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+372,GAS DEPOT,"I-94, EXIT 5",Hammond,IN,41.6173959,-87.5220108,"Hammond, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3725,GENEVA TRUCK STOP,"I-79, EXIT 35/141",Cochranton,PA,41.5200534,-80.0483929,"Cochranton, PA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+3728,PLAZA 23 TRUCK STOP,"I-787, EXIT 2",Albany,NY,42.6511674,-73.754968,"City of Albany, Albany, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3737,JORDAN'S KWIK STOP #70,US-49,West Helena,AR,34.5544841,-90.6612883,"US 49, West Helena, AR 72390, United States of America",us,street,1,full_match,candidate,Geoapify
+3745,PILOT TRAVEL CENTER #906-TOWN PUMP,"I-90, EXIT 408 & SR-78",Columbus,MT,45.6366114,-109.252154,"Columbus, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3759,EXXON,US-67 & SR-18,Newport,AR,35.6067154,-91.2830334,"Newport, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3767,SIMMONS TRAVEL CENTER,"I-95, EXIT 8 & US-301",Emporia,VA,36.6859828,-77.5424808,"Emporia, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3772,Brake Time Corner Market,"I-25, EXIT 240",Burlington,CO,39.3046827,-102.2680065,"Burlington, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3774,SINCLAIR,"I-70, EXIT 438",Burlington,CO,39.3046827,-102.2680065,"Burlington, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3781,REATTA TRAVEL STOP,"I-76, EXIT 149 & SR-55/CR-81",Crook,CO,40.8593443,-102.8052187,"1st Street, Crook, CO 80726, United States of America",us,street,0,full_match,needs_review,Geoapify
+3783,CIRCLE K #2744095,"I-25, EXIT 215",Denver,CO,39.6660361,-104.8673054,"Exit, Denver, CO 80231, United States of America",us,street,1,full_match,candidate,Geoapify
+3794,SPEEDWAY #4701,"I-90, EXIT 73",Jackson,MN,43.64024,-94.99471,"Interchange 73, Jackson, MN, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+381,7-Eleven #41830,US-69 & US-135,Jacksonville,TX,32.02937,-95.279687,"43822 US 69, Jacksonville, TX 75766, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+3817,FAST MARKET,"I-25, EXIT 158",Colorado Springs,CO,38.7922967,-104.7028483,"Exit Road, Colorado Springs, CO 80929, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+3843,ONCUE EXPRESS #61,"I-35, EXIT 185 & US-77",Perry,OK,36.2907352,-97.288396,"Perry, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3868,SHORE STOP #279,US-13,Greenwood,DE,38.75649,-75.594211,"US 13 Business, Sussex County, DE 19933, United States of America",us,street,0.5793963705338542,full_match,needs_review,Geoapify
+387,Circle K #2709664,"I-8, EXIT 12",Yuma,AZ,32.7210307,-114.6203217,"Yuma, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+388,Pilot Travel Centers #14,"I-71, EXIT 131",Sunbury,OH,40.2425623,-82.8590673,"Sunbury, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3888,Fics Plaza,"I-90, EXIT 184",Deer Lodge,MT,46.41159,-112.72309,"Interchange 184, Powell County, MT, United States of America",us,amenity,0.46614467419824557,inner_part,needs_review,Geoapify
+3889,CIRCLE K #2701686,"I-75, EXIT 220",Bradenton,FL,27.4989278,-82.5748194,"Bradenton, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3907,SUNOCO,US-46 & SR-93,Palisades Park,NJ,40.8423368,-74.0005015,"US 46, Palisades Park, NJ 07650, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+3908,SEMINOLE TRUCK STOP,"I-75, EXIT 354",Fort Lauderdale,FL,26.1223084,-80.1433786,"Fort Lauderdale, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+391,PILOT TRAVEL CENTERS #13,"I-71, EXIT 209",Seville,OH,41.010077,-81.8622222,"Seville, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3927,MICCOSUKEE SERVICE PLAZA,"I-75, EXIT 49 & SR-84",Fort Lauderdale,FL,26.1223084,-80.1433786,"Fort Lauderdale, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3936,Uncle Petes Truck  Stop,"I-40, EXIT 239 & US-70/SR-26",Lebanon,TN,,,,,,,,not_found,Geoapify
+3946,Fast Lane,US-24 & US-63,Moberly,MO,39.4596817,-92.4348757,"US 63, Moberly, MO 65270, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+3949,SUNSTOP #337,"I-10/SR-8, EXIT 303 & US-441",Lake City,FL,30.1843829,-82.6370585,"441 US 441, Lake City, FL 32025, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+3956,CIRCLE K #2707451,US-27/SR-25 & SR-70,Lake Placid,FL,27.3121832,-81.3590344,"US 27, Lake Placid, FL 33852, United States of America",us,street,1,full_match,candidate,Geoapify
+3964,SPEEDWAY #6604,"I-94, EXIT 66",Mattawan,MI,42.2094839,-85.784453,"Mattawan, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3970,EXXON - Pilot #1293,"I-30, EXIT 61",Garland,TX,32.912624,-96.6388833,"Garland, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3973,LOVES TRAVEL STOP #205,"I-35 & I-44, EXIT 137",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3974,LOVES TRAVEL STOP #201,I-40 EXIT 41,Elk City,OK,35.4140081,-99.4138648,"Elk City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3975,SUNSTOP #334,"I-10, EXIT 335 & SR-121",Macclenny,FL,30.2821807,-82.1220569,"Macclenny, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+3979,PETRO GARY 369,"I-80 & I-94, EXIT 9",Gary,IN,41.6020962,-87.3370646,"Gary, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4006,MISSILE MART #1,US-167 & SR-7,El Dorado,AR,33.2319551,-92.6313855,"US 167;AR 7, El Dorado, AR 71730, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+4008,BALDWIN TRAVEL PLAZA,"I-94, EXIT 19 & US HWY 63",Baldwin,WI,44.9667546,-92.3732461,"Village of Baldwin, Baldwin, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4025,BP,"I-85, EXIT 21  & US-178",Anderson,SC,34.5068601,-82.6506264,"Anderson, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+403,TRUCKOMAT OF HEBRON,"I-70, EXIT 126 & SR-37",Hebron,OH,39.9617305,-82.4912676,"Hebron, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4035,PILOT TRAVEL CENTER #430,"I-40,  EXIT 84",Russellville,AR,35.2784173,-93.1337856,"Russellville, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4062,DUDLEYS TRUCK STOP RESTAURANT,US-220,Rocky Mount,VA,37.023618,-79.882589,"US 220 BUS, Rocky Mount, VA 24151, United States of America",us,street,0.9,full_match,candidate,Geoapify
+4063,STUCKEY'S,"I-59, EXIT 67 & US-49",Hattiesburg,MS,31.308563,-89.321099,"5901 US 49, Hattiesburg, MS 39402, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+407,FUEL MART #641,"I-80 & I-280, EXIT 71",Perrysburg,OH,41.5571178,-83.6279321,"Perrysburg, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4080,SHELL DBA PILOT DEALER #874,US-41,Miami,FL,25.7741566,-80.1935973,"Miami, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4101,E-Z MART #4411,HIGHWAY 69 & COBBLESTONE DR,Pryor,OK,36.2915651,-95.3147277,"Cobblestone Court, Pryor Creek, OK 74361, United States of America",us,street,0.30000000000000004,full_match,needs_review,Geoapify
+4113,ASAP GENERAL STORE #330,US-412/SR-15,Enid,OK,36.3971047,-97.8244755,"East Owen K. Garriott Road, Enid, OK 73701, United States of America",us,street,0,full_match,needs_review,Geoapify
+4115,QUIKTRIP #707,"I-85 , EXIT 96",Atlanta,GA,33.7544657,-84.3898151,"Atlanta, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4119,JET FOOD STORE #82,US-441 & CR-13,Douglas,GA,31.5088073,-82.8498654,"Douglas, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4156,PETRO STOPPING CENTER #305,"I-10, EXIT 582",San Antonio,TX,29.4246002,-98.4951405,"San Antonio, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4161,EL CHEAPO,I-95 & EXIT 76,Midway,GA,41.474347,-73.643598,"I-84 Exit 61 Park & Ride, Route 311 and Ludingtonville Road, Patterson, NY 12563, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+4164,CIRCLE K #2723897,"I-75, EXIT 138",Thomasville,GA,30.840007,-83.978242,"Thomasville, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4169,TA KINGMAN TRAVEL CENTER,"I-40, EXIT 48 & US-93",Kingman,AZ,35.1895921,-114.0532996,"Kingman, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4171,PETRO SERVE USA #11,US-2 & US-71,Bemidji,MN,47.5005383,-94.9101167,"US 71, Bemidji, MN 56601, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+4172,FLYING J TRAVEL PLAZA #639,"I-90, EXIT 2",Post Falls,ID,47.7110106,-116.9480877,"Post Falls, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4179,CIRCLE K #2705352,"I-95/SR-405, EXIT 109 & SR-30/SR-21",Port Wentworth,GA,32.1270614,-81.1499337,"Chassis Yard Exit, Georgia Ports Authority - Garden City Terminal, GA 31408, United States of America",us,street,0,full_match,needs_review,Geoapify
+4187,FLYING J TRAVEL PLAZA #632,"I-75, EXIT 320",Resaca,GA,34.580459,-84.942637,"Resaca, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4193,TIGER MART #63,"I-20, EXIT 454",Grand Prairie,TX,32.589165,-96.935231,"454 Whitley Street, Grand Prairie, TX 75104, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+4199,PWI #574,"I-70, EXIT 193/US-40",Bunker Hill,KS,38.8759185,-98.8068789,"Old US 40 Highway, Russell, KS 67665, United States of America",us,street,0.2571428571428571,full_match,needs_review,Geoapify
+4204,PILOT TRAVEL CENTERS #415,"I-59, EXIT 4",Rising Fawn,GA,34.7600791,-85.531076,"Rising Fawn, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+421,PETRO STOPPING CENTER #316,"I-40 & I-35, EXIT 127",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4211,FLYING J #513,"I-15, EXIT 1",Jean,NV,35.7788568,-115.3243823,"Jean, NV, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+4220,KENNETT TRUCK STOP,"I-275, EXIT 16",Lawrenceburg,IN,39.090891,-84.8499504,"Lawrenceburg, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4222,Circle K #4703906,"I-24, EXIT 24 & SR-49",Pleasant View,TN,36.3942164,-87.0366685,"Pleasant View, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4223,TA PEMBROKE TRAVEL CENTER,"I-90, EXIT 48A",Corfu,NY,42.9600595,-78.4055767,"Village of Corfu, Corfu, Pembroke, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4227,LOVES TRAVEL STOP #203,"I-40, EXIT 140",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4233,QUIKTRIP #7220,"I-20, EXIT 8",Shreveport,LA,32.5135356,-93.7477839,"Shreveport, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4239,SPEEDWAY #8256,"I-64, EXIT 94 & SR-1958 & US-60",Winchester,KY,37.990079,-84.1796503,"Winchester, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+424,E EXPRESS,"I-40, EXIT 166",Choctaw,OK,35.4975654,-97.2689263,"Choctaw, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4241,EXXON,"I-285, EXIT 53",Conley,GA,33.639628,-84.332358,"Conley, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+425,Neighbors Express,"I-16, EXIT 51",Dublin,GA,32.5404447,-82.903754,"Dublin, GA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+4267,CONOCO,US-30 & SR-41,Gap,PA,39.987325,-76.0205073,"Gap, Salisbury Township, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4292,KUM & GO #0032,"I-80/US-6, EXIT 155 & SR-117",Colfax,IA,41.6777241,-93.2452335,"Colfax, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4301,TIGER DISCOUNT TRUCKSTOP,"I-94, EXIT 64 & I-94 BUS",Dickinson,ND,46.8791756,-102.7896242,"Dickinson, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4311,Saveway Truck Plaza,"I-65, EXIT 164 & US-31",Hope Hull,AL,32.2698632,-86.3571916,"Hope Hull, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4331,KWIK STOP C STORES,US-61/US-151,Dubuque,IA,42.4380998,-90.6802777,"US 61;US 151 / US 61;US 151, Dubuque, IA 52003, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+4332,PILOT TRAVEL CENTER #468,"I-57, EXIT 283 & US-24",Gilman,IL,40.7667015,-87.992262,"Gilman, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4335,HIGHWAY 20  AUTO TRUCK PLAZA,US-20,Peosta,IA,42.440969,-90.8653,"US 20, Peosta, IA 52068, United States of America",us,street,1,full_match,candidate,Geoapify
+4339,ROAD RANGER #273,I-69E/US-77 & SR-107,Combes,TX,26.2567159,-97.7316881,"U.S. Highway 77, Combes, TX 78535, United States of America",us,street,0,full_match,needs_review,Geoapify
+4349,ROAD RANGER #144,"I-380, EXIT 68US-20, EXIT 68",Evansdale,IA,42.4771838,-92.288411,"Evansdale, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4363,EL CHEAPO #4,"I-95, EXIT 87",Richmond Hill,GA,31.9382381,-81.3035515,"Richmond Hill, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4368,HOODS SERVICE CENTER,"I-44, EXIT 61",Bois D Arc,MO,37.172319,-94.303419,"Bois de Arc Street, Carthage, MO 64836, United States of America",us,street,0.9,full_match,candidate,Geoapify
+4372,GRADYS TRUCKSTOP,"I-16, EXIT 111",Pulaski,GA,32.3901752,-81.9567837,"Pulaski, GA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+4373,KUM & GO #0043,"I-35, EXIT 43 & SR-207/CRG76",New Virginia,IA,41.180595,-93.7300396,"New Virginia, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4389,TAYLOR QUIK-PIK,"I-29, EXIT 75 & US-30",Missouri Valley,IA,41.5564975,-95.8879438,"Missouri Valley, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4395,BREAK TIME #3147,"I-55, EXIT 67 & US-62",Sikeston,MO,36.876719,-89.5878579,"Sikeston, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+44,CIRCLE K #2612042,"I-35,  EXIT 271",Jarrell,TX,30.8249094,-97.604454,"Jarrell, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4417,TA MORIARITY TRAVEL CENTER,"I-40, EXIT 194",Moriarty,NM,35.008493,-106.029269,"Moriarty, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4419,CASEYS #3081,"I-35, EXIT 92 & US-136",Bethany,MO,40.2683344,-94.0282861,"Bethany, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+442,WESTERN COOP,US-385 & SR-2,Alliance,NE,42.0971897,-102.8707145,"Alliance, NE, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+44228,I-69 TRUCKSTOP TRAVEL CENTER,"I-69, EXIT 184 & SR-19",Memphis,MI,42.8964179,-82.7688135,"Memphis, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4427,CASEYS #2654,"I-80/US-6, EXIT 93 & CR-P28",Stuart,IA,41.5033213,-94.3185737,"Stuart, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4431,CASEYS #2653,"US-63 & US-30, EXIT 202",Toledo,IA,41.9958439,-92.5790678,"Toledo, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4437,UNDERWOOD TRUCK STOP I 80,"I-80, EXIT 17",Underwood,IA,41.3872477,-95.678862,"Underwood, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4441,PILOT TRAVEL CENTERS #51,"I-81 BAILEYTON RD, EXIT 36",Greeneville,TN,36.1739415,-82.8269761,"Baileyton Road, Greeneville, TN 37745, United States of America",us,street,0.567,full_match,needs_review,Geoapify
+4442,Minuteman Food Mart #58,US-74/US-76,Delco,NC,34.3121811,-78.2086156,"Andrew Jackson Highway / Andrew Jackson Highway, New Berlin, NC 28456, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+4445,TA Rogers,"I-94/US-52, EXIT 207 & SR-101",Rogers,MN,45.1888596,-93.5524563,"Rogers, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4446,LOVES TRAVEL STOP #200,I-40 EXIT 74,Amarillo,TX,35.20729,-101.8371192,"Amarillo, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4451,PRAIRIE JUNCTION TRUCK STOP,"I-29, EXIT 109 & SR-34",Colman,SD,43.982472,-96.814497,"Colman, SD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4452,CASEYS #2867,US-63 & US-20,Waterloo,IA,42.498275,-92.3328743,"Waterloo, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4458,KUM & GO #1443,"I-80, EXIT 216",Williamsburg,IA,41.6889,-92.06574,"Interchange 216, Iowa County, IA, United States of America",us,amenity,0.4149580524445831,inner_part,needs_review,Geoapify
+4460,EXIT 62 TRUCKSTOP,"I-71, EXIT 62 & US-127",Glencoe,KY,38.7171594,-84.8233457,"127 US 127, Glencoe, KY 41046, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+4463,QUIKTRIP #7901,"I-20, EXIT 556 & US-69",Lindale,TX,32.5156971,-95.4093998,"Lindale, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4482,FLYING J TRAVEL PLAZA #777,"I-84, EXIT 54(FEDERAL WAY)",Boise,ID,43.5101958,-116.1393822,"54 South Federal Way, Boise, ID 83715, United States of America",us,building,0.45,full_match,needs_review,Geoapify
+4492,3 MILE CORNER TRUCK STOP,US-2 & US-95,Bonners Ferry,ID,48.693321,-116.31551,"507 Us-95, Bonners Ferry, ID 83805, United States of America",us,building,0.6,inner_part,needs_review,Geoapify
+4525,STINKER #42,US-12/US-95 & SR-128,Lewiston,ID,46.4219859,-117.030561,"D Street / State Route 128, Lewiston, ID 99403, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+4528,WENATCHEE VALLEY TRUCK STOP,US-97 ALT,Wenatchee,WA,47.4784607,-120.3225375,"US 97 Alt, Sunnyslope, WA 98807, United States of America",us,street,0.6376151025765006,full_match,needs_review,Geoapify
+4533,SPEEDWAY #1449,"I-65, EXIT 262B",Birmingham,AL,33.5206824,-86.8024326,"Birmingham, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4544,BIG CHARLIES TRUCK PLAZA,"I-64, EXIT 282 & US-13",Virginia Beach,VA,36.88141,-76.18557,"Econo Lodge Inn & Suites I-64 & Us 13, Virginia Beach, VA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+455,MR FUEL #753,"I-95, EXIT 104 & SR-207",Ruther Glen,VA,37.9408753,-77.4618647,"Ruther Glen, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4555,PILOT TRAVEL CENTERS #406,"I-65, EXIT 22 & US-31A/SR-11",Cornersville,TN,,,,,,,,not_found,Geoapify
+456,THE COUNTRY OASIS,US-24,Woodburn,IN,41.144631,-84.845049,"US 24, Maumee, IN 46797, United States of America",us,street,0.6787063888420966,full_match,needs_review,Geoapify
+4560,FAST STOP TRAVEL CENTERS #1109,"I-15, EXIT 392",Plymouth,UT,41.8754813,-112.1441223,"Plymouth, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4563,PILOT TRAVEL CENTERS #299,"I-55/I-74/US-51, EXIT 160 & US-150/SR-9",Bloomington,IL,,,,,,,,not_found,Geoapify
+4568,ONVO TRAVEL PLAZA,"I-90, EXIT 28",Fultonville,NY,42.9478324,-74.3701925,"Village of Fultonville, Fultonville, Glen, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4569,METROPOLIS TRUCK STOP,"I-24, EXIT 37 & US-45",Metropolis,IL,37.159239,-88.679748,"5402 Us 45 Road, Metropolis, IL 62960, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+4574,Circle K #4701432,"I-74, EXIT 174",Mahomet,IL,40.195142,-88.4052266,"Mahomet, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+458,HAPPY HILLS GAS & COFFEE,I-29 EXIT 110,Rock Port,MO,40.4111122,-95.5169286,"Rock Port, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4582,BIG CHIEF TRUCK STOP,"I-94/US-52, EXIT 61 & US-59/CR-82",Fergus Falls,MN,46.201249,-96.0193435,"US 59;CR 82, Buse Township, MN 56537, United States of America",us,street,0,full_match,needs_review,Geoapify
+46,PETRO STOPPING CENTER #348,"I-85,  EXIT 22 & CR-138",Shorter,AL,32.3948615,-85.916902,"Shorter, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+460,TRUCK STOP 44,I-20 EXIT 44,Gilbert,SC,33.9243121,-81.3937132,"Gilbert, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4605,PILOT DEALER #898 SADLERS TRUCK STOP,"I-95, EXIT 11B & US-58",Emporia,VA,36.6859828,-77.5424808,"Emporia, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+461,SPINX #271,"I-26, EXIT 145 & US-601",Orangeburg,SC,33.4918203,-80.8556476,"Orangeburg, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4618,OUTPOST TRAVEL CENTER,"I-20, EXIT 5 & US-80",Greenwood,LA,32.4471787,-93.9848563,"Speedco, 9620 I 20, Greenwood, LA 71033, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+4620,PILOT TRAVEL CENTERS #95,"I-75, EXIT 329 & SR-44",Wildwood,FL,28.865286,-82.0394286,"Wildwood, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4622,TA LEE HI TRAVEL PLAZA,"I-81,  EXIT 195",Lexington,VA,37.7840208,-79.4428157,"Lexington, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4628,QUARLES #4601,US-29/US-17/US-15,Warrenton,VA,38.7135498,-77.795367,"Warrenton, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4637,THORNTONS #369 DBA PILOT TRAVEL CENTER #514,"I-55, EXIT 126 & SR-10",Lincoln,IL,40.1481349,-89.3636569,"Lincoln, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4642,MARSHAL JUNCTION,"I-70, EXIT 147 & SR-1",Marshall,IL,39.3914252,-87.6936384,"Marshall, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4644,CIRCLE K #4706703,"I-80, EXIT 145A",Mokena,IL,41.5261437,-87.8892189,"Mokena, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4654,7-ELEVEN #35087,"I-490, EXIT 2 & SR-33 & SR-19",Bergen,NY,43.0852666,-77.9418857,"Bergen, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4655,QUICKLEES TRAVEL CENTER,"I-86, EXIT 30 & CR-20",Belmont,NY,42.2231241,-78.0344506,"Village of Belmont, Belmont, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+469,LOAF N JUG #750010,US-160 & SR-17,Alamosa,CO,37.4682005,-105.8678353,"Alamosa, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4690,PWI #401,"I-20 & I-30, EXIT 1B",Aledo,TX,32.6979939,-97.6039938,"Aledo, TX, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+4700,A C TRUCKSTOP,"I-80, EXIT 290",Laramie,WY,41.27768,-104.689648,"Laramie County, WY, United States of America",us,county,0.225,match_by_country_or_state,needs_review,Geoapify
+4704,THE RIDGE,"I-68/US-219, EXIT 14 & US-40",Accident,MD,39.62655,-79.319854,"Accident, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4707,SMITHTON TRUCKSTOP,"I-70, EXIT 39 & SR-3059",Smithton,PA,40.1539613,-79.7411535,"Smithton, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4729,MINIT MART #600244,"I-70, EXIT 131",Straughn,IN,39.8089351,-85.2913559,"Straughn, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+474,KEWANEE 1 STOP,"I-20, EXIT 169 & US-80",Toomsuba,MS,32.418474,-88.5069819,"Toomsuba, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4742,FLYING J TRAVEL PLAZA #684,"I-94, EXIT 1 & SR-16",Beach,ND,46.9180689,-104.0043728,"Beach, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4750,BROOKE TRAVEL PLAZA,"I-80, EXIT 259",West Liberty,IA,41.5700231,-91.2637695,"West Liberty, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4762,TA MONROE TRAVEL CENTER,"I-75, EXIT 15",Monroe,MI,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,full_match,needs_review,Geoapify
+478,GASTRAK OF PEMBINA,"I-29, EXIT 215",Pembina,ND,48.96913,-97.248351,"Pembina, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4806,TRACK AND TRAVEL,"I-20, EXIT 406",Weatherford,TX,32.7667,-97.782096,"406 Heritage Heights, Weatherford, TX 76086, United States of America",us,building,0.375,inner_part,needs_review,Geoapify
+4818,PILOT TRAVEL CENTER #350,"I-84 & US-20, EXIT 95",Mountain Home,ID,43.1318937,-115.6939827,"Mountain Home, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4819,Alta Convenience #6333,"I-25, EXIT 11",Trinidad,CO,37.169397,-104.500541,"Trinidad, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4826,I-20 Truck Stop,"I-20, EXIT 165",Lincoln,AL,33.6131588,-86.1183061,"Lincoln, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4827,PETRO BEAUMONT #304,"I-10, EXIT 848",Beaumont,TX,30.0829344,-94.0984277,"Beaumont, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+483,ALLSUPS #2387,US-54/SR-136/SR-3 & US-64,Guymon,OK,36.6814131,-101.4814241,"Guymon, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4837,SHELL,US-10 & SR-210,Motley,MN,46.3366315,-94.646125,"Motley, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4856,PILOT TRAVEL CENTER #910- TOWN PUMP,"I-90, EXIT 274 & US-287",Three Forks,MT,45.920531,-111.499759,"Three Forks, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4858,PILOT TRAVEL CENTER #1346,"I-135, EXIT 31",Newton,KS,38.0469166,-97.3447244,"Newton, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+486,LA NORIA CONV STORES,"I-35 N, EXIT 4",Laredo,TX,27.569125,-99.492092,"4 Bennington Drive, Laredo, TX 78045, United States of America",us,building,0.3,inner_part,needs_review,Geoapify
+4860,PILOT TRAVEL CENTER #476,"I-74, EXIT 32 & SR-17",Woodhull,IL,41.1789256,-90.3159582,"Woodhull, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4872,TA COMMERCE TRAVEL CENTER,"I-85, EXIT 149 & US-441",Commerce,GA,34.24217,-83.456741,"40157 US-441, Commerce, GA 30529, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+4874,PWI #110,"I-20, EXIT 112 & FM-1936",Odessa,TX,31.8457149,-102.367687,"Odessa, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4878,SHELL DBA ONE9 #1426,"I-84, EXIT 35",Nampa,ID,43.5780381,-116.5616885,"Nampa, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4881,PETRO STOPPING CENTER #14,"I-295, EXIT 56",Bordentown,NJ,40.1462559,-74.7114504,"Bordentown, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4885,LOVES TRAVEL STOP #384,"I-70, EXIT 45",Greenville,IL,38.87171,-89.38369,"Interchange 45, Greenville, IL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+4887,SUNOCO,"I-80 & I-90, EXIT 3",Wauseon,OH,41.546069,-84.1362047,"Wauseon, OH, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+489,EDDIES CORNER,US-87 & US-191,Moore,MT,46.984087,-109.713944,"66515 Us Highway 87, Fergus County, MT 59464, United States of America",us,building,0.4109777838685456,inner_part,needs_review,Geoapify
+4894,CLOVERDALE TRAVEL PLAZA,"I-70, EXIT 41 & US-231",Cloverdale,IN,39.5147682,-86.7938969,"Cloverdale, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+49,TA SEYMOUR TRAVEL CENTER,"I-65, EXIT 50 & US-50 & US-31",Seymour,IN,38.954474,-85.8355302,"Todd's Place, 4990 East County Road 500 North, Seymour, IN 47274, United States of America",us,building,0.4285714285714286,inner_part,needs_review,Geoapify
+4905,HY-MILER #2204,SR-250,Sandusky,OH,41.4561002,-82.7115813,"Sandusky, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4909,CIRCLE K #2723916,US-441/US-301/US/27/SR-500,Ocala,FL,29.1871986,-82.1400923,"Ocala, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+491,One9 #403,"I-75, EXIT 117",Heiskell,TN,35.968361,-84.881729,"Heiskell Court, Fairfield Glade, TN 38558, United States of America",us,street,1,full_match,candidate,Geoapify
+4910,PILOT TRAVEL CENTER #892,"I-70 EXIT 164, & US-50",Green River,UT,38.991788,-110.11284,"Green River, UT, United States of America",us,city,0.6,full_match,needs_review,Geoapify
+4918,PILOT TRAVEL CENTERS #219,"I-40, EXIT 398",Knoxville,TN,35.9603948,-83.9210261,"Knoxville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4920,TA LAPLACE,"I-10, EXIT 209 & US-5",La Place,LA,30.070297,-90.469062,"Laplace, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4921,PILOT TRAVEL CENTERS #231,"I-75, EXIT 29",Corbin,KY,36.9486986,-84.0968761,"Corbin, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4927,CIRCLE K #2704886,"I-65, EXIT 205 & US-31/SR-22",Clanton,AL,,,,,,,,not_found,Geoapify
+4933,VILLAGE TRUCK STOP,"I-81, EXIT 18",Rural Retreat,VA,36.8937299,-81.2759341,"Rural Retreat, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+496,PILOT TRAVEL CENTERS #270,"I-40 & I-75, EXIT 374",Knoxville,TN,35.9603948,-83.9210261,"Knoxville, TN, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+4977,KWIK TRIP #331,SR-54,Wisconsin Rapids,WI,44.3917589,-89.8228767,"Wisconsin Rapids, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4981,JOHNNYS MARKET,"I-94, EXIT 110 & US-27",Marshall,MI,42.2721367,-84.9642008,"Marshall, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4983,KWIK TRIP #603,"I-94, EXIT 28 & SR-128",Wilson,WI,44.9534314,-92.173789,"Wilson, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+4996,ZIP TRIP #54,"I-90, EXIT 452",Billings,MT,45.7874957,-108.49607,"Billings, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+50,TA COUNCIL BLUFFS TRAVEL CENTER,"I-29 & I-80, EXIT 3",Council Bluffs,IA,41.258841,-95.8519484,"Council Bluffs, IA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5003,TRAILWAY TRUCK STOP,US-301/SR-304,Centreville,MD,38.98591,-76.1577172,"Blue Star Memorial Highway, Queenstown, MD 21658, United States of America",us,street,0,full_match,needs_review,Geoapify
+5006,SUNOCO,US-1/US-9,Linden,NJ,40.7207702,-74.1501081,"US 1;US 9 / US 1;US 9, The Ironbound, Newark, NJ 07105, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+5024,I 55 MOTOR PLAZA,"I-55,  EXIT 180",Pevely,MO,38.2833879,-90.3951204,"Pevely, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5030,YESWAY #1030,US-63 & E MARY ST,Ottumwa,IA,40.9948186,-92.4135936,"East Mary Street, Ottumwa, IA 52501, United States of America",us,street,0.25004699999999996,full_match,needs_review,Geoapify
+5044,TA MOUNT VERNON TRAVEL CENTER,"I-44, EXIT 46 & SR-39/SR265",Mount Vernon,MO,,,,,,,,not_found,Geoapify
+5050,ROCK PORT TRUCK PLAZA,"I-29 & US-136, EXIT 110",Rock Port,MO,40.4111122,-95.5169286,"Rock Port, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5056,TREX MART #16,"I-35, EXIT, 61 & US-69",Winston,MO,39.867997,-94.142686,"US 69, Winston, MO 64689, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+5057,PHILLIPS 66,"I-35, EXIT 54 & I-35 BUS/US-36",Cameron,MO,39.754569,-94.2410012,"US 36, Cameron, MO 64429, United States of America",us,street,1,full_match,candidate,Geoapify
+5060,CRAZY FREDS TRUCK SHOP,"I-40, EXIT 44 & US-66",Kingman,AZ,35.1895921,-114.0532996,"Kingman, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5064,CLARK OIL #44,"I-59, EXIT 97",Laurel,MS,31.731788,-89.057421,"97 Merrill Road, Laurel, MS 39443, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+5079,FASTLANE TAYLOR 63,US-61 & SR-6,Taylor,MO,39.9381011,-91.5237663,"Taylor, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5085,K AN T TRUCKSTOP,"I-79, EXIT 137 & SR-310",Fairmont,WV,39.484898,-80.1426539,"Fairmont, WV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+509,LOVES TRAVEL STOPS #256,"I-10, EXIT 140B",Van Horn,TX,31.0429718,-104.831628,"Van Horn, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5111,CIRCLE K #2723385,"I-59, EXIT 67 & US-49/SR-42",Hattiesburg,MS,,,,,,,,not_found,Geoapify
+5117,CIRCLE K #4702361,"I-65, EXIT 130 & SR-334",Whitestown,IN,39.9972626,-86.3458296,"Whitestown, IN, Boone County, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5128,CASEYS #2769,"I-80, EXIT 220 & SR-149",Williamsburg,IA,41.6612394,-92.0095079,"Williamsburg, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5131,TRAILS END TRUCK STOP,"I-29, EXIT 110 & US-136",Rock Port,MO,40.41749,-95.515672,"201 US-136, Rock Port, MO 64482, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+5132,Travel Centers of America,"I-44, EXIT 208 & SR-19",Cuba,MO,38.063021,-91.4032473,"Cuba, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5160,FUEL MART #727,"I-70, EXIT 193",Quaker City,OH,39.969646,-81.297357,"Millwood Township, Quaker City, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5163,Blue Sky #733,"US-78, EXIT 81 & SR-178",Belden,MS,34.3103831,-88.7883888,"Belden, Tupelo, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5165,ONE9 #046,"I-65, EXIT 6 & SR-100",Franklin,KY,36.722263,-86.5772177,"Franklin, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5167,SPEEDWAY #7575,"I-65, EXIT 255",Hobart,IN,41.5322592,-87.2550353,"Hobart, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5170,FLYING J #516,"I-76, EXIT 161 & I-70",Breezewood,PA,39.9990119,-78.2404221,"Breezewood, East Providence Township, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5183,PETRO STOPPING CENTER #74,I-95 & EXIT 106,Kenly,NC,35.5959363,-78.1240031,"Kenly, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5191,NORTH POINT PLAZA,"I-90 & I-94, EXIT 115",Poynette,WI,43.39577,-89.414953,"115 Boneset Avenue, Poynette, WI 53955, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+5202,Chevron #306185,US-30,Montpelier,ID,42.3448179,-111.2976982,"US 30, Montpelier, ID 83254, United States of America",us,street,1,full_match,candidate,Geoapify
+5203,OASIS TRAVEL CENTER,"I-10, EXIT 53",Robertsdale,AL,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0.017137592137592136,full_match,needs_review,Geoapify
+52040,REBEL TRUCK STOP,"I-5, EXIT 27",Kalama,WA,46.0085225,-122.84247,"Kalama, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52048,PILOT TRAVEL CENTERS #302,"I-10, EXIT 13 & CR-30",Theodore,AL,30.5476941,-88.1752796,"Theodore, Mobile, AL, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52052,EXPRESSWAY MOBIL,US-63 & US-167,El Dorado,AR,33.1926668,-92.6392128,"US 63;US 167;AR 7, El Dorado, AR 71730, United States of America",us,street,0.45454545454545453,full_match,needs_review,Geoapify
+52065,76 DBA ONE9 #1415,"I-75, EXIT 49",Lake Panasoffkee,FL,28.7865172,-82.1290284,"Lake Panasoffkee, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52067,PETRO STOPPING CENTER #322,"I-285, EXIT 12",Atlanta,GA,33.7544657,-84.3898151,"Atlanta, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5207,JJ TRAVEL PLAZA,"I-70, EXIT 70 & US-83",Oakley,KS,39.117924,-100.849926,"2917 Us 83, Oakley Township, Oakley, KS 67748, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+52070,FRIENDLY EXPRESS #31,US-1 & US-301,Folkston,GA,30.804701,-82.000537,"23815 Us Hwy 1, Charlton County, GA 31537, United States of America",us,building,0.402735650823617,inner_part,needs_review,Geoapify
+52081,MCCLURE OIL #9,US-31 & SR-18,Kokomo,IN,40.4125172,-86.0984701,"US 31;SR 28, Kokomo, IN 46965, United States of America",us,street,0.42857142857142855,full_match,needs_review,Geoapify
+52085,RUSSELL 24/7,"I-70, EXIT 184",Russell,KS,38.8916536,-98.8601141,"Russell, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52088,CASEYS #4459,"I-64, EXIT 265",Mayfield,KY,36.7413418,-88.6355497,"Mayfield, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52089,SHELL,US-84 & SR-28,Jonesville,LA,31.6220168,-91.8118943,"US 84, Jonesville, LA 71343, United States of America",us,amenity,0.4,inner_part,needs_review,Geoapify
+52090,SHOP A LOTT #10,"I-49, EXIT 138 & SR-6",Natchitoches,LA,31.7606732,-93.0860209,"Natchitoches, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52099,BEACON & BRIDGE #7,"I-75, EXIT 126",Mount Morris,MI,43.118637,-83.694958,"Mount Morris, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52103,SPRINT MART #27,US-45 & US-72,Corinth,MS,34.915745,-88.5422872,"US 45, Corinth, MS 38834, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+52104,BLUE SKY #734,SR-1,Saltillo,MS,34.371958,-88.818041,"Road 1, Lee County, MS 38804, United States of America",us,street,0.5044042499327266,full_match,needs_review,Geoapify
+52106,FLYING J TRAVEL PLAZA #923 -TOWN PUMP,"I-90, EXIT 455",Billings,MT,45.7874957,-108.49607,"Billings, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52107,PILOT #7983,"I-85,  EXIT 71",Salisbury,NC,35.665452,-80.476366,"Salisbury, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52112,SROKAS SERVICE CENTER,SR-149,Fort Ann,NY,43.413997,-73.489503,"Fort Ann, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52128,Sudden Service #8087,I-40 EXIT 238,Lebanon,TN,36.2079779,-86.2910945,"Lebanon, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52140,Sinclair,"I-82, EXIT 69",Sunnyside,WA,46.3246419,-120.0081898,"Sunnyside, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52142,PILOT TRAVEL CENTERS #296,"I-94 & BAKER RD, EXIT 167",Dexter,MI,42.3323225,-83.8872527,"Baker Road, Dexter, MI 48130, United States of America",us,street,0.35720999999999997,full_match,needs_review,Geoapify
+52143,One9 #319,"I-75, EXIT 328",Dalton,GA,34.7711032,-84.9674721,"Dalton, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52145,Pilot Travel Center #318,"I-465/I-74/US-52/US-40/SR-67, EXIT 4 & SR-37",Indianapolis,IN,39.7125784,-86.3019549,"Park & Walk Lot exit, Indianapolis, IN 46251, United States of America",us,street,0.27782999999999997,full_match,needs_review,Geoapify
+52146,FLYING J TRAVEL PLAZA #758,"I-25, EXIT 185 & SR-258",Casper,WY,42.8501191,-106.325138,"Casper, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52149,PILOT TRAVEL CENTERS #321,"I-75/71, EXIT 175 & SR-338",Walton,KY,38.8756194,-84.6102213,"Walton, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52150,PILOT TRAVEL CENTERS #311,"I-90, EXIT 27 & SR-97",Erie,PA,42.1294712,-80.0852695,"Erie, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52152,PILOT TRAVEL CENTERS #308,"I-80 , EXIT 310",Laramie,WY,41.27768,-104.689648,"Laramie County, WY, United States of America",us,county,0.225,match_by_country_or_state,needs_review,Geoapify
+52153,PILOT #1412,"I-94 & RUSSELL RD, EXIT 1",Wadsworth,IL,42.4904563,-87.9051003,"Old Russell Road, Wadsworth, IL 60099, United States of America",us,street,0.4166666666666667,full_match,needs_review,Geoapify
+52155,TA SOUTHINGTON TRAVEL CENTER,"I-84, EXIT 28 & US-65",Milldale,CT,37.849002,-82.416186,"65 Us 52, Kermit, WV 25674, United States of America",us,building,0,inner_part,needs_review,Geoapify
+52163,PILOT TRAVEL CENTER #67,"I-75, EXIT 296",Cartersville,GA,34.1652304,-84.7997613,"Cartersville, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+522,GO MART FOOD STORE #57,"I-70 & ST-285, EXIT 186",Lore City,OH,39.982772,-81.460199,"Center Township, Lore City, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52212,FLYING J TRAVEL PLAZA #763,"I-80, EXIT 209",Rawlins,WY,41.7907878,-107.239176,"Rawlins, WY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52221,FLYING J TRAVEL PLAZA #726,"I-20, EXIT 472",Dallas,TX,32.94918,-96.468093,"Trail Exit, Dallas, TX 78087, United States of America",us,street,1,full_match,candidate,Geoapify
+52222,FLYING J TRAVEL PLAZA #735,"I-10, EXIT 873 & SR-62",Orange,TX,30.0929879,-93.7365549,"Orange, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52230,ONE9 #294,"I-15 & I-84, EXIT 344 SR-39",Ogden,UT,41.255172,-111.864098,"344 SR 39, Weber County, UT 84401, United States of America",us,building,0.26708968062166644,match_by_building,needs_review,Geoapify
+52233,SPEEDWAY #2953,"US-80, EXIT 3",Yuma,AZ,32.7210307,-114.6203217,"Yuma, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52235,PETRO STOPPING CENTER #303,"I-80, EXIT 310",Laramie,WY,41.27768,-104.689648,"Laramie County, WY, United States of America",us,county,0.225,match_by_country_or_state,needs_review,Geoapify
+52236,CHEVRON,US-60,Globe,AZ,33.4001229,-110.7470991,"Old US 60 Road, Globe, AZ 85502, United States of America",us,street,0.9,full_match,candidate,Geoapify
+52239,PILOT TRAVEL CENTER #192,"I-75, EXIT 60",Tifton,GA,31.4549719,-83.5108284,"Tifton, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52241,Rocket,"I-25/US-85/US-87, EXIT 161 & SR-105",Monument,CO,39.0916586,-104.872758,"Monument, CO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52250,PILOT TRAVEL CENTERS #222,I-84 EXIT 1,Sturbridge,MA,42.1084385,-72.0807772,"Sturbridge, MA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52255,GREATER CHICAGO I 55,"I-55, EXIT 267 & SR-53",Bolingbrook,IL,41.7003302,-88.0717708,"Bolingbrook, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52262,CIRCLE K #2721577,US-84 & SR-21,Monroeville,AL,31.4691088,-87.3444775,"US 84;AL 41, Ollie, AL 36482, United States of America",us,street,0.2703015222835587,full_match,needs_review,Geoapify
+5227,PILOT TRAVEL CENTERS #900,"I-95, EXIT 75",Dunn,NC,35.3076902,-78.6093257,"Dunn, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52278,NEIGHBORS EXPRESS,US-25/SR-121/SR-23/SR-67,Millen,GA,32.772741,-81.976008,"US 25/GA 23-67-121, Jenkins County, GA 30442, United States of America",us,street,0.37318093551553316,full_match,needs_review,Geoapify
+52297,IGA EXPRESS SHELL #874,"I-65, EXIT 20",Bowling Green,KY,36.946832,-86.462576,"20 Elijah Court, Bowling Green, KY 42104, United States of America",us,building,0.3333333333333333,inner_part,needs_review,Geoapify
+52299,415 TRUCK STOP,"I-10, EXIT 151 & SR-415",Port Allen,LA,30.45335,-91.2100569,"Port Allen, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+523,CIRCLE K #2723322,"I-985, EXIT 20 & SR-60",Gainesville,GA,34.2978794,-83.8240663,"Gainesville, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5230,ONE9 #496,"I-80, EXIT 265",Atalissa,IA,41.5711357,-91.1659888,"Atalissa, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52302,LONGHORN TRUCK AND CAR PLAZA,"I-10, EXIT 4",Vinton,LA,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,full_match,needs_review,Geoapify
+52304,Fast Stop,"I-10, EXIT 182 & SR-22",Sorrento,LA,30.1843642,-90.8592632,"Sorrento, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52307,CASEYS #3002,SR-60 & SR-30/SR-4,Saint James,MN,,,,,,,,not_found,Geoapify
+52313,CIRCLE K #2723445,"I-20, EXIT 5A & US-61/SR-27",Vicksburg,MS,,,,,,,,not_found,Geoapify
+5232,CM EUNICE,US-190,Eunice,LA,30.4950959,-92.4464662,"US 190, Eunice, LA 70535, United States of America",us,street,1,full_match,candidate,Geoapify
+52322,BOLLA MARKET,"I-95, EXIT 13",Elizabeth,NJ,40.6639916,-74.2107006,"Elizabeth, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52323,POWER,"I-78, EXIT 58 & SR-9/SR-1",Newark,NJ,,,,,,,,not_found,Geoapify
+52325,MIRABITO #69,"I-88, EXIT 15 & SR-23",Oneonta,NY,40.785553,-76.867181,"23 Old 11 And 15 Road, Selinsgrove, PA 17870, United States of America",us,building,0,inner_part,needs_review,Geoapify
+52326,MR FUEL #715,"I-70, EXIT 203",Foristell,MO,38.8150501,-90.955972,"Foristell, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52334,KWIK TRIP #775,"I-90, EXIT 69 & SR-82",Mauston,WI,43.7968543,-90.0756767,"Mauston, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52335,SHELL,"I-295, EXIT 3",Disputanta,VA,37.1243164,-77.2258062,"Disputanta, VA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5234,SINCLAIR,SR-37,Monett,MO,36.9215543,-93.9231864,"Monett Township, Monett, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52340,KWIK FILL #249,US-22,Duncansville,PA,40.42183,-78.439657,"US 22, Duncansville, PA 16635, United States of America",us,street,1,full_match,candidate,Geoapify
+52344,STAMART 1224,"I-94, EXIT 166",Bismarck,ND,46.808327,-100.783739,"Bismarck, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52346,QUARLES #4436,"I-695, EXIT 41 & SR-151",Dundalk,MD,39.2574114,-76.5236745,"Dundalk, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52348,SHELL,"I-75, EXIT47 & SR-85",Detroit,MI,42.3315509,-83.0466403,"Detroit, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5236,FLYING J #875,"I-95,  EXIT 109",Elkton,MD,39.6065073,-75.8330934,"Elkton, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52361,PAYLESS FUEL TRAVEL CENTER,"I-20, EXIT 470",Dallas,TX,32.94918,-96.468093,"Trail Exit, Dallas, TX 78087, United States of America",us,street,1,full_match,candidate,Geoapify
+52363,SPEEDWAY #2376,US-131 & SR-46,Cedar Springs,MI,43.2277044,-85.5730119,"US 131;M 46, Solon Township, MI 49319, United States of America",us,street,0.3414914271593905,full_match,needs_review,Geoapify
+52364,PILOT TRAVEL CENTERS #335,"I-20 & SR-137, EXIT 138",Rayville,LA,32.4746949,-91.7568292,"Rayville, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52365,MOORES SUPER STORE,US-43/US-278/SR-171,Hamilton,AL,34.1420861,-87.9890206,"Hamilton, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52366,ALMA TRAVEL MART,"I-40, EXIT 13 & US-71",Alma,AR,35.484416,-94.2242604,"Tesla Supercharger, 106 US Highway 64 East, Alma, AR 72921, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+52367,DOSWELL TRUCK STOP,"I-95, EXIT 98 & SR-30",Doswell,VA,37.8601402,-77.4641492,"Doswell, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52383,FLYING J TRAVEL PLAZA #601,"I-20/I-59, EXIT 104",Mc Calla,AL,34.375785,-88.056864,"Mc Crea, Vina, AL 35593, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+52384,PILOT TRAVEL CENTERS #337,"I-95, EXIT 164 & US-52",Florence,SC,34.1984435,-79.7671658,"Florence, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52385,Flying J Travel Plaza #696,"I-71, EXIT 131",Sunbury,OH,40.2425623,-82.8590673,"Sunbury, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52387,MARATHON,"I-55, EXIT 265 & SR-4",Senatobia,MS,34.6187807,-89.9646282,"Senatobia, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52388,FLYING J TRAVEL PLAZA #711,"I-85, EXIT 102",Blacksburg,SC,35.1212409,-81.5159246,"Blacksburg, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52393,CASEYS #3004,SR-15 & CR-52,Truman,MN,43.8277419,-94.4389338,"Truman, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52400,PILOT TRAVEL CENTERS #324,"I-94/US-41, EXIT 329",Franksville,WI,42.76002,-87.91341,"Caledonia, Franksville, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52401,LOVES TRAVEL STOP #267,"I-40, EXIT 107 & SR-95",Morrilton,AR,35.154026,-92.7429266,"Morrilton, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52402,FLYING J TRAVEL PLAZA #665,"I-20, EXIT 3 & SR-79",Greenwood,LA,32.4435212,-93.9749081,"Greenwood, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52403,FLYING J TRAVEL PLAZA #676,"I-10, EXIT 31",Gulfport,MS,30.3674198,-89.0928155,"Gulfport, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52404,PETRO WELLS,"I-80, EXIT 352",Wells,NV,41.1107264,-114.963144,"Wells, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52405,FLYING J TRAVEL PLAZA #636,"I-80, EXIT 292",Davenport,IA,41.5224692,-90.5756401,"Davenport, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52411,SAPP BROS TRAVEL CENTER,"I-215, EXIT 21",Salt Lake City,UT,40.7596198,-111.886797,"Salt Lake City, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52413,PILOT TRAVEL CENTERS #360,"I-75 & SR-613, EXIT 164",Findlay,OH,41.0413873,-83.6503982,"Findlay, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52414,Mobil dba ONE9 #1341,"I-5, EXIT 208",Arlington,WA,48.1896827,-122.1288887,"Arlington, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52421,SHEETZ #194,"I-80, EXIT 97",Falls Creek,PA,41.1414445,-78.8057471,"Falls Creek, PA, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52422,KWIK TRIP #674,"I-94, EXIT 45 & US-12/SR-29",Menomonie,WI,44.9075696,-91.8540341,"Exit 45 Restaurant, 2100 County Road B, Menomonie, WI 54751, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+52423,PILOT TRAVEL CENTER #908- TOWN PUMP,"I-15 & I-90, EXIT 122",Butte,MT,46.0131505,-112.536508,"Butte, MT, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+52426,J MART #322,"I-65, EXIT 322",Falkville,AL,34.3684295,-86.908616,"Falkville, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52427,PILOT TRAVEL CENTERS #340,"I-80, EXIT 46",Fernley,NV,39.6078829,-119.2506489,"Fernley, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52428,PILOT TRAVEL CENTERS #338,"I-26, EXIT 115 & US-321",West Columbia,SC,33.991869,-81.0640341,"West Columbia, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52430,CHEVRON FOOD MART,"I-75, EXIT 350 & SR-2",Ringgold,GA,34.91591,-85.1091173,"Ringgold, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52431,WOODBINE TRAVEL CENTER,"I-95, EXIT 14",Woodbine,GA,30.9638429,-81.7226063,"Woodbine, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52435,CM WINNERS CHOICE,"I-10 & SR-108, EXIT 23",Sulphur,LA,30.21604,-93.32543,"Interchange 23, Sulphur, LA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+52438,NEW MADRID,"I-55, EXIT 52/SR-P",New Madrid,MO,36.5865383,-89.5282564,"New Madrid, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52439,CIRCLE K #2723395,US-11,Hattiesburg,MS,31.2590877,-89.3377259,"US 11, Hattiesburg, MS 39401, United States of America",us,street,1,full_match,candidate,Geoapify
+52441,PILOT #6990,"I-95, EXIT 106",Kenly,NC,35.5959363,-78.1240031,"Kenly, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5245,CASEYS #3842,US-36 & US-283,Norton,KS,39.9237224,-99.8891385,"US 283, Norton, KS 67654, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+52450,PILOT #1290,"I-35, EXIT 410 & US-77",Red Oak,TX,32.5143898,-96.8066615,"Red Oak, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52452,PLAINVIEW TRAVEL PLAZA,"US-41, EXIT 113 & SR-26",Oshkosh,WI,44.0206919,-88.5408574,"Oshkosh, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52454,PILOT TRAVEL CENTERS #6,"I-70, EXIT 178 & SR-209",Cambridge,OH,40.0247143,-81.5900711,"Cambridge Township, Cambridge, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52455,LOVES TRAVEL STOP #266,"I-35, EXIT 32",Ardmore,OK,34.1729273,-97.1309119,"Ardmore, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52456,PILOT TRAVEL CENTERS #317,"I-44, EXIT 4 (ST 435)",Joplin,MO,37.0841838,-94.5133385,"Joplin, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52458,PILOT TRAVEL CENTERS #332,"I-40, EXIT 161 & SR-391",North Little Rock,AR,34.769536,-92.2670941,"North Little Rock, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52461,FLORENCE VALERO,US-130,Burlington,NJ,40.077342,-74.849847,"Burlington, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52463,PILOT TRAVEL CENTERS #341,"I-15, EXIT 48",North Las Vegas,NV,36.2005191,-115.1214745,"North Las Vegas, NV, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52464,7-ELEVEN #40118,ST 220 & I-180,Muncy,PA,41.1900648,-76.7728035,"I 180, Muncy Creek Township, PA 10165, United States of America",us,street,0.405,full_match,needs_review,Geoapify
+52465,FLYING J TRAVEL PLAZA #605,"I-40, EXIT 84",Russellville,AR,35.2784173,-93.1337856,"Russellville, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52466,FLYING J TRAVEL PLAZA #784,"I-95, EXIT 100 & SR-272",North East,MD,39.5992989,-75.9424217,"North East, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52467,FLYING J TRAVEL PLAZA #712,"I-20, EXIT 70",Columbia,SC,34.044165,-80.846323,"Columbia, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52468,FLYING J TRAVEL PLAZA #703,"I-40, EXIT 140",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52469,LOVES TRAVEL STOPS #269,US-287/US-82/SR-79 & US-281,Wichita Falls,TX,33.9004572,-98.5020777,"Wichita Falls, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5247,EDGERTON TRAVEL PLAZA,"I-90, EXIT 160 & US-51",Edgerton,WI,42.8334758,-89.0693988,"Edgerton, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52470,QUIKTRIP #562,"I-80, EXIT 136",Des Moines,IA,41.654352,-93.50034,"Entrance / Exit, Des Moines, IA 50009, United States of America",us,amenity,0.9,inner_part,needs_review,Geoapify
+52471,FLYING J TRAVEL PLAZA #695,"I-75, EXIT 135",Beaverdam,OH,40.8329922,-83.9742825,"Beaverdam, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52472,FLYING J TRAVEL PLAZA #708,"I-81, EXIT 52",Carlisle,PA,40.207281,-77.226739,"52 Bennington Way, Carlisle, PA 17013, United States of America",us,building,0.3,inner_part,needs_review,Geoapify
+52473,FLYING J TRAVEL PLAZA #743,"I-15, EXIT 222",Nephi,UT,39.7102336,-111.836321,"Nephi, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52474,PILOT TRAVEL CENTERS #17,"I-94, EXIT 104",Battle Creek,MI,42.3192548,-85.1824269,"Battle Creek, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52477,PETRO FARGO #361,"I-94, EXIT 348",Fargo,ND,46.877229,-96.789821,"Fargo, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52478,LOVES TRAVEL STOP #418,"I-64, EXIT 172",Grayson,KY,38.334074,-82.940243,"172 Reatta Street, Grayson, KY 41143, United States of America",us,building,0.3333333333333333,inner_part,needs_review,Geoapify
+52479,PETRO CARNESVILLE #377,"I-85, EXIT 160",Carnesville,GA,34.37483,-83.25793,"Exit 56, Franklin County, GA, United States of America",us,amenity,0.4618609435950986,inner_part,needs_review,Geoapify
+52480,LOVES TRAVEL STOP #268,US6-9 & US-75,Atoka,OK,34.392697,-96.12597,"US 75, Atoka, OK 74525, United States of America",us,street,0.4,full_match,needs_review,Geoapify
+52482,KING TRAVEL PLAZA,"I-95, EXIT 6",Kingsland,GA,30.7919,-81.65927,"Exit 2, Kingsland, GA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+52483,FLYING J TRAVEL PLAZA #659,"I-70, EXIT 253",Salina,KS,38.8402805,-97.6114237,"Salina, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52484,KWIK STAR #303,"I-80, EXIT 201 & US-21",Brooklyn,IA,41.7286464,-92.4455938,"Brooklyn, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5249,Taylor's Stateline Travel Center,US-67 & SR-278,Neelyville,MO,36.561713,-90.5061465,"Neelyville, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52493,10 ACRE TRUCKSTOP,"HWY-401, EXIT 53B & HWY 1",Belleville,ON,37.615257,-86.33423,"508 Highway 401, Breckinridge County, KY 40145, United States of America",us,building,0,inner_part,needs_review,Geoapify
+525,FASTBREAK,US-45 ALT,West Point,MS,33.6314779,-88.6593155,"US Highway 45 Alternate, West Point, MS 39773, United States of America",us,street,1,full_match,candidate,Geoapify
+52510,Valero,SR-9,Maysville,KY,38.6474569,-83.7644793,"Maysville, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52511,JOES JUNCTION #9,"I-65, RAYMOND EXIT",Indianapolis,IN,39.7683331,-86.1583502,"Indianapolis, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52512,LOVES TRAVEL STOPS #270,"I-20, EXIT 349",Ranger,TX,32.4705727,-98.6808223,"Ranger, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52513,FLYING J TRAVEL PLAZA #678,"I-20 & I-55, EXIT 47",Pearl,MS,32.2735792,-90.127881,"Pearl, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52514,FLYING J TRAVEL PLAZA #671,"I-55, EXIT 58",Matthews,MO,36.7592218,-89.5867458,"Matthews, MO, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+52516,FLYING J TRAVEL PLAZA #612,"I-40, EXIT 255",Winslow,AZ,35.0241984,-110.6973463,"Winslow, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52517,STRIPES 7FLEET #42562,US-84 & US-385,Littlefield,TX,33.9333368,-102.3268703,"US 385, Littlefield, TX 79339, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+52520,DANDY MINI MART #19,"ROUTE 17, EXIT 59-A",Sayre,PA,41.9789631,-76.515499,"Sayre, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52527,PETRO STOPPING CENTER #323,"I-75, EXIT 368",Reddick,FL,29.3666393,-82.1973184,"Reddick, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52528,QUIKTRIP #150,"I-70, EXIT 28",Oak Grove,MO,39.0048397,-94.1291914,"Oak Grove, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52529,BIG SKY TRUCK STOP,"I-15, EXIT 56 N",Dillon,MT,45.2141249,-112.6346079,"Dillon, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52531,FLYING J FUEL STOP #768,"I-435, EXIT 57",Kansas City,MO,39.100105,-94.5781416,"Kansas City, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52534,LEES FOOD MART #1122,"I-75, EXIT 122 & SR-61",Clinton,TN,36.1034126,-84.1318632,"Clinton, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52535,PWI #115,"I-45, EXIT 178",Buffalo,TX,31.030974,-98.326329,"Texas, United States of America",us,state,0.25,match_by_country_or_state,needs_review,Geoapify
+52537,TA Express Osseo #431,"I-94, EXIT 88",Osseo,WI,44.5772777,-91.2228203,"Osseo, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52539,PILOT TRAVEL CENTERS #331,"I-285 , EXIT 51",Atlanta,GA,33.7544657,-84.3898151,"Atlanta, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5254,TA CANDLER TRAVEL CENTER,"I-40, EXIT 37",Candler,NC,35.5444359,-82.6838032,"Candler, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52541,PANTRY TRUCKSTOP,US-2/US-41,Rapid River,MI,45.9258415,-86.9845094,"US 2;US 41 / US 2;US 41, Rapid River, Masonville Township, MI 49828, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+52542,FLYING J TRAVEL PLAZA #624,"I-75, EXIT 285 & SR-52",San Antonio,FL,28.3361142,-82.2745308,"San Antonio, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52546,CIRCLE K #2723910,US-84 & US-27,Bainbridge,GA,30.89116,-84.568147,"US 27, Bainbridge, GA 39819, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+52548,Henderson Fuel Mart,"I-80, EXIT 342",Henderson,NE,40.82112,-97.807,"Interchange 342, Brown, NE, United States of America",us,amenity,0.4304527827110483,inner_part,needs_review,Geoapify
+52549,SPEEDWAY #3328,"I-77, EXIT 159 A",Cleveland,OH,41.4996574,-81.6936772,"Cleveland, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5255,7-ELEVEN #35788,"I-35, EXIT 215",Olathe,KS,38.8838856,-94.81887,"Olathe, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52550,PILOT TRAVEL CENTERS #404,"I-24, EXIT 81 SE",Murfreesboro,TN,35.8460396,-86.3921096,"Murfreesboro, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52551,PILOT TRAVEL CENTERS #374,"I-10, EXIT 142 & SR-71",Marianna,FL,30.7743596,-85.2268735,"Marianna, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52552,FLYING J TRAVEL PLAZA #672,"I-49/US-71, EXIT167 & CR-J",Peculiar,MO,38.7145481,-94.4611204,"Peculiar, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52553,FLYING J TRAVEL PLAZA #689,"I-40, EXIT 153",Albuquerque,NM,35.0841034,-106.650985,"Albuquerque, NM, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52557,SPRINT MART #40,US-72 & SR-247,Tuscumbia,AL,34.7318811,-87.7028627,"Tuscumbia, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52558,LOVES TRAVEL STOP #271,"I-40, EXIT 37 & US-219",Ozark,AR,35.4888029,-93.831516,"Ozark, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52562,MOBIL,"I-87, EXIT 36",Plattsburgh,NY,44.695549,-73.45682,"Plattsburgh, NY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52563,FLYING J TRAVEL PLAZA #631,"I-75, EXIT 2",Lake Park,GA,30.679665,-83.222679,"5 South Exit Sb, Lake Park, GA 31636, United States of America",us,building,0.48999999999999994,inner_part,needs_review,Geoapify
+52564,FLYING J TRAVEL PLAZA #669,"I-44, EXIT 11A & US-71/SR-249 & SR-FF",Joplin,MO,37.0841838,-94.5133385,"Joplin, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52565,PILOT TRAVEL CENTERS #377,"I-35, EXIT 13",Laredo,TX,27.555445,-99.497722,"13 Encino Circle, Laredo, TX 78041, United States of America",us,building,0.3333333333333333,inner_part,needs_review,Geoapify
+52566,YUMM,"I-35, EXIT 8",Laredo,TX,27.5079211,-99.5069834,"Laredo, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52575,PILOT TRAVEL CENTERS #775,"I-15, EXIT 4",Saint George,UT,37.050267,-113.559923,"St. George, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52577,PILOT TRAVEL CENTER #329,"I-29 & I-80, EXIT 1B",Council Bluffs,IA,41.258841,-95.8519484,"Council Bluffs, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5258,PT TRUCK STOP,"I-12, EXIT 42",Hammond,LA,30.501623,-90.46711,"Hammond, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52580,LOVES TRAVEL STOP #405,"I-95, EXIT 29",Brunswick,GA,31.13976,-81.58205,"Super 8 Motel - Brunswick, Glynn County, GA, United States of America",us,amenity,0.443335390384966,inner_part,needs_review,Geoapify
+52581,TA WILLCOX TRAVEL CENTER,"I-10, EXIT 340",Willcox,AZ,32.2529138,-109.8315759,"Willcox, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52582,JRs Oasis,SR-50,Yankton,SD,42.8712938,-97.3967011,"Yankton, SD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52585,SUPERPUMPER #22,"I-94, EXIT 42",Belfield,ND,46.8852906,-103.1996219,"Belfield, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52587,PILOT TRAVEL CENTERS #380,"I-81, EXIT 25 & I-90, EXIT 36",Liverpool,NY,43.106456,-76.217705,"Village of Liverpool, Liverpool, Salina, NY, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+52588,STRIPES #42564,US-87,Lubbock,TX,33.396712,-101.814306,"US Highway 87, Lubbock County, TX 79423, United States of America",us,street,0.5,full_match,needs_review,Geoapify
+52590,FLYING J TRAVEL PLAZA #661,"I-65, EXIT 2 & US-31W",Franklin,KY,36.722263,-86.5772177,"Franklin, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52591,FLYING J TRAVEL PLAZA #749,"I-95, EXIT 104",Ruther Glen,VA,37.9408753,-77.4618647,"Ruther Glen, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52594,PILOT TRAVEL CENTERS #348,"I-70, EXIT 32B",Bentleyville,PA,40.1167387,-80.0083855,"Bentleyville, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52595,7-ELEVEN #40281,"I-476,  EXIT 35/95",Jim Thorpe,PA,40.8636074,-75.7386948,"Jim Thorpe, PA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+52597,7-ELEVEN #40278,"I-81, EXIT 44 & I-76",Plainfield,PA,40.203143,-77.2899837,"Plainfield, West Pennsboro Township, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52598,7-ELEVEN #40283,"I-76, EXIT 19/247",Middletown,PA,36.7324856,-119.7873293,"19/247 Exit, Fresno, CA 93721, United States of America",us,building,0,full_match,needs_review,Geoapify
+52599,7-ELEVEN #40285,"I-76, EXIT 21/286",Bowmansville,PA,40.1967609,-76.0174416,"Bowmansville, Brecknock Township, PA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+52601,LOVES TRAVEL STOP #236,"I-40, EXIT 161 & SR-391",North Little Rock,AR,34.769536,-92.2670941,"North Little Rock, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52602,7-ELEVEN #40277,"I-76, EXIT 16/226",Newburg,PA,40.711499,-75.354612,"Newburg, Lower Nazareth Township, PA, United States of America",us,suburb,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52603,CASEYS #3364,US-281 & SR-200,Carrington,ND,47.44972,-99.126224,"Carrington, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52605,PILOT TRAVEL CENTER #39,"I-57, EXIT 335",Monee,IL,41.42698,-87.75949,"Interchange 335, Monee Township, Monee, IL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+52607,PILOT TRAVEL CENTERS #409,"I-40, EXIT 172",Dickson,TN,36.0766534,-87.3870096,"Dickson, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52608,PILOT #7971,"I-40, EXIT 133",Conover,NC,35.7065004,-81.2184383,"Conover, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52610,TA HARBORCREEK TRAVEL CENTER,"I-90, EXIT 35",Erie,PA,42.1294712,-80.0852695,"Erie, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52611,STRIPES #40530,SR-239,Del Rio,TX,29.355319,-100.917395,"Spur 239, Del Rio, TX 78840, United States of America",us,street,0.7,full_match,needs_review,Geoapify
+52612,STRIPES 7FLEET #42568,US-60 & CR-G,Hereford,TX,34.8245521,-102.398778,"Hereford, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52615,PILOT TRAVEL CENTERS #4,"I-90, EXIT 151",Avon,OH,41.4516512,-82.0350598,"Avon, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52616,PILOT TRAVEL CENTER #28,I-69 EXIT 234,Daleville,IN,40.1211546,-85.5580301,"Daleville, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52618,PILOT TRAVEL CENTERS #63,"I-85, EXIT 35",Piedmont,SC,34.7023389,-82.4645714,"Piedmont, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52620,GOODLAND 24/7 STORE,"I-70, EXIT 19",Goodland,KS,39.37213,-101.72583,"6650 Road 19, Goodland, KS 67735, United States of America",us,building,0.5,inner_part,needs_review,Geoapify
+52621,CORNER MARKET #111,"I-70, EXIT 27",Goodland,KS,39.3433971,-101.7279687,"Dan Brenner Ford, 1520 West 16th Street, Goodland, KS 67735, United States of America",us,building,0.5,inner_part,needs_review,Geoapify
+52622,STRIPES 7FLEET #42567,I-20,Stanton,TX,32.1410781,-101.780247,"I 20, Stanton, TX 79702, United States of America",us,street,1,full_match,candidate,Geoapify
+52623,TA WILLINGTON TRAVEL CENTER,"I-84, EXIT 71",Willington,CT,41.8757947,-72.2642761,"Willington, CT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52624,PILOT TRAVEL CENTERS #390,"I-84, EXIT 188 & US-395",Stanfield,OR,45.7804098,-119.217235,"Stanfield, OR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52625,FLYING J TRAVEL PLAZA #673,"I-44, EXIT 226 & SR-85",Sullivan,MO,38.2078684,-91.160072,"Sullivan, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52626,FLYING J TRAVEL PLAZA #627,"I-95/SR-405, EXIT 29 & US-82/US-17/SR-25/SR-520",Brunswick,GA,31.1499528,-81.4914894,"Brunswick, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52628,One9 Pride #1215,"I-10, EXIT 45",Salome,AZ,33.7811491,-113.6147146,"Salome, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52629,LOVES TRAVEL STOP #413,"I-90, EXIT 106 & US-97",Ellensburg,WA,46.9970635,-120.545122,"Ellensburg, WA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52630,PILOT TRAVEL CENTERS #386,"I-5, EXIT 263",Salem,OR,44.917382,-123.031352,"Salem, OR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52632,LOVES TRAVEL STOP #451,"I-65, EXIT 95 & CR-500",Whiteland,IN,39.5500485,-86.0797079,"Whiteland, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52633,PILOT TRAVEL CENTERS #57,"I-40 & I-85, EXIT 152",Mebane,NC,36.0959715,-79.2669619,"Mebane, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52634,PETRO STOPPING CENTER #362,"I-80, EXIT 353",York,NE,40.8214,-97.59755,"Interchange 353, York, NE, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+52635,E EXPRESS at MLK,"I-40 & I-35, EXIT 127",Oklahoma City,OK,35.4729886,-97.5170536,"Oklahoma City, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52636,LOVES TRAVEL STOP #414,"I-64, EXIT 25B & US-41",Haubstadt,IN,38.2050442,-87.5741876,"Haubstadt, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52638,STRIPES 7FLEET #42555,"I-20, EXIT 80 & SR-18",Monahans,TX,31.5890519,-102.8861902,"Monahans, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52640,SPEEDWAY #8316,US-30 & US-41,Dyer,IN,41.496853,-87.472192,"1350 US-41, Schererville, IN 46375, United States of America",us,building,0.3958450114321236,inner_part,needs_review,Geoapify
+52641,PILOT TRAVEL CENTERS #71,"I-95, EXIT 109",Port Wentworth,GA,32.191622,-81.20065,"109 Bearing Circle, Port Wentworth, GA 31407, United States of America",us,building,0.2857142857142857,inner_part,needs_review,Geoapify
+52642,One9 #61,"I-26, EXIT 52 & SR-56",Clinton,SC,34.4726277,-81.8806562,"Clinton, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52643,Minit Mart #3,HIGHWAY 277 & FM 1589,Eagle Pass,TX,28.709211,-100.4992936,"Eagle Pass, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52644,ONE9 #058,"I-95, EXIT 180 & SR-48",Pleasant Hill,NC,36.257019,-80.89179,"Pleasant Hill, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52646,FLYING J TRAVEL PLAZA #619,"I-70, EXIT 285",Aurora,CO,39.666015,-104.867305,"Exit, Aurora, CO 80231, United States of America",us,street,1,full_match,candidate,Geoapify
+52647,FLYING J TRAVEL PLAZA #699,"I-70, EXIT 122",Millersport,OH,39.9000639,-82.534048,"Millersport, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52648,Stripes #42566,US-67 & SR-158,Ballinger,TX,31.7411047,-99.9530698,"Ballinger, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52649,FLYING J TRAVEL PLAZA #623,"I-10, EXIT 192 & US-90",Midway,FL,32.7667059,-117.2256983,"Shark Encounter Exit, Midway District, San Diego, CA 92110, United States of America",us,street,0,full_match,needs_review,Geoapify
+52651,TA NEW BRAUNFELS TRAVEL CENTER,"I-35, EXIT 193",New Braunfels,TX,29.7028266,-98.1257348,"New Braunfels, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52652,PILOT TRAVEL CENTERS #47,"I-275, EXIT 129",Georgetown,KY,38.2099837,-84.5597128,"Georgetown, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52656,TRAVELING TIGER CENTER,"I-10, EXIT 87",Sierra Blanca,TX,31.1778312,-105.357627,"Sierra Blanca, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52658,LOVES TRAVEL STOP #274,"I-40, EXIT 221 & SR-27",Okemah,OK,35.4325854,-96.3050064,"Okemah, OK, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52659,LOVES TRAVEL STOP #276,"I-10, EXIT 20",Lordsburg,NM,30.207435,-91.824932,"1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",us,building,0,full_match,needs_review,Geoapify
+52661,LOVES TRAVEL STOP #281,"I-35 WEST, EXIT 40",Fort Worth,TX,32.958873,-97.043618,"Bass Pro Exit, Fort Worth, TX 76051, United States of America",us,street,0.81,full_match,candidate,Geoapify
+52663,EXXON,"I-20/I-59, EXIT 17 & SR-28",Livingston,AL,32.5841595,-88.1872828,"Livingston, AL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52664,PETRO STOPPING CENTER #378,I-81 EXIT 178B,Pittston,PA,41.3259134,-75.7893604,"Pittston, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52667,EXPRESS LANE TRAVEL CENTER,"I-20, EXIT 100 & US-80",Lawrence,MS,32.3251443,-89.2328394,"Lawrence, MS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52669,COLUMBIA TRUCK STOP,US-46,Columbia,NJ,40.9173036,-75.0822779,"US 46, Columbia, Knowlton Township, NJ 18351, United States of America",us,street,1,full_match,candidate,Geoapify
+52674,FLYING J TRAVEL PLAZA #738,"I-20/FM707, EXIT 277",Tye,TX,32.4545421,-99.8685101,"Tye, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52675,PILOT TRAVEL CENTER #907- TOWN PUMP,"I-94, EXIT 138",Miles City,MT,46.4070219,-105.847843,"Miles City, MT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52676,PILOT TRAVEL CENTERS #336,"I-80, EXIT 97 & US-219",Du Bois,PA,41.123215,-78.756436,"Dubois, Du Bois, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52678,STRIPES 7FLEET #42433,US-277,Bronte,TX,31.8912606,-100.289985,"US 277, Bronte, TX 76933, United States of America",us,street,1,full_match,candidate,Geoapify
+52679,LOVES TRAVEL STOP #404,"I-295, EXIT 56 & I-95, EXIT 7",Bordentown,NJ,40.1462559,-74.7114504,"Bordentown, NJ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52680,PILOT TRAVEL CENTER #91,"I-95, EXIT 329",Saint Johns,FL,29.913888,-81.41394,"St. Johns County, FL, United States of America",us,county,0.25,match_by_country_or_state,needs_review,Geoapify
+52683,PILOT TRAVEL CENTER #145,"I-40/US-71/US-62, EXIT 72 AND US-412",Springdale,AR,36.1671116,-94.1285189,"412 US 412, Springdale, AR 72764, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+52684,KWIK STAR #348,US-30/US-67,Clinton,IA,41.8265742,-90.2041011,"US 30;US 67 / US 30;US 67, Clinton, IA 52735, United States of America",us,amenity,0,inner_part,needs_review,Geoapify
+52685,LOVES TRAVEL STOP #275,"I-40/US-63, EXIT 233 & SR-261",Palestine,AR,34.9719871,-90.9035586,"Palestine, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52686,LOVES TRAVEL STOP #278,"I-40, EXIT 277",Joseph City,AZ,34.9558585,-110.3339982,"Joseph City, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52687,LOVES TRAVEL STOP #286,"I-10, EXIT 17",Quartzsite,AZ,33.6669903,-114.21681,"Quartzsite, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52690,LOVES TRAVEL STOP #415,"I-95 & OKEECHOBEE RD, EXIT 129",Fort Pierce,FL,27.4292658,-80.3612224,"Okeechobee Road, Fort Pierce, FL 34947, United States of America",us,street,0.35720999999999997,full_match,needs_review,Geoapify
+52691,PILOT TRAVEL CENTERS #312,"I-20/SR-402, EXIT 5 & SR-100",Tallapoosa,GA,33.7442912,-85.2879889,"Tallapoosa, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52692,PILOT TRAVEL CENTER #249,"I-70/I-55, EXIT 18 & SR-162",Troy,IL,38.7292147,-89.8831541,"Troy, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+52697,FLYING J TRAVEL PLAZA #747,"I-15, EXIT 261",Springville,UT,40.1652447,-111.6114726,"Springville, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5282,CASEYS #3548,US-54 & US-61,Pratt,KS,37.6439071,-98.7375911,"Pratt, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5285,TULLO TRUCK STOP,"I-95, EXIT 15E & US-1/US-9",Kearny,NJ,40.718928,-74.1499657,"US 1;US 9, The Ironbound, Newark, NJ 07105, United States of America",us,street,0.225,full_match,needs_review,Geoapify
+5297,ERNIES TRUCK STOP,"I-90,  EXIT 179 & I-90 BUS/SR-17",Moses Lake,WA,47.0914376,-119.2344785,"SR 17, Moses Lake, WA 98837, United States of America",us,street,1,full_match,candidate,Geoapify
+5299,Sudden Service #62,"I-65, EXIT 6 & SR-100",Franklin,KY,36.722263,-86.5772177,"Franklin, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5302,ONE9 #258,"I-81, EXIT 150 & US-220 ALT & US-11",Troutville,VA,37.4181901,-79.8747687,"Troutville, VA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5306,PILOT TRAVEL CENTERS #11,"I-76, EXIT 232",North Lima,OH,40.9482165,-80.658496,"North Lima, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5309,NEWBORN TRUCK STOP,I-20 EXIT 5,Tallapoosa,GA,33.7442912,-85.2879889,"Tallapoosa, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5310,FLYING J #576,"I-35, EXIT 69",Northfield,MN,44.4582041,-93.161159,"Northfield, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5324,HY-MILER #2245,SR-53,Fremont,OH,41.377445,-83.1170578,"SR 53, Fremont, OH 43420, United States of America",us,street,1,full_match,candidate,Geoapify
+5341,KWIK STAR #1160,"US-75, EXIT 118 & SR-3",Le Mars,IA,42.792151,-96.1662993,"Le Mars, IA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5349,JET FOOD STORE #17,US-1/SR=4/SR-540 & US-220/SR-47,Wrens,GA,33.2076456,-82.391792,"Wrens, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5363,SPEEDWAY #6767,"I-75, EXIT 20",Manheim,PA,40.1637359,-76.3952429,"Manheim, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5389,FLYING J TRAVEL PLAZA #744,"I-15, EXIT 343",Ogden,UT,41.2230048,-111.9738429,"Ogden, UT, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5391,PWI #605,"I-10, EXIT 378",San Simon,AZ,32.2665117,-109.2270613,"San Simon, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5399,FLYING J TRAVEL PLAZA #750,"I-81 & I-77, EXIT 80",Max Meadows,VA,36.97166,-80.9503639,"Max Meadows, VA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5407,CASEYS #4535,US 81,Concordia,KS,39.571543,-97.661141,"Concordia, KS, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5414,One9 #1216,"I-10 ,EXIT 200 & SR-84",Eloy,AZ,32.7551703,-111.553493,"Eloy, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5419,USA TRAVEL CENTER,"I-40, EXIT 48 & US-93",Kingman,AZ,35.1895921,-114.0532996,"Kingman, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5422,K AND H TRUCK PLAZA,"I-57, EXIT 283 & US-24",Gilman,IL,40.7667015,-87.992262,"Gilman, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5424,WK TRUCK STOP,"US-231 & SR-9001, EXIT 75",Beaver Dam,KY,37.4029224,-86.8759367,"Beaver Dam, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5435,MEADE AUTO AND TRUCK PLAZA,US-54,Meade,KS,37.285498,-100.3444962,"West Carthage Street, Meade, KS 67864, United States of America",us,street,0,full_match,needs_review,Geoapify
+5436,PARKWAY MARATHON,"US-79, EXIT 94",Caneyville,KY,37.4242184,-86.4883148,"Caneyville, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5446,PETRO STOPPING CENTER #308,"I-20, EXIT 8 & SR-526",Shreveport,LA,32.5135356,-93.7477839,"Shreveport, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+546,PLAZA 30,US-30,Wanatah,IN,41.431534,-86.897166,"Cass Township, Wanatah, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5462,BOOZER KWIK STOP,"I-15, EXIT 118",Idaho Falls,ID,43.4909018,-112.0391744,"Idaho Falls, ID, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5464,PILOT TRAVEL CENTERS #48,"I-65, EXIT 86",Glendale,KY,37.6017278,-85.9055189,"Glendale, KY, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5474,One9 #88,"I-95/SR-9, EXIT 201 & SR-520",Cocoa,FL,28.3556635,-80.7325345,"Cocoa, Cocoa, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5477,CHEVRON #383766,"I-5, EXIT 216",Halsey,OR,44.38587,-123.06103,"Interstate 5 Northbound Exit 216, Linn County, OR, United States of America",us,amenity,0.482283393750948,inner_part,needs_review,Geoapify
+5479,PILOT TRAVEL CENTERS #94,"I-75, EXIT 161",Punta Gorda,FL,26.9351529,-82.0512058,"Punta Gorda, FL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5491,49ER FUEL CENTER,"I-75, EXIT 49",East Bernstadt,KY,37.1895318,-84.1177098,"East Bernstadt, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5492,BFS FOODS #68,"I-70, EXIT 3",Hancock,MD,39.6994024,-78.1820972,"Hancock, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5522,ONE9 #301,"I-55,  EXIT 40",Marston,MO,36.5189503,-89.6125789,"Marston, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5523,TA LIMON TRAVEL CENTER,"I-70, EXIT 359 & US-24",Limon,CO,39.26995,-103.7092,"Holiday Inn Express Hotel & Suites Limon I-70 Ex 359, Limon, CO, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+5529,FLYING J #549,"I-77, EXIT 100 & 101",Mount Airy,NC,36.4993877,-80.6072138,"Mount Airy, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5537,HUCKS TRAVEL CENTER #51 DBA FLYING J #889,"I-57/I-64, EXIT 95 & SR-15",Mount Vernon,IL,38.3172715,-88.9031201,"Mount Vernon, IL, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5554,Southfork TRUCK STOP,"I-30, EXIT 63 & SR-53",Gurdon,AR,33.9182285,-93.1488168,"Gurdon, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5560,MIDWAY TRAVEL PLAZA,I-70 EXIT 121 & US-40,Columbia,MO,38.951883,-92.3337366,"Columbia Township, Columbia, MO, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5569,TA EXPRESS NORWOOD #0450,US-60,Norwood,MO,37.1109477,-92.4520983,"US 60, Norwood, MO 65717, United States of America",us,street,1,full_match,candidate,Geoapify
+557,SAPP BROS TRAVEL CENTER,"I-80, EXIT 73",Peru,IL,41.36503,-89.15231,"Interchange 73, Peru Township, Peru, IL, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+5570,PETRO STOPPING CENTER #310,"I-12, EXIT 40 & US-51 BUS",Hammond,LA,30.501623,-90.46711,"Hammond, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5579,SAPP BROS TRAVEL CENTER,US-30,Columbus,NE,41.413919,-97.368009,"US 30, Columbus Township, Columbus, NE 68601, United States of America",us,street,1,full_match,candidate,Geoapify
+559,SHELL MORGAN ROAD TRUCK STOP,"I-40, EXIT 142",Maumelle,AR,34.856613,-92.4056858,"Maumelle, AR, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5592,TA COLUMBIA NORTH,"I-20, EXIT 71 & US-21",Columbia,SC,34.000754,-81.0352313,"Columbia, SC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5597,CM LAKE CHARLES FUEL STOP 36,"I-10, EXIT 36 & SR-397",Lake Charles,LA,30.2305095,-93.2169807,"Lake Charles, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+56,TOPS TRUCK STOP,"I-94, EXIT 182 & US-83",Sterling,ND,46.813878,-100.2915,"Sterling, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5601,BP,"I-24, EXIT 16",Paducah,KY,37.0833893,-88.6000478,"Paducah, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5603,TA NORTH CANTON TRAVEL CENTER,"I-77, EXIT 111",North Canton,OH,40.875891,-81.4023356,"North Canton, OH, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5606,FLYING J #511,"I-94, EXIT 147",Mandan,ND,46.826415,-100.889704,"Mandan, ND, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5607,RICE MART,"I-45 & FM 1603, EXIT 238",Rice,TX,32.2437586,-96.4985967,"Rice, TX, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5608,SHOP A LOTT  #3,US-84 & US-171,Mansfield,LA,31.9752698,-93.7126602,"US 171, Mansfield, LA 71052, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+5613,CHEVRON #381108,"I-82, EXIT 36",Yakima,WA,46.601557,-120.510842,"Yakima, WA, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5618,MCCLURE OIL #52,"I-65/US-52, EXIT 140 & SR-32",Lebanon,IN,40.0483744,-86.4691677,"Lebanon, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5649,Fast Stop,"I-10, EXIT 182 & SR-22",Sorrento,LA,30.1843642,-90.8592632,"Sorrento, LA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5651,LOVES TRAVEL STOP #303,"I-64, EXIT 43 & SR-395",Waddy,KY,38.1370153,-85.0743978,"Waddy, KY, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5659,TEX-BEST #526,US-59 & US-281,George West,TX,28.3258657,-98.114581,"US 59, George West, TX 78022, United States of America",us,street,0.6,full_match,needs_review,Geoapify
+566,TA GARY TRAVEL CENTER,"I-80/I-94, EXIT 6",Gary,IN,41.6020962,-87.3370646,"Gary, IN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5660,Pride Convenience Store,"I-90, EXIT 51 & I-291",Chicopee,MA,42.1487691,-72.6071119,"Chicopee, MA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5661,TA Express #287,"I-40, EXIT 288 & SR-111",Cookeville,TN,36.1623886,-85.4997057,"Cookeville, TN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5667,PILOT TRAVEL CENTERS #393,"I-40, EXIT 24 & SR-209",Waynesville,NC,35.4887476,-82.9888725,"Waynesville, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5669,KWIK TRIP #497,I-90 EXIT 266 & CR-12,Dakota,MN,43.9138856,-91.3598478,"Dakota, MN, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+567,TA ELOY TRAVEL CENTER,"I-10 & I-8, EXIT 203",Eloy,AZ,32.7551703,-111.553493,"Eloy, AZ, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5670,TA MOUNT VERNON TRAVEL CENTER,"I-57 & I-64, EXIT 95",Mount Vernon,IL,38.3172715,-88.9031201,"Mount Vernon, IL, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5674,TA MADISON TRAVEL CENTER,"I-20, EXIT 114 & US-441",Madison,GA,33.5956814,-83.467944,"Madison, GA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5677,YESWAY #1178,CR-13,Kadoka,SD,43.833882,-101.509866,"Kadoka, SD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5691,Pilot Travel Center #666,"I-94, EXIT 30",Benton Harbor,MI,42.09056,-86.40889,"Interchange 30, Benton, MI, United States of America",us,amenity,0.81,inner_part,needs_review,Geoapify
+5700,BEACON & BRIDGE #18,US-131 BUS,Big Rapids,MI,43.7051513,-85.484087,"North State Street, Big Rapids, MI 49307, United States of America",us,street,0,full_match,needs_review,Geoapify
+5718,TOOT N TOTUM #104,US-287,Dalhart,TX,36.07769,-102.540156,"US 87, Dallam County, TX 79022, United States of America",us,street,0.45147436433700694,full_match,needs_review,Geoapify
+572,PILOT TRAVEL CENTER #881,"I-69, EXIT 309A",Fort Wayne,IN,41.1273286,-85.1610061,"Service Exit, Fort Wayne, IN 46808, United States of America",us,street,0.9,full_match,candidate,Geoapify
+5721,TA BALTIMORE SOUTH TRAVEL CENTER,"I-95, EXIT 41A & SR-175 & US-1",Jessup,MD,39.1492746,-76.7752493,"Jessup, MD, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5729,MENOMONIE FARMERS UNION,"I-94, EXIT 45 & CR-B",Menomonie,WI,44.8765289,-91.9278716,"Menomonie, WI, United States of America",us,city,0.25,match_by_city_or_disrict,needs_review,Geoapify
+5730,SCOTTS QUICK STOP,SR-53 & SR-46,Marlette,MI,43.326969,-83.08022,"Marlette, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5739,PILOT TRAVEL CENTERS #284,"I-75, EXIT 18",Monroe,MI,30.84581,-83.331276,"18 North Exit Sb, Valdosta, GA 31602, United States of America",us,building,0,full_match,needs_review,Geoapify
+5751,TA LAKE PARK TRAVEL CENTER,"I-75,  EXIT 2",Lake Park,GA,30.679665,-83.222679,"5 South Exit Sb, Lake Park, GA 31636, United States of America",us,building,0.48999999999999994,inner_part,needs_review,Geoapify
+5754,ROAD TRIP OASIS PERRY,"I-69, EXIT 105 & SR-52",Perry,MI,42.8264205,-84.2194127,"Perry, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5758,SPEEDY Q MARKET #8206,"I-94, EXIT 274",Port Huron,MI,42.9760854,-82.4333742,"Port Huron, MI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+576,PETRO STOPPING CENTER #343,"I-10, EXIT 76",Egan,LA,38.292,-83.654193,"Egan Lane, Fleming County, KY 41049, United States of America",us,street,0,full_match,needs_review,Geoapify
+5770,Kwik Trip # 1281,"I-43, EXIT 107",Belgium,WI,43.4997212,-87.850367,"Belgium, WI, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+5771,DUNES AUTO TRUCK PLAZA,"I-94, EXIT 12",Sawyer,MI,42.2753169,-83.533131,"Sawyer, Canton Township, MI 48188, United States of America",us,street,1,full_match,candidate,Geoapify
+5774,PJ TRAVEL PLAZA,"I-80, EXIT 192 & SR-880",Loganton,PA,41.0347015,-77.3066113,"Loganton, PA, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+578,LOVES TRAVEL STOP #449,"I-84, EXIT 17",Troutdale,OR,45.544,-122.40534,"Interstate 84 Eastbound Exit 17, Troutdale, OR, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+5780,BILLS TRUCKSTOP,"I-85, EXIT 86",Linwood,NC,35.7506938,-80.3178306,"Linwood, NC, United States of America",us,city,0.5,match_by_city_or_disrict,needs_review,Geoapify
+579,FLYING J TRAVEL PLAZA #764,"I-80, EXIT 104 & US-191",Rock Springs,WY,41.627707,-109.230899,"280 US 191, Rock Springs, WY 82901, United States of America",us,building,0.4,inner_part,needs_review,Geoapify
+5799,STAPLES OIL,"I-90, EXIT 146",Alden,MN,43.671337,-93.57459,"146 Euclid Street, Alden, MN 56009-0000, United States of America",us,building,0.3333333333333333,inner_part,needs_review,Geoapify
+5801,TA WYTHEVILLE TRAVEL CENTER,"I-81, EXIT 72 & I-77, EXIT 41",Wytheville,VA,36.96873,-81.06675,"Interchange 41, Wytheville, VA, United States of America",us,amenity,1,inner_part,needs_review,Geoapify
+5821,TA PORTLAND TRAVEL CENTER,"I-5,  EXIT 278",Aurora,OR,45.23664,-122.80579,"Interstate 5 Southbound Exit 278, Marion County, OR, United States of America",us,amenity,0.48179793477388877,inner_part,needs_review,Geoapify

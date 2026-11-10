@@ -1,5 +1,7 @@
 import os
+import json
 from pathlib import Path
+from shapely.geometry import LineString
 
 import requests
 from dotenv import load_dotenv
@@ -13,19 +15,55 @@ PLACES_URL = "https://api.geoapify.com/v2/places"
 
 
 class FuelStationError(Exception):
-    """Raised when fuel station discovery fails."""
+    """this is raised when fuel station discovery fails."""
+
+
+def simplify_route_coordinates
+(
+    route_coordinates,
+    tolerance_meters=100,
+):
+    """
+    what this does is it just simplify route geometry to reduce the Geoapify request size that unfortunately consume my time debugging.
+    """
+    from pyproj import Transformer
+
+    forward_transformer = Transformer.from_crs(
+        "EPSG:4326",
+        "EPSG:5070",
+        always_xy=True,
+    )
+
+    reverse_transformer = Transformer.from_crs(
+        "EPSG:5070",
+        "EPSG:4326",
+        always_xy=True,
+    )
+
+    route = LineString(route_coordinates)
+
+    projected_route = LineString(
+        [
+            forward_transformer.transform(longitude, latitude)
+            for longitude, latitude in route_coordinates
+        ]
+    )
+
+    simplified_route = projected_route.simplify(
+        tolerance_meters,
+        preserve_topology=True,
+    )
+
+    simplified_coordinates = [
+        reverse_transformer.transform(x, y) for x, y in simplified_route.coords
+    ]
+
+    return simplified_coordinates
 
 
 def find_fuel_stations(route_coordinates, buffer_meters=5000):
     """
-    Find fuel stations within a corridor around a route.
-
-    Args:
-        route_coordinates: List of [longitude, latitude] positions.
-        buffer_meters: Search distance from the route in meters.
-
-    Returns:
-        List of normalized fuel station dictionaries.
+    this Finds fuel stations within a corridor around a route. using the api from geoapify. also at the end it returns a list of normalized fuel station dictionaries.
     """
 
     if not GEOAPIFY_API_KEY:
@@ -48,6 +86,10 @@ def find_fuel_stations(route_coordinates, buffer_meters=5000):
 
         if not -90 <= latitude <= 90:
             raise ValueError("Invalid latitude.")
+    simplified_coordinates = simplify_route_coordinates(
+        route_coordinates,
+        tolerance_meters=100,
+    )
 
     payload = {
         "categories": ["service.vehicle.fuel"],
@@ -55,13 +97,25 @@ def find_fuel_stations(route_coordinates, buffer_meters=5000):
             "type": "polyline",
             "geometry": {
                 "type": "LineString",
-                "coordinates": route_coordinates,
+                "coordinates": simplified_coordinates,
             },
             "buffer": buffer_meters,
         },
         "limit": 100,
         "offset": 0,
     }
+
+    geometry_json = json.dumps(
+        payload["filter"]["geometry"],
+        separators=(",", ":"),
+    )
+
+    print("Original coordinates:", len(route_coordinates))
+    print("Simplified coordinates:", len(simplified_coordinates))
+    print(
+        "Simplified geometry size:",
+        len(geometry_json.encode("utf-8")),
+    )
 
     try:
         response = requests.post(
@@ -71,7 +125,12 @@ def find_fuel_stations(route_coordinates, buffer_meters=5000):
             timeout=30,
         )
 
-        response.raise_for_status()
+        if not response.ok:
+            raise FuelStationError(
+                f"Geoapify Places API returned HTTP {response.status_code}: "
+                f"{response.text[:1000]}"
+            )
+
         data = response.json()
 
     except requests.RequestException as exc:
@@ -92,6 +151,9 @@ def find_fuel_stations(route_coordinates, buffer_meters=5000):
             {
                 "name": properties.get("name"),
                 "address": properties.get("formatted"),
+                "city": properties.get("city"),
+                "state": properties.get("state"),
+                "state_code": properties.get("state_code"),
                 "longitude": coordinates[0],
                 "latitude": coordinates[1],
                 "categories": properties.get("categories", []),

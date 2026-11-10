@@ -1,0 +1,994 @@
+{
+    "10006": {
+        "station_id": "10006",
+        "station_name": "FLINT HILLS FUEL MART",
+        "candidate": {
+            "latitude": 38.241305,
+            "longitude": -96.93393,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Conoco",
+            "address": "Conoco, 5th Street, Florence, KS 66851, United States of America",
+            "city": "Florence",
+            "state": "Kansas",
+            "latitude": 38.2403461,
+            "longitude": -96.9369447,
+            "distance_meters": 284.06,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51462ae7e6f63b58c0594e9c37a9c31e4340f00103f901ad841c5d00000000920306436f6e6f636f",
+            "name_similarity": 0.074
+        },
+        "pois": [
+            {
+                "name": "Conoco",
+                "address": "Conoco, 5th Street, Florence, KS 66851, United States of America",
+                "city": "Florence",
+                "state": "Kansas",
+                "latitude": 38.2403461,
+                "longitude": -96.9369447,
+                "distance_meters": 284.06,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51462ae7e6f63b58c0594e9c37a9c31e4340f00103f901ad841c5d00000000920306436f6e6f636f"
+            }
+        ]
+    },
+    "10007": {
+        "station_id": "10007",
+        "station_name": "CIRCLE K #2705346",
+        "candidate": {
+            "latitude": 31.9820485,
+            "longitude": -81.1673336,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Murphy Express",
+            "address": "Murphy Express, Abercorn Street, Savannah, GA 31419, United States of America",
+            "city": "Savannah",
+            "state": "Georgia",
+            "latitude": 31.9820447,
+            "longitude": -81.1756061,
+            "distance_meters": 780.24,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51991e5e213d4b54c059cbb50d4867fb3f40f00103f901f735bff40200000092030e4d75727068792045787072657373",
+            "name_similarity": 0.133
+        },
+        "pois": [
+            {
+                "name": "Shell",
+                "address": "Shell, 14025 Abercorn Street, Savannah, GA 31419, United States of America",
+                "city": "Savannah",
+                "state": "Georgia",
+                "latitude": 31.981370612859422,
+                "longitude": -81.16962411630153,
+                "distance_meters": 228.81,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5131081c1fdb4a54c059987cbf1a3bfb3f40f00102f90125708608000000009203055368656c6c"
+            },
+            {
+                "name": "",
+                "address": "Abercorn Street, Savannah, GA 31419, United States of America",
+                "city": "Savannah",
+                "state": "Georgia",
+                "latitude": 31.980725664920694,
+                "longitude": -81.16973095735743,
+                "distance_meters": 269.75,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5103be3bdfdc4a54c059a72e51d610fb3f40f00102f901e9d0cf2700000000"
+            },
+            {
+                "name": "",
+                "address": "Abercorn Street, Savannah, GA 31419, United States of America",
+                "city": "Savannah",
+                "state": "Georgia",
+                "latitude": 31.98095605137668,
+                "longitude": -81.17138498646857,
+                "distance_meters": 400.96,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "511bfabbf8f74a54c059e4798fef1ffb3f40f00102f901ead0cf2700000000"
+            },
+            {
+                "name": "Murphy Express",
+                "address": "Murphy Express, Abercorn Street, Savannah, GA 31419, United States of America",
+                "city": "Savannah",
+                "state": "Georgia",
+                "latitude": 31.9820447,
+                "longitude": -81.1756061,
+                "distance_meters": 780.24,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51991e5e213d4b54c059cbb50d4867fb3f40f00103f901f735bff40200000092030e4d75727068792045787072657373"
+            }
+        ]
+    },
+    "10014": {
+        "station_id": "10014",
+        "status": "no_geocoding_coordinates",
+        "reason": "The name + address geocoding result did not contain usable coordinates.",
+        "pois": [],
+        "best_match": null
+    },
+    "10015": {
+        "station_id": "10015",
+        "station_name": "Loves Travel Stop #429",
+        "candidate": {
+            "latitude": 36.2051981,
+            "longitude": -86.7718598,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Love's",
+            "address": "Love's, Lucas Lane, Nashville, TN 37207, United States of America",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "latitude": 36.20526507068777,
+            "longitude": -86.7717004016198,
+            "distance_meters": 16.12,
+            "categories": [
+                "building",
+                "building.commercial",
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "5118d1148a63b155c059bcce3620461a4240f00102f901c9d6810d000000009203064c6f76652773",
+            "name_similarity": 0.444
+        },
+        "pois": [
+            {
+                "name": "Love's",
+                "address": "Love's, Lucas Lane, Nashville, TN 37207, United States of America",
+                "city": "Nashville",
+                "state": "Tennessee",
+                "latitude": 36.20526507068777,
+                "longitude": -86.7717004016198,
+                "distance_meters": 16.12,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5118d1148a63b155c059bcce3620461a4240f00102f901c9d6810d000000009203064c6f76652773"
+            },
+            {
+                "name": "Love's",
+                "address": "Love's, West Trinity Lane, Nashville, TN 37207, United States of America",
+                "city": "Nashville",
+                "state": "Tennessee",
+                "latitude": 36.20583523471627,
+                "longitude": -86.77161107843823,
+                "distance_meters": 74.28,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51e7c76e1362b155c05945bc18cf581a4240f00102f901c8d6810d000000009203064c6f76652773"
+            },
+            {
+                "name": "",
+                "address": "West Trinity Lane, Nashville, TN 37207, United States of America",
+                "city": "Nashville",
+                "state": "Tennessee",
+                "latitude": 36.2061213,
+                "longitude": -86.7688097,
+                "distance_meters": 292.29,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "513f96992d34b155c0592741c92e621a4240f00103f901809d3c3902000000"
+            },
+            {
+                "name": "",
+                "address": "Hampton Street, Nashville, TN 37207, United States of America",
+                "city": "Nashville",
+                "state": "Tennessee",
+                "latitude": 36.207327009060954,
+                "longitude": -86.77830133297056,
+                "distance_meters": 624.55,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51ace264b0cfb155c05945bf01b1891a4240f00102f901e54e471f00000000"
+            }
+        ]
+    },
+    "10020": {
+        "station_id": "10020",
+        "station_name": "Maplefields",
+        "candidate": {
+            "latitude": 43.6033026,
+            "longitude": -73.2750335,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Mobil",
+            "address": "Mobil, 699 Washington Street, Fair Haven, VT 05743, United States of America",
+            "city": "Fair Haven",
+            "state": "Vermont",
+            "latitude": 43.6032161,
+            "longitude": -73.2751854,
+            "distance_meters": 15.56,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "518c5539a39c5152c059d8f5662f36cd4540f00103f90179e9c75c000000009203054d6f62696c",
+            "name_similarity": 0.25
+        },
+        "pois": [
+            {
+                "name": "Mobil",
+                "address": "Mobil, 699 Washington Street, Fair Haven, VT 05743, United States of America",
+                "city": "Fair Haven",
+                "state": "Vermont",
+                "latitude": 43.6032161,
+                "longitude": -73.2751854,
+                "distance_meters": 15.56,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "518c5539a39c5152c059d8f5662f36cd4540f00103f90179e9c75c000000009203054d6f62696c"
+            },
+            {
+                "name": "Citgo",
+                "address": "Citgo, 786 Washington Street, Fair Haven, VT 05743, United States of America",
+                "city": "Fair Haven",
+                "state": "Vermont",
+                "latitude": 43.603900882845096,
+                "longitude": -73.27669894393561,
+                "distance_meters": 149.7,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51a3c27c6fb55152c05930ecc69f4ccd4540f00102f90161bffe0900000000920305436974676f"
+            }
+        ]
+    },
+    "10024": {
+        "station_id": "10024",
+        "station_name": "MILLERS TRAVEL CENTER",
+        "candidate": {
+            "latitude": 39.543062,
+            "longitude": -110.733591,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Shell",
+            "address": "Shell, East Main Street, Wellington, UT 84542, United States of America",
+            "city": "Wellington",
+            "state": "Utah",
+            "latitude": 39.5422313,
+            "longitude": -110.7240559,
+            "distance_meters": 822.82,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "5174be8eee56ae5bc0590c2fd2d567c54340f00103f90131768a46000000009203055368656c6c",
+            "name_similarity": 0.154
+        },
+        "pois": [
+            {
+                "name": "Shell",
+                "address": "Shell, East Main Street, Wellington, UT 84542, United States of America",
+                "city": "Wellington",
+                "state": "Utah",
+                "latitude": 39.5422313,
+                "longitude": -110.7240559,
+                "distance_meters": 822.82,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5174be8eee56ae5bc0590c2fd2d567c54340f00103f90131768a46000000009203055368656c6c"
+            }
+        ]
+    },
+    "10028": {
+        "station_id": "10028",
+        "station_name": "GOOD TO GO #10",
+        "candidate": {
+            "latitude": 41.052299,
+            "longitude": -86.597556,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "",
+            "address": "South Monticello Street, Winamac, IN 46996, United States of America",
+            "city": "Winamac",
+            "state": "Indiana",
+            "latitude": 41.05061533127419,
+            "longitude": -86.6025941625626,
+            "distance_meters": 462.1,
+            "categories": [
+                "building",
+                "building.commercial",
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51e13d1be790a655c059da3f2c907a864440f00102f90132897a5800000000",
+            "name_similarity": 0.0
+        },
+        "pois": [
+            {
+                "name": "",
+                "address": "South Monticello Street, Winamac, IN 46996, United States of America",
+                "city": "Winamac",
+                "state": "Indiana",
+                "latitude": 41.05061533127419,
+                "longitude": -86.6025941625626,
+                "distance_meters": 462.1,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51e13d1be790a655c059da3f2c907a864440f00102f90132897a5800000000"
+            },
+            {
+                "name": "",
+                "address": "South Monticello Street, Winamac, IN 46996, United States of America",
+                "city": "Winamac",
+                "state": "Indiana",
+                "latitude": 41.04894745000001,
+                "longitude": -86.60162100000001,
+                "distance_meters": 505.06,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "518fe55df580a655c0597f7cf8e843864440f00102f90135897a5800000000"
+            }
+        ]
+    },
+    "10030": {
+        "station_id": "10030",
+        "status": "no_geocoding_coordinates",
+        "reason": "The name + address geocoding result did not contain usable coordinates.",
+        "pois": [],
+        "best_match": null
+    },
+    "10033": {
+        "station_id": "10033",
+        "station_name": "SHELL",
+        "candidate": {
+            "latitude": 38.8975436,
+            "longitude": -77.0041794,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Exxon",
+            "address": "Exxon, 200 Massachusetts Avenue Northeast, Washington, DC 20002, United States of America",
+            "city": "Washington",
+            "state": "District of Columbia",
+            "latitude": 38.8953931,
+            "longitude": -77.0032408,
+            "distance_meters": 252.54,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51d380e618354053c05933c8b83d9c724340f00103f901af827bdd000000009203054578786f6e",
+            "name_similarity": 0.2
+        },
+        "pois": [
+            {
+                "name": "Exxon",
+                "address": "Exxon, 200 Massachusetts Avenue Northeast, Washington, DC 20002, United States of America",
+                "city": "Washington",
+                "state": "District of Columbia",
+                "latitude": 38.8953931,
+                "longitude": -77.0032408,
+                "distance_meters": 252.54,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51d380e618354053c05933c8b83d9c724340f00103f901af827bdd000000009203054578786f6e"
+            }
+        ]
+    },
+    "10047": {
+        "station_id": "10047",
+        "station_name": "TOWN PUMP FOOD STORE #8929",
+        "candidate": {
+            "latitude": 30.207435,
+            "longitude": -91.824932,
+            "result_type": "building"
+        },
+        "status": "no_fuel_poi_found",
+        "reason": "No fuel POIs found within search radius.",
+        "best_match": null,
+        "pois": []
+    },
+    "10053": {
+        "station_id": "10053",
+        "station_name": "BECKS #27",
+        "candidate": {
+            "latitude": 41.582688,
+            "longitude": -88.907954,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "BP",
+            "address": "BP, 907 US 34, Earlville, IL 60518, United States of America",
+            "city": "Earlville",
+            "state": "Illinois",
+            "latitude": 41.58273015652937,
+            "longitude": -88.90984622003171,
+            "distance_meters": 157.45,
+            "categories": [
+                "building",
+                "building.commercial",
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "513adba3eb3a3a56c059e357dae696ca4440f00102f901d1ada658000000009203024250",
+            "name_similarity": 0.2
+        },
+        "pois": [
+            {
+                "name": "BP",
+                "address": "BP, 907 US 34, Earlville, IL 60518, United States of America",
+                "city": "Earlville",
+                "state": "Illinois",
+                "latitude": 41.58273015652937,
+                "longitude": -88.90984622003171,
+                "distance_meters": 157.45,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "513adba3eb3a3a56c059e357dae696ca4440f00102f901d1ada658000000009203024250"
+            }
+        ]
+    },
+    "10057": {
+        "station_id": "10057",
+        "station_name": "Flying J Travel Plaza #649",
+        "candidate": {
+            "latitude": 39.7903966,
+            "longitude": -86.2386551,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "IMS Fuel Station",
+            "address": "IMS Fuel Station, 5th Street, Speedway, IN 46224, United States of America",
+            "city": "Speedway",
+            "state": "Indiana",
+            "latitude": 39.791249168427214,
+            "longitude": -86.23652482708181,
+            "distance_meters": 205.22,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "518a400739238f55c059e8b01aa747e54340f00102f90183e5540700000000920310494d53204675656c2053746174696f6e",
+            "name_similarity": 0.244
+        },
+        "pois": [
+            {
+                "name": "IMS Fuel Station",
+                "address": "IMS Fuel Station, 5th Street, Speedway, IN 46224, United States of America",
+                "city": "Speedway",
+                "state": "Indiana",
+                "latitude": 39.791249168427214,
+                "longitude": -86.23652482708181,
+                "distance_meters": 205.22,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "518a400739238f55c059e8b01aa747e54340f00102f90183e5540700000000920310494d53204675656c2053746174696f6e"
+            },
+            {
+                "name": "Speedway",
+                "address": "Speedway, 4743 West 16th Street, Indianapolis, IN 46222, United States of America",
+                "city": "Indianapolis",
+                "state": "Indiana",
+                "latitude": 39.787207,
+                "longitude": -86.2381874,
+                "distance_meters": 356.91,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "516f545d763e8f55c0595517f032c3e44340f00103f901cf3eb43c020000009203085370656564776179"
+            }
+        ]
+    },
+    "10058": {
+        "station_id": "10058",
+        "status": "no_geocoding_coordinates",
+        "reason": "The name + address geocoding result did not contain usable coordinates.",
+        "pois": [],
+        "best_match": null
+    },
+    "10065": {
+        "station_id": "10065",
+        "status": "no_geocoding_coordinates",
+        "reason": "The name + address geocoding result did not contain usable coordinates.",
+        "pois": [],
+        "best_match": null
+    },
+    "10077": {
+        "station_id": "10077",
+        "status": "no_geocoding_coordinates",
+        "reason": "The name + address geocoding result did not contain usable coordinates.",
+        "pois": [],
+        "best_match": null
+    },
+    "10085": {
+        "station_id": "10085",
+        "station_name": "EL CENTRO TRAVEL CENTER",
+        "candidate": {
+            "latitude": 40.6946586,
+            "longitude": -73.7275777,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "BP",
+            "address": "BP, Linden Boulevard, Elmont, NY 11411, United States of America",
+            "city": "Elmont",
+            "state": "New York",
+            "latitude": 40.69073559920546,
+            "longitude": -73.72565018920801,
+            "distance_meters": 465.51,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "5104bf7d0d716e52c0599d622c066a584440f00102f9014d4ea531000000009203024250",
+            "name_similarity": 0.0
+        },
+        "pois": [
+            {
+                "name": "BP",
+                "address": "BP, Linden Boulevard, Elmont, NY 11411, United States of America",
+                "city": "Elmont",
+                "state": "New York",
+                "latitude": 40.69073559920546,
+                "longitude": -73.72565018920801,
+                "distance_meters": 465.51,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5104bf7d0d716e52c0599d622c066a584440f00102f9014d4ea531000000009203024250"
+            },
+            {
+                "name": "",
+                "address": "724 Elmont Road, Elmont, NY 11003, United States of America",
+                "city": "Elmont",
+                "state": "New York",
+                "latitude": 40.6924067,
+                "longitude": -73.7195121,
+                "distance_meters": 724.64,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51e2a47a7c0c6e52c059010462c8a0584440f00103f9019230b87301000000"
+            },
+            {
+                "name": "",
+                "address": "840 Elmont Road, Elmont, NY 11003, United States of America",
+                "city": "Elmont",
+                "state": "New York",
+                "latitude": 40.689867048781885,
+                "longitude": -73.72164716613264,
+                "distance_meters": 730.67,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "519c7298772f6e52c059998d3e904d584440f00102f901d9987f2700000000"
+            },
+            {
+                "name": "",
+                "address": "240- 10 Linden Boulevard, Elmont, NY 11003, United States of America",
+                "city": "Elmont",
+                "state": "New York",
+                "latitude": 40.68933339095481,
+                "longitude": -73.72231029646949,
+                "distance_meters": 740.17,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51a239f7543a6e52c059891899133c584440f00102f9016fc1b54200000000"
+            },
+            {
+                "name": "",
+                "address": "650 Elmont Road, Elmont, NY 11003, United States of America",
+                "city": "Elmont",
+                "state": "New York",
+                "latitude": 40.6937368,
+                "longitude": -73.7181229,
+                "distance_meters": 803.68,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "518e80c0b9f56d52c0590f04125ecc584440f00103f9019330b87301000000"
+            },
+            {
+                "name": "",
+                "address": "Linden Boulevard, North Valley Stream, NY 11003, United States of America",
+                "city": "North Valley Stream",
+                "state": "New York",
+                "latitude": 40.6886385,
+                "longitude": -73.7202908,
+                "distance_meters": 908.6,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "510567953e196e52c0591d226e4e25584440f00103f9015247756602000000"
+            },
+            {
+                "name": "",
+                "address": "Linden Boulevard, North Valley Stream, NY 11003, United States of America",
+                "city": "North Valley Stream",
+                "state": "New York",
+                "latitude": 40.6883563,
+                "longitude": -73.7192434,
+                "distance_meters": 992.4,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5149377815086e52c0596f3f2a0f1c584440f00103f9015447756602000000"
+            }
+        ]
+    },
+    "10101": {
+        "station_id": "10101",
+        "station_name": "PILOT TRAVEL CENTERS #65",
+        "candidate": {
+            "latitude": 33.5238271,
+            "longitude": -82.0336481,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Pilot",
+            "address": "Pilot, Wendy's, Augusta, GA 30990, United States of America",
+            "city": "Augusta",
+            "state": "Georgia",
+            "latitude": 33.523485354940235,
+            "longitude": -82.03380766819528,
+            "distance_meters": 40.78,
+            "categories": [
+                "building",
+                "building.commercial",
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "512d50a3e7298254c0599eb36f9101c34040f00102f901c64b180e0000000092030550696c6f74",
+            "name_similarity": 0.357
+        },
+        "pois": [
+            {
+                "name": "Pilot",
+                "address": "Pilot, Wendy's, Augusta, GA 30990, United States of America",
+                "city": "Augusta",
+                "state": "Georgia",
+                "latitude": 33.523485354940235,
+                "longitude": -82.03380766819528,
+                "distance_meters": 40.78,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "512d50a3e7298254c0599eb36f9101c34040f00102f901c64b180e0000000092030550696c6f74"
+            },
+            {
+                "name": "Pilot",
+                "address": "Pilot, Wendy's, Augusta, GA 30990, United States of America",
+                "city": "Augusta",
+                "state": "Georgia",
+                "latitude": 33.52414671157712,
+                "longitude": -82.03338461832209,
+                "distance_meters": 43.12,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5180f83cf9228254c059cc434c3d17c34040f00102f901c84b180e0000000092030550696c6f74"
+            }
+        ]
+    },
+    "10104": {
+        "station_id": "10104",
+        "station_name": "GEO H GREEN OIL",
+        "candidate": {
+            "latitude": 27.474584,
+            "longitude": -81.443741,
+            "result_type": "building"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Shell",
+            "address": "Shell, US 27;US 98, Sebring, FL 33870, United States of America",
+            "city": "Sebring",
+            "state": "Florida",
+            "latitude": 27.4719326,
+            "longitude": -81.4430881,
+            "distance_meters": 301.78,
+            "categories": [
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51cbaf308e5b5c54c0598fea2a93d0783b40f00103f901efdfae3e010000009203055368656c6c",
+            "name_similarity": 0.2
+        },
+        "pois": [
+            {
+                "name": "Marathon",
+                "address": "Marathon, 2912 US 27;US 98, Sebring, FL 33870, United States of America",
+                "city": "Sebring",
+                "state": "Florida",
+                "latitude": 27.472374,
+                "longitude": -81.4441676,
+                "distance_meters": 249.32,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "5157fcf03d6d5c54c0590f7ba180ed783b40f00103f901eedfae3e010000009203084d61726174686f6e"
+            },
+            {
+                "name": "Shell",
+                "address": "Shell, US 27;US 98, Sebring, FL 33870, United States of America",
+                "city": "Sebring",
+                "state": "Florida",
+                "latitude": 27.4719326,
+                "longitude": -81.4430881,
+                "distance_meters": 301.78,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51cbaf308e5b5c54c0598fea2a93d0783b40f00103f901efdfae3e010000009203055368656c6c"
+            },
+            {
+                "name": "Marathon",
+                "address": "Marathon, 3504 US 27;US 98, Sebring, FL 33870, United States of America",
+                "city": "Sebring",
+                "state": "Florida",
+                "latitude": 27.4678655,
+                "longitude": -81.4378122,
+                "distance_meters": 948.81,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "518c32761d055c54c0593b6d8d08c6773b40f00103f90150dfae3e010000009203084d61726174686f6e"
+            }
+        ]
+    },
+    "10109": {
+        "station_id": "10109",
+        "station_name": "GIT N GO CONVENIENCE STORE #34",
+        "candidate": {
+            "latitude": 34.675413,
+            "longitude": -118.159028,
+            "result_type": "amenity"
+        },
+        "status": "fuel_poi_name_mismatch",
+        "reason": "Fuel POIs were found, but their names do not sufficiently match the CSV station.",
+        "best_match": {
+            "name": "Chevron",
+            "address": "Chevron, 18th Street West, Lancaster, CA 93534, United States of America",
+            "city": "Lancaster",
+            "state": "California",
+            "latitude": 34.674667500000005,
+            "longitude": -118.16315549999999,
+            "distance_meters": 386.44,
+            "categories": [
+                "building",
+                "building.commercial",
+                "service",
+                "service.vehicle",
+                "service.vehicle.fuel"
+            ],
+            "place_id": "51662ac423718a5dc059491630815b564140f00102f90135542d1c0000000092030743686576726f6e",
+            "name_similarity": 0.167
+        },
+        "pois": [
+            {
+                "name": "Shell",
+                "address": "Shell, 17th Street West, Lancaster, CA 93534, United States of America",
+                "city": "Lancaster",
+                "state": "California",
+                "latitude": 34.675286354687266,
+                "longitude": -118.16104737498435,
+                "distance_meters": 185.2,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51862aa6994e8a5dc0598f6884c86f564140f00102f901ec88900c000000009203055368656c6c"
+            },
+            {
+                "name": "Chevron",
+                "address": "Chevron, 18th Street West, Lancaster, CA 93534, United States of America",
+                "city": "Lancaster",
+                "state": "California",
+                "latitude": 34.674667500000005,
+                "longitude": -118.16315549999999,
+                "distance_meters": 386.44,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51662ac423718a5dc059491630815b564140f00102f90135542d1c0000000092030743686576726f6e"
+            },
+            {
+                "name": "Arco",
+                "address": "Arco, West Avenue K, Lancaster, CA 93534, United States of America",
+                "city": "Lancaster",
+                "state": "California",
+                "latitude": 34.67470805,
+                "longitude": -118.15479525,
+                "distance_meters": 394.92,
+                "categories": [
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "51e014562ae8895dc059898c58d55c564140f00102f901cc40910c000000009203044172636f"
+            },
+            {
+                "name": "Arco",
+                "address": "Arco, West Avenue K, Lancaster, CA 93534, United States of America",
+                "city": "Lancaster",
+                "state": "California",
+                "latitude": 34.67481811784458,
+                "longitude": -118.16541044989634,
+                "distance_meters": 587.38,
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.fuel"
+                ],
+                "place_id": "512c2eb615968a5dc0590472a97060564140f00102f9012a28900c000000009203044172636f"
+            }
+        ]
+    },
+    "10110": {
+        "station_id": "10110",
+        "station_name": "JACKSON'S FOODS DBA ONE9 #1427",
+        "candidate": {
+            "latitude": 43.60402,
+            "longitude": -116.374452,
+            "result_type": "building"
+        },
+        "status": "no_fuel_poi_found",
+        "reason": "No fuel POIs found within search radius.",
+        "best_match": null,
+        "pois": []
+    }
+}

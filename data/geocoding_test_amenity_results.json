@@ -1,0 +1,936 @@
+[
+    {
+        "query": {
+            "text": "FLINT HILLS FUEL MART, US-50 & US-77, Florence, KS, United States",
+            "parsed": {
+                "house": "flint hills fuel mart",
+                "street": "us-50 & us-77",
+                "city": "florence",
+                "state": "ks",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "1172",
+        "street": "Highway 77",
+        "country": "United States",
+        "county": "Marion County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "66851",
+        "state": "Kansas",
+        "state_code": "KS",
+        "county_code": "MN",
+        "district": "Florence",
+        "city": "Florence",
+        "iso3166_2": "US-KS",
+        "lon": -96.93393,
+        "lat": 38.241305,
+        "result_type": "building",
+        "formatted": "1172 Highway 77, Florence, KS 66851, United States of America",
+        "address_line1": "1172 Highway 77",
+        "address_line2": "Florence, KS 66851, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_DST": "-05:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86C563R8+GC",
+        "rank": {
+            "popularity": 1.6708733444550914,
+            "confidence": 0,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "5136b05582c53b58c0593eae0d15e31e4340c00203e203466f70656e6164647265737365733a616464726573733a75732f6b732f7374617465776964652d6164647265737365732d73746174653a63663765386638383437663833326631"
+    },
+    {
+        "query": {
+            "text": "CIRCLE K #2705346, SR-307, Savannah, GA, United States",
+            "parsed": {
+                "house": "circle k",
+                "housenumber": "#2705346",
+                "street": "sr-307",
+                "city": "savannah",
+                "state": "ga",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Phantom Fireworks",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Chatham County",
+        "city": "Savannah",
+        "postcode": "31419",
+        "street": "Cedars Apartments Drive",
+        "housenumber": "13051",
+        "iso3166_2": "US-GA",
+        "lon": -81.1673336,
+        "lat": 31.9820485,
+        "state_code": "GA",
+        "county_code": "CM",
+        "result_type": "building",
+        "formatted": "Phantom Fireworks, 13051 Cedars Apartments Drive, Savannah, GA 31419, United States of America",
+        "address_line1": "Phantom Fireworks",
+        "address_line2": "13051 Cedars Apartments Drive, Savannah, GA 31419, United States of America",
+        "category": "commercial.pyrotechnics",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "863WXRJM+R3",
+        "plus_code_short": "XRJM+R3, 31419 Savannah, United States",
+        "rank": {
+            "importance": 6.814297703512654e-05,
+            "popularity": 2.1199354614578874,
+            "confidence": 0.15,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.3333333333333333,
+            "confidence_building_level": 7.428606449144688e-07,
+            "match_type": "match_by_building"
+        },
+        "place_id": "5168e1fc97b54a54c059fb95ce8767fb3f40f00103f9012e0bfd0802000000c002039203115068616e746f6d2046697265776f726b73e203256f70656e7374726565746d61703a616464726573733a6e6f64652f38373430373335373930"
+    },
+    {
+        "query": {
+            "text": "Sudden Service #6604, I-40, EXIT 212, Nashville, TN, United States",
+            "parsed": {
+                "unit": "#6604",
+                "house": "sudden service",
+                "housenumber": "i-40",
+                "street": "exit 212",
+                "city": "nashville",
+                "state": "tn",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        }
+    },
+    {
+        "query": {
+            "text": "Loves Travel Stop #429, I-65 & I-24, EXIT 87, Nashville, TN, United States",
+            "parsed": {
+                "house": "loves travel stop #429 i-65 & i-24 exit 87",
+                "city": "nashville",
+                "state": "tn",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's Travel Stop",
+        "ref": "429",
+        "other_names": {
+            "ref": "429",
+            "brand": "Love's"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "region": "Middle Tennessee",
+        "state": "Tennessee",
+        "county": "Davidson County",
+        "city": "Nashville",
+        "hamlet": "Avondale",
+        "postcode": "37207",
+        "street": "West Trinity Lane",
+        "iso3166_2": "US-TN",
+        "lon": -86.7718598,
+        "lat": 36.2051981,
+        "state_code": "TN",
+        "county_code": "DA",
+        "suburb": "Brooklyn Heights",
+        "result_type": "amenity",
+        "formatted": "Love's Travel Stop, West Trinity Lane, Nashville, TN 37207, United States of America",
+        "address_line1": "Love's Travel Stop",
+        "address_line2": "West Trinity Lane, Nashville, TN 37207, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_DST": "-05:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "868M664H+37",
+        "plus_code_short": "664H+37, 37207 Nashville, United States",
+        "rank": {
+            "importance": 7.474860761420641e-05,
+            "popularity": 3.6900570201359817,
+            "confidence": 1,
+            "confidence_city_level": 1,
+            "match_type": "full_match"
+        },
+        "place_id": "513786a52666b155c059c5596cee431a4240f00102f901cad6810d00000000c002019203124c6f766527732054726176656c2053746f70e203216f70656e7374726565746d61703a76656e75653a7761792f323236363132393338"
+    },
+    {
+        "query": {
+            "text": "Maplefields, US-4, EXIT 2 & SR-22A, Fair Haven, VT, United States",
+            "parsed": {
+                "house": "maplefields",
+                "street": "exit 2 & sr-22a",
+                "city": "fair haven",
+                "state": "vt",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Maplefields",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Vermont",
+        "county": "Rutland County",
+        "city": "Fair Haven",
+        "postcode": "05743",
+        "street": "Washington Street",
+        "housenumber": "699",
+        "iso3166_2": "US-VT",
+        "lon": -73.2750335,
+        "lat": 43.6033026,
+        "state_code": "VT",
+        "county_code": "RU",
+        "district": "Fair Haven",
+        "result_type": "amenity",
+        "formatted": "Maplefields, 699 Washington Street, Fair Haven, VT 05743, United States of America",
+        "address_line1": "Maplefields",
+        "address_line2": "699 Washington Street, Fair Haven, VT 05743, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M8JP3F+8X",
+        "plus_code_short": "3F+8X, 05743 Fair Haven, United States",
+        "rank": {
+            "importance": 4.8614480811734454e-05,
+            "popularity": 1.92014682446184,
+            "confidence": 0.14285714285714285,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.14285714285714285,
+            "match_type": "full_match"
+        },
+        "place_id": "517cf31b269a5152c059bf4b040539cd4540f00103f90121c3dd1b02000000c0020192030b4d61706c656669656c6473e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39303537343532383333"
+    },
+    {
+        "query": {
+            "text": "MILLERS TRAVEL CENTER, US-6 & US-50, Wellington, UT, United States",
+            "parsed": {
+                "house": "millers travel center",
+                "street": "us-6 & us-50",
+                "city": "wellington",
+                "state": "ut",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "50",
+        "street": "North 100 East",
+        "country": "United States",
+        "county": "Carbon County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "84542",
+        "state": "Utah",
+        "state_code": "UT",
+        "county_code": "CR",
+        "city": "Wellington",
+        "iso3166_2": "US-UT",
+        "lon": -110.733591,
+        "lat": 39.543062,
+        "result_type": "building",
+        "formatted": "50 North 100 East, Wellington, UT 84542, United States of America",
+        "address_line1": "50 North 100 East",
+        "address_line2": "Wellington, UT 84542, United States of America",
+        "timezone": {
+            "name": "America/Denver",
+            "offset_STD": "-07:00",
+            "offset_DST": "-06:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG7V8+6H",
+        "plus_code_short": "V8+6H, 84542 Wellington, United States",
+        "rank": {
+            "popularity": 0.8724631198683926,
+            "confidence": 0,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "51f568aa27f3ae5bc059a5d93c0e83c54340c00203e203466f70656e6164647265737365733a616464726573733a75732f75742f7374617465776964652d6164647265737365732d73746174653a65356166383962356665386132376138"
+    },
+    {
+        "query": {
+            "text": "GOOD TO GO #10, US-35, Winamac, IN, United States",
+            "parsed": {
+                "house": "good to go",
+                "housenumber": "#10",
+                "street": "us-35",
+                "city": "winamac",
+                "state": "in",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "10",
+        "street": "City Park Drive",
+        "country": "United States",
+        "county": "Pulaski County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "state": "Indiana",
+        "state_code": "IN",
+        "county_code": "PL",
+        "district": "Monroe Township",
+        "city": "Winamac",
+        "iso3166_2": "US-IN",
+        "lon": -86.597556,
+        "lat": 41.052299,
+        "result_type": "building",
+        "postcode": "46996",
+        "formatted": "10 City Park Drive, Winamac, IN 46996, United States of America",
+        "address_line1": "10 City Park Drive",
+        "address_line2": "Winamac, IN 46996, United States of America",
+        "timezone": {
+            "name": "America/Indiana/Winamac",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86HM3C22+WX",
+        "plus_code_short": "22+WX Winamac, Pulaski County, United States",
+        "rank": {
+            "popularity": 1.8952844720529634,
+            "confidence": 0,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0,
+            "confidence_building_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "51d461855b3ea655c059874ecfbbb1864440c00203e203466f70656e6164647265737365733a616464726573733a75732f696e2f7374617465776964652d6164647265737365732d73746174653a65636462626636393430363763333531"
+    },
+    {
+        "query": {
+            "text": "LOVES TRAVEL STOP #715, I-77 EXIT 58 & SR-666 & US-52, Bastian, VA, United States",
+            "parsed": {
+                "unit": "#715",
+                "house": "loves travel stop",
+                "housenumber": "i-77",
+                "street": "exit 58 & sr-666 & us-52",
+                "city": "bastian",
+                "state": "va",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        }
+    },
+    {
+        "query": {
+            "text": "SHELL, I-95, EXIT 133 & US-17 BUS, Fredericksburg, VA, United States",
+            "parsed": {
+                "house": "shell",
+                "street": "exit 133 & us-17 bus",
+                "city": "fredericksburg",
+                "state": "va",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "U.S. Securities and Exchange Commission",
+        "country": "United States",
+        "country_code": "us",
+        "state": "District of Columbia",
+        "city": "Washington",
+        "postcode": "20549",
+        "district": "Ward 6",
+        "neighbourhood": "NoMa",
+        "street": "F Street Northeast",
+        "housenumber": "100",
+        "iso3166_2": "US-DC",
+        "lon": -77.0041794,
+        "lat": 38.8975436,
+        "state_code": "DC",
+        "county": "District of Columbia",
+        "county_code": "DI",
+        "suburb": "Near Northeast",
+        "result_type": "amenity",
+        "formatted": "U.S. Securities and Exchange Commission, 100 F Street Northeast, Washington, DC 20549, United States of America",
+        "address_line1": "U.S. Securities and Exchange Commission",
+        "address_line2": "100 F Street Northeast, Washington, DC 20549, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C4VXXW+28",
+        "rank": {
+            "importance": 0.5470286875508276,
+            "popularity": 8.368540893021176,
+            "confidence": 0,
+            "confidence_city_level": 0,
+            "confidence_street_level": 0,
+            "match_type": "full_match"
+        },
+        "place_id": "514894ac79444053c059f75d6cb5e2724340f00103f901e377503000000000c00201920327552e532e205365637572697469657320616e642045786368616e676520436f6d6d697373696f6ee203226f70656e7374726565746d61703a76656e75653a6e6f64652f383130353739393339"
+    },
+    {
+        "query": {
+            "text": "TOWN PUMP FOOD STORE #8929, I-15, EXIT 339, Conrad, MT, United States",
+            "parsed": {
+                "house": "town pump food store #8929",
+                "street": "exit 339",
+                "city": "conrad",
+                "state": "mt",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "1027",
+        "street": "Potier Exit Exit",
+        "country": "United States",
+        "county": "St. Martin Parish",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "70582",
+        "state": "Louisiana",
+        "state_code": "LA",
+        "county_code": "SR",
+        "city": "St. Martinville",
+        "iso3166_2": "US-LA",
+        "lon": -91.824932,
+        "lat": 30.207435,
+        "result_type": "building",
+        "formatted": "1027 Potier Exit Exit, St. Martinville, LA 70582, United States of America",
+        "address_line1": "1027 Potier Exit Exit",
+        "address_line2": "St. Martinville, LA 70582, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_DST": "-05:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "862C654G+X2",
+        "rank": {
+            "popularity": 1.38671196259204,
+            "confidence": 0,
+            "confidence_city_level": 0,
+            "confidence_street_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "51215b96afcbf456c059b70bcd751a353e40c00203e203476f70656e6164647265737365733a616464726573733a75732f6c612f73745f6d617274696e2d6164647265737365732d636f756e74793a64313434613663386462613666303233"
+    },
+    {
+        "query": {
+            "text": "BECKS #27, I-39/US-51, EXIT 72 & US-34, Mendota, IL, United States",
+            "parsed": {
+                "house": "becks",
+                "housenumber": "#27",
+                "street": "exit 72 & us-34",
+                "city": "mendota",
+                "state": "il",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "1332",
+        "street": "US 34",
+        "country": "United States",
+        "county": "LaSalle County",
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "60518",
+        "state": "Illinois",
+        "state_code": "IL",
+        "county_code": "LA",
+        "district": "Earl Township",
+        "city": "Earlville",
+        "iso3166_2": "US-IL",
+        "lon": -88.907954,
+        "lat": 41.582688,
+        "result_type": "building",
+        "formatted": "1332 US 34, Earlville, IL 60518, United States of America",
+        "address_line1": "1332 US 34",
+        "address_line2": "Earlville, IL 60518, United States of America",
+        "timezone": {
+            "name": "America/Chicago",
+            "offset_STD": "-06:00",
+            "offset_DST": "-05:00",
+            "offset_STD_seconds": -21600,
+            "offset_DST_seconds": -18000,
+            "abbreviation_STD": "CST",
+            "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86HHH3MR+3R",
+        "plus_code_short": "MR+3R Earlville, LaSalle County, United States",
+        "rank": {
+            "popularity": 1.7546768984323,
+            "confidence": 0.08393371237962947,
+            "confidence_city_level": 0.4662984021090526,
+            "confidence_street_level": 0.18651936084362106,
+            "confidence_building_level": 0.0008575602797407865,
+            "match_type": "match_by_building"
+        },
+        "place_id": "516f1118eb1b3a56c059c5e2378595ca4440f00102f901ceada65800000000c00203e203246f70656e7374726565746d61703a616464726573733a7761792f31343837333138343738"
+    },
+    {
+        "query": {
+            "text": "Flying J Travel Plaza #649, I-465, EXIT 4, Indianapolis, IN, United States",
+            "parsed": {
+                "unit": "4",
+                "house": "flying j travel plaza",
+                "housenumber": "#649",
+                "street": "exit",
+                "city": "indianapolis",
+                "state": "in",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "IMS Oval - PIt Exit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Indiana",
+        "county": "Marion County",
+        "city": "Speedway",
+        "municipality": "Wayne Township",
+        "postcode": "46224",
+        "street": "NASCAR Garage Area Exit",
+        "iso3166_2": "US-IN",
+        "lon": -86.2386551,
+        "lat": 39.7903966,
+        "state_code": "IN",
+        "county_code": "MN",
+        "district": "Wayne Township",
+        "suburb": "Lynhurst",
+        "result_type": "amenity",
+        "formatted": "IMS Oval - PIt Exit, NASCAR Garage Area Exit, Speedway, IN 46224, United States of America",
+        "address_line1": "IMS Oval - PIt Exit",
+        "address_line2": "NASCAR Garage Area Exit, Speedway, IN 46224, United States of America",
+        "timezone": {
+            "name": "America/Indiana/Indianapolis",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86FMQQR6+5G",
+        "plus_code_short": "QQR6+5G Speedway, Marion County, United States",
+        "rank": {
+            "importance": 7.400396734564762e-05,
+            "popularity": 3.5681555450589237,
+            "confidence": 0.7290000000000001,
+            "confidence_city_level": 1,
+            "confidence_street_level": 0.7290000000000001,
+            "match_type": "full_match"
+        },
+        "place_id": "5183610a20468f55c0594fef3db72be54340f00102f9012813182300000000c00201920313494d53204f76616c202d205049742045786974e203216f70656e7374726565746d61703a76656e75653a7761792f353838373830333238"
+    },
+    {
+        "query": {
+            "text": "CITGO, US-431/SR-1 & SR-27, Abbeville, AL, United States",
+            "parsed": {
+                "house": "citgo",
+                "street": "us-431/sr-1 & sr-27",
+                "city": "abbeville",
+                "state": "al",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        }
+    },
+    {
+        "query": {
+            "text": "ROAD MART, US-71/US-59, Ashdown, AR, United States",
+            "parsed": {
+                "house": "road mart",
+                "street": "us-71/us-59",
+                "city": "ashdown",
+                "state": "ar",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        }
+    },
+    {
+        "query": {
+            "text": "FLYING J TRAVEL PLAZA #607, I-55, EXIT 4 & I-40, EXIT 280, West Memphis, AR, United States",
+            "parsed": {
+                "unit": "#607",
+                "house": "flying j travel plaza",
+                "housenumber": "i-55",
+                "street": "exit 280",
+                "city": "west memphis",
+                "state": "ar",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        }
+    },
+    {
+        "query": {
+            "text": "EL CENTRO TRAVEL CENTER, I-8, EXIT 115 & SR-86, El Centro, CA, United States",
+            "parsed": {
+                "house": "el centro travel center",
+                "street": "exit 115 & sr-86",
+                "city": "el centro",
+                "state": "ca",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "Queens County",
+        "city": "New York",
+        "postcode": "11411",
+        "suburb": "Queens",
+        "street": "Cross Island Parkway",
+        "housenumber": "115-86",
+        "iso3166_2": "US-NY",
+        "lon": -73.7275777,
+        "lat": 40.6946586,
+        "state_code": "NY",
+        "district": "Queens",
+        "result_type": "building",
+        "formatted": "115-86 Cross Island Parkway, New York, NY 11411, United States of America",
+        "address_line1": "115-86 Cross Island Parkway",
+        "address_line2": "New York, NY 11411, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G8M7VC+VX",
+        "plus_code_short": "M7VC+VX New York, Queens County, United States",
+        "rank": {
+            "importance": 9.175936522464359e-05,
+            "popularity": 5.6403341133529485,
+            "confidence": 0,
+            "confidence_city_level": 0,
+            "confidence_street_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "5121b30ea2906e52c0594c71b092ea584440f00103f901a6aeb99700000000c00203e203256f70656e7374726565746d61703a616464726573733a6e6f64652f32353435353238343836"
+    },
+    {
+        "query": {
+            "text": "PILOT TRAVEL CENTERS #65, I-20, EXIT 194, Augusta, GA, United States",
+            "parsed": {
+                "house": "pilot travel centers",
+                "housenumber": "#65",
+                "street": "exit 194",
+                "city": "augusta",
+                "state": "ga",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pilot",
+        "other_names": {
+            "alt_name": "Pilot Travel Centers"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Richmond County",
+        "city": "Augusta",
+        "postcode": "30907",
+        "street": "Riverwatch Parkway",
+        "housenumber": "2875",
+        "iso3166_2": "US-GA",
+        "lon": -82.0336481,
+        "lat": 33.5238271,
+        "state_code": "GA",
+        "county_code": "RI",
+        "result_type": "amenity",
+        "formatted": "Pilot, 2875 Riverwatch Parkway, Augusta, GA 30907, United States of America",
+        "address_line1": "Pilot",
+        "address_line2": "2875 Riverwatch Parkway, Augusta, GA 30907, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "865VGXF8+GG",
+        "plus_code_short": "GXF8+GG, 30907 Augusta, United States",
+        "rank": {
+            "importance": 6.542687113751458e-05,
+            "popularity": 2.0112916631089823,
+            "confidence": 0,
+            "confidence_city_level": 0.81,
+            "confidence_street_level": 0,
+            "confidence_building_level": 0,
+            "match_type": "full_match"
+        },
+        "place_id": "51a4445c4a278254c05917a133c40cc34040f00102f901c74b180e00000000c0020192030550696c6f74e203216f70656e7374726565746d61703a76656e75653a7761792f323336343733323837"
+    },
+    {
+        "query": {
+            "text": "GEO H GREEN OIL, I-85/SR-403, EXIT 41 & US-27 ALT, Newnan, GA, United States",
+            "parsed": {
+                "house": "geo h green oil",
+                "street": "exit 41 & us-27 alt",
+                "city": "newnan",
+                "state": "ga",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "2713",
+        "street": "Alt Us 27 S Ssi & Dd",
+        "country": "United States",
+        "county": "Highlands County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "state": "Florida",
+        "state_code": "FL",
+        "county_code": "HG",
+        "city": "Sebring",
+        "iso3166_2": "US-FL",
+        "lon": -81.443741,
+        "lat": 27.474584,
+        "result_type": "building",
+        "postcode": "33870",
+        "formatted": "2713 Alt Us 27 S Ssi & Dd, Sebring, FL 33870, United States of America",
+        "address_line1": "2713 Alt Us 27 S Ssi & Dd",
+        "address_line2": "Sebring, FL 33870, United States of America",
+        "timezone": {
+            "name": "America/New_York",
+            "offset_STD": "-05:00",
+            "offset_DST": "-04:00",
+            "offset_STD_seconds": -18000,
+            "offset_DST_seconds": -14400,
+            "abbreviation_STD": "EST",
+            "abbreviation_DST": "EDT"
+        },
+        "plus_code": "76VWFHF4+RG",
+        "plus_code_short": "FHF4+RG, 33870 Sebring, United States",
+        "rank": {
+            "popularity": 2.071970635347084,
+            "confidence": 0,
+            "confidence_city_level": 0,
+            "confidence_street_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "513db9a640665c54c059723447567e793b40c00203e203466f70656e6164647265737365733a616464726573733a75732f666c2f5f6c6f76656c616e642d6164647265737365732d73746174653a31346266336532623232333931663466"
+    },
+    {
+        "query": {
+            "text": "GIT N GO CONVENIENCE STORE #34, US-30, EXIT 185 & SR-14, Marshalltown, IA, United States",
+            "parsed": {
+                "house": "git n go convenience store #34",
+                "street": "exit 185 & sr-14",
+                "city": "marshalltown",
+                "state": "ia",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "name": "Ave K  @ Sr 14 Park And Ride",
+        "street": "1601 W AVE K @ SR 14",
+        "country": "United States",
+        "county": "Los Angeles County",
+        "datasource": {
+            "sourcename": "openstreetmap",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "license": "Open Database License",
+            "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "93534",
+        "state": "California",
+        "state_code": "CA",
+        "county_code": "LO",
+        "city": "Lancaster",
+        "iso3166_2": "US-CA",
+        "lon": -118.159028,
+        "lat": 34.675413,
+        "result_type": "amenity",
+        "formatted": "Ave K  @ Sr 14 Park And Ride, 1601 W AVE K @ SR 14, Lancaster, CA 93534, United States of America",
+        "address_line1": "Ave K  @ Sr 14 Park And Ride",
+        "address_line2": "1601 W AVE K @ SR 14, Lancaster, CA 93534, United States of America",
+        "timezone": {
+            "name": "America/Los_Angeles",
+            "offset_STD": "-08:00",
+            "offset_DST": "-07:00",
+            "offset_STD_seconds": -28800,
+            "offset_DST_seconds": -25200,
+            "abbreviation_STD": "PST",
+            "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8563MRGR+59",
+        "plus_code_short": "MRGR+59, 93534 Lancaster, United States",
+        "rank": {
+            "popularity": 2.226569083021857,
+            "confidence": 0,
+            "confidence_city_level": 0,
+            "confidence_street_level": 0,
+            "match_type": "full_match"
+        },
+        "place_id": "517ec9c6832d8a5dc0598925e5ee73564140f00102f9017978290600000000c0020192031c417665204b202040205372203134205061726b20416e642052696465e203216f70656e7374726565746d61703a76656e75653a7761792f313033333831313133"
+    },
+    {
+        "query": {
+            "text": "JACKSON'S FOODS DBA ONE9 #1427, I-84, EXIT 36, Nampa, ID, United States",
+            "parsed": {
+                "unit": "#1427",
+                "house": "jackson's foods dba one9",
+                "housenumber": "i-84",
+                "street": "exit 36",
+                "city": "nampa",
+                "state": "id",
+                "country": "united states",
+                "expected_type": "amenity"
+            }
+        },
+        "country_code": "us",
+        "housenumber": "36-84",
+        "street": "South Locust Grove Road",
+        "country": "United States",
+        "county": "Ada County",
+        "datasource": {
+            "sourcename": "openaddresses",
+            "attribution": "\u00a9 OpenAddresses contributors",
+            "license": "BSD-3-Clause License"
+        },
+        "postcode": "83642",
+        "state": "Idaho",
+        "state_code": "ID",
+        "county_code": "AA",
+        "city": "Meridian",
+        "iso3166_2": "US-ID",
+        "lon": -116.374452,
+        "lat": 43.60402,
+        "result_type": "building",
+        "formatted": "36-84 South Locust Grove Road, Meridian, ID 83642, United States of America",
+        "address_line1": "36-84 South Locust Grove Road",
+        "address_line2": "Meridian, ID 83642, United States of America",
+        "timezone": {
+            "name": "America/Boise",
+            "offset_STD": "-07:00",
+            "offset_DST": "-06:00",
+            "offset_STD_seconds": -25200,
+            "offset_DST_seconds": -21600,
+            "abbreviation_STD": "MST",
+            "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85M5JJ3G+J6",
+        "plus_code_short": "JJ3G+J6, 83642 Meridian, United States",
+        "rank": {
+            "popularity": 1.4035767555678085,
+            "confidence": 0,
+            "confidence_city_level": 0.5123330594543686,
+            "confidence_street_level": 0,
+            "confidence_building_level": 0,
+            "match_type": "match_by_building"
+        },
+        "place_id": "51ff7a8505f7175dc059a110018750cd4540c00203e203466f70656e6164647265737365733a616464726573733a75732f69642f7374617465776964652d6164647265737365732d73746174653a31383963666339323431653933646138"
+    }
+]
