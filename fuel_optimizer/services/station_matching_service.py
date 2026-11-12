@@ -39,6 +39,24 @@ BRAND_ALIASES = {
     "bp": "bp",
 }
 
+ADDRESS_TOKEN_ALIASES = {
+    "interstate": "i",
+    "east": "e",
+    "west": "w",
+    "north": "n",
+    "south": "s",
+    "street": "st",
+    "avenue": "ave",
+    "road": "rd",
+    "boulevard": "blvd",
+    "drive": "dr",
+    "lane": "ln",
+    "court": "ct",
+    "circle": "cir",
+    "parkway": "pkwy",
+    "highway": "hwy",
+}
+
 
 def normalize_station_name(value):
     """Normalize a trading name while ignoring store numbers and descriptors."""
@@ -58,6 +76,14 @@ def canonical_brand(value):
         if f" {alias} " in f" {cleaned} ":
             return BRAND_ALIASES[alias]
     return None
+
+
+def normalize_address(value):
+    """Standardize common street suffixes and directions for address checks."""
+    return " ".join(
+        ADDRESS_TOKEN_ALIASES.get(token, token)
+        for token in normalize_text(value).split()
+    )
 
 
 def similarity(first, second):
@@ -93,8 +119,8 @@ def calculate_distance_meters(lat1, lon1, lat2, lon2):
 
 
 def address_matches(geo_address, verified_address):
-    geo_address = normalize_text(geo_address)
-    verified_address = normalize_text(verified_address)
+    geo_address = normalize_address(geo_address)
+    verified_address = normalize_address(verified_address)
 
     if not geo_address or not verified_address:
         return False
@@ -125,8 +151,16 @@ def match_station(geo_station, csv_stations):
     for station in csv_stations:
         station_name = station.get("name", "")
         station_address = station.get("verified_address")
-
-        name_score = similarity(geo_name, station_name)
+        name_candidates = [station_name] + station.get("poi_name_aliases", [])
+        best_name, name_score = max(
+            (
+                (name, similarity(geo_name, name))
+                for name in name_candidates
+                if name
+            ),
+            key=lambda item: item[1],
+            default=("", 0.0),
+        )
 
         if name_score < MIN_NAME_SIMILARITY:
             continue
@@ -151,6 +185,8 @@ def match_station(geo_station, csv_stations):
             {
                 "station": station,
                 "name_score": round(name_score, 3),
+                "matched_name": best_name,
+                "used_verified_alias": best_name != station_name,
                 "distance_meters": round(distance, 2),
             }
         )
@@ -167,7 +203,8 @@ def match_station(geo_station, csv_stations):
         return {
             "status": "probable_match",
             "reason": (
-                "Station name, verified address, " "and geographic distance agree"
+                "Station name or documented on-site POI alias, verified address, "
+                "and geographic distance agree"
             ),
             **candidate,
         }

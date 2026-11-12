@@ -1,0 +1,1627 @@
+{
+  "10006": {
+    "reference_address": "800 W 5th St, Florence, KS 66851, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Kansas",
+        "county": "Marion County",
+        "city": "Florence",
+        "street": "West 5th Street",
+        "iso3166_2": "US-KS",
+        "lon": -96.9368457,
+        "lat": 38.2402602,
+        "state_code": "KS",
+        "housenumber": "800",
+        "result_type": "building",
+        "postcode": "66851",
+        "county_code": "MN",
+        "district": "Florence",
+        "formatted": "800 West 5th Street, Florence, KS 66851, United States of America",
+        "address_line1": "800 West 5th Street",
+        "address_line2": "Florence, KS 66851, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86C563R7+47",
+        "rank": {
+          "importance": 0.05338555962462803,
+          "popularity": 1.6708733444550914,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517db9aa47f53b58c059e5c3a2d8c01e4340c00203e203466f70656e6164647265737365733a616464726573733a75732f6b732f7374617465776964652d6164647265737365732d73746174653a39396537336362363234623534346663",
+        "bbox": {
+          "lon1": -96.933694,
+          "lat1": 38.242096,
+          "lon2": -96.926234,
+          "lat2": 38.242394
+        }
+      }
+    ]
+  },
+  "10007": {
+    "reference_address": "2404 Dean Forest Rd, Savannah, GA 31408, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Chatham County",
+        "city": "Savannah",
+        "postcode": "31408",
+        "street": "Dean Forest Road",
+        "housenumber": "2404",
+        "iso3166_2": "US-GA",
+        "lon": -81.1957934228188,
+        "lat": 32.07810046308725,
+        "state_code": "GA",
+        "result_type": "building",
+        "formatted": "2404 Dean Forest Road, Savannah, GA 31408, United States of America",
+        "address_line1": "2404 Dean Forest Road",
+        "address_line2": "Savannah, GA 31408, United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "864W3RH3+6M",
+        "plus_code_short": "3RH3+6M, 31408 Savannah, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 2.131525004156546,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d5f122e1874c54c05990612b32ff094040f00102f901a96fb70600000000c00203",
+        "bbox": {
+          "lon1": -81.1958434,
+          "lat1": 32.0780505,
+          "lon2": -81.1957434,
+          "lat2": 32.0781505
+        }
+      }
+    ]
+  },
+  "10014": {
+    "reference_address": "601 Fesslers Ln, Nashville, TN 37210, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "region": "Middle Tennessee",
+        "state": "Tennessee",
+        "county": "Davidson County",
+        "city": "Nashville",
+        "postcode": "37210",
+        "street": "Fesslers Lane",
+        "housenumber": "601",
+        "iso3166_2": "US-TN",
+        "lon": -86.744161,
+        "lat": 36.144549,
+        "state_code": "TN",
+        "result_type": "building",
+        "formatted": "601 Fesslers Lane, Nashville, TN 37210, United States of America",
+        "address_line1": "601 Fesslers Lane",
+        "address_line2": "Nashville, TN 37210, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "868M47V4+R8",
+        "plus_code_short": "47V4+R8, 37210 Nashville, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 4.090441469231257,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515b7d7555a0af55c059b2d5e59480124240f00102f9010e0a014500000000c00203",
+        "bbox": {
+          "lon1": -86.744211,
+          "lat1": 36.144499,
+          "lon2": -86.744111,
+          "lat2": 36.144599
+        }
+      }
+    ]
+  },
+  "10015": {
+    "reference_address": "130 W Trinity Ln, Nashville, TN 37207, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "region": "Middle Tennessee",
+        "state": "Tennessee",
+        "county": "Davidson County",
+        "city": "Nashville",
+        "hamlet": "Avondale",
+        "postcode": "37207",
+        "street": "West Trinity Lane",
+        "housenumber": "130",
+        "iso3166_2": "US-TN",
+        "lon": -86.77318,
+        "lat": 36.206166,
+        "state_code": "TN",
+        "result_type": "building",
+        "formatted": "130 West Trinity Lane, Nashville, TN 37207, United States of America",
+        "address_line1": "130 West Trinity Lane",
+        "address_line2": "Nashville, TN 37207, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "868M664G+FP",
+        "plus_code_short": "664G+FP, 37207 Nashville, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 3.6895738226190486,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f67af7c77bb155c05909c6c1a5631a4240f00102f90176447c4c00000000c00203",
+        "bbox": {
+          "lon1": -86.77323,
+          "lat1": 36.206116,
+          "lon2": -86.77313,
+          "lat2": 36.206216
+        }
+      }
+    ]
+  },
+  "10020": {
+    "reference_address": "699 Route 11A North, Fair Haven, VT 05743, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Vermont",
+        "county": "Rutland County",
+        "city": "Fair Haven",
+        "street": "Vermont Route 22A North",
+        "housenumber": "699",
+        "iso3166_2": "US-VT",
+        "lon": -73.274967,
+        "lat": 43.6033008,
+        "state_code": "VT",
+        "postcode": "05743",
+        "county_code": "RU",
+        "district": "Fair Haven",
+        "result_type": "building",
+        "formatted": "699 Vermont Route 22A North, Fair Haven, VT 05743, United States of America",
+        "address_line1": "699 Vermont Route 22A North",
+        "address_line2": "Fair Haven, VT 05743, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M8JP3G+82",
+        "plus_code_short": "3G+82, 05743 Fair Haven, United States",
+        "rank": {
+          "importance": 4.8614480811734454e-05,
+          "popularity": 1.92014682446184,
+          "confidence": 0.2,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.2,
+          "confidence_building_level": 0.2,
+          "match_type": "full_match"
+        },
+        "place_id": "51ac1e300f995152c05948d3eaf538cd4540f00102f901f47d583a00000000c00203e203466f70656e6164647265737365733a616464726573733a75732f76742f7374617465776964652d6164647265737365732d73746174653a39333436616266323738643735343736",
+        "bbox": {
+          "lon1": -73.2751059,
+          "lat1": 43.6031954,
+          "lon2": -73.2748282,
+          "lat2": 43.6034117
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Fair Haven",
+        "country": "United States",
+        "county": "Rutland County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Vermont",
+        "state_code": "VT",
+        "county_code": "RU",
+        "district": "Fair Haven",
+        "city": "Fair Haven",
+        "iso3166_2": "US-VT",
+        "lon": -73.26652,
+        "lat": 43.632275,
+        "result_type": "city",
+        "postcode": "05743",
+        "formatted": "Fair Haven, VT 05743, United States of America",
+        "address_line1": "Fair Haven",
+        "address_line2": "Fair Haven, VT 05743, United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M8JPJM+W9",
+        "plus_code_short": "JPJM+W9, 05743 Fair Haven, United States",
+        "rank": {
+          "popularity": 1.8765285304856851,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51b7eee6a90e5152c059098a1f63eed04540c0020892030a4661697220486176656ee2031f77686f736f6e66697273743a6c6f63616c6974793a31373239343432383433",
+        "bbox": {
+          "lon1": -73.30299,
+          "lat1": 43.539549,
+          "lon2": -73.238757,
+          "lat2": 43.668586
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Fair Haven",
+        "country": "United States",
+        "county": "Monmouth County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "county_code": "MN",
+        "district": "Fair Haven",
+        "city": "Fair Haven",
+        "iso3166_2": "US-NJ",
+        "lon": -74.039545,
+        "lat": 40.362075,
+        "result_type": "city",
+        "formatted": "Fair Haven, NJ, United States of America",
+        "address_line1": "Fair Haven, NJ",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87G79X66+R5",
+        "plus_code_short": "66+R5 Fair Haven, Monmouth County, United States",
+        "rank": {
+          "popularity": 3.845800765499744,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "511a6ec0e7878252c0597fd93d79582e4440c0020892030a4661697220486176656ee2031d77686f736f6e66697273743a6c6f63616c6974793a3835393735333537",
+        "bbox": {
+          "lon1": -74.059209,
+          "lat1": 40.347982,
+          "lon2": -74.018986,
+          "lat2": 40.375656
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Fair Haven",
+        "country": "United States",
+        "county": "Cayuga County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "New York",
+        "state_code": "NY",
+        "county_code": "CY",
+        "district": "Sterling",
+        "city": "Fair Haven",
+        "iso3166_2": "US-NY",
+        "lon": -76.703206,
+        "lat": 43.323525,
+        "result_type": "city",
+        "formatted": "Sterling, Fair Haven, NY, United States of America",
+        "address_line1": "Sterling",
+        "address_line2": "Fair Haven, NY, United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M587FW+CP",
+        "rank": {
+          "popularity": 1.7918276223819682,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "517616bd53012d53c0591d38674469a94540c0020892030a4661697220486176656ee2031d77686f736f6e66697273743a6c6f63616c6974793a3835393738383731",
+        "bbox": {
+          "lon1": -76.72217,
+          "lat1": 43.29646,
+          "lon2": -76.68217,
+          "lat2": 43.33646
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Fairhaven",
+        "country": "United States",
+        "county": "Anne Arundel County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Maryland",
+        "state_code": "MD",
+        "county_code": "AN",
+        "city": "Fairhaven",
+        "iso3166_2": "US-MD",
+        "lon": -76.55774,
+        "lat": 38.74428,
+        "result_type": "city",
+        "formatted": "Fairhaven, MD, United States of America",
+        "address_line1": "Fairhaven, MD",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87C5PCVR+PW",
+        "rank": {
+          "popularity": 2.8170238706574873,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51f2ea1c03b22353c05990882991445f4340c0020892030946616972686176656ee2031f77686f736f6e66697273743a6c6f63616c6974793a31313235373939373337",
+        "bbox": {
+          "lon1": -76.57774,
+          "lat1": 38.72428,
+          "lon2": -76.53774,
+          "lat2": 38.76428
+        }
+      }
+    ]
+  },
+  "10024": {
+    "reference_address": "2195 E Main St, Wellington, UT 84542, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Utah",
+        "county": "Carbon County",
+        "city": "Wellington",
+        "postcode": "84542",
+        "street": "East Main Street",
+        "housenumber": "2195",
+        "iso3166_2": "US-UT",
+        "lon": -110.6892255,
+        "lat": 39.5434536,
+        "state_code": "UT",
+        "result_type": "building",
+        "formatted": "2195 East Main Street, Wellington, UT 84542, United States of America",
+        "address_line1": "2195 East Main Street",
+        "address_line2": "Wellington, UT 84542, United States of America",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG8V6+98",
+        "plus_code_short": "G8V6+98, 84542 Wellington, United States",
+        "rank": {
+          "importance": 4.997711146710945e-05,
+          "popularity": 0.871756661440031,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516f8445451cac5bc0595d7237e38fc54340f00103f9013e0fb49802000000c00203",
+        "bbox": {
+          "lon1": -110.6892755,
+          "lat1": 39.5434036,
+          "lon2": -110.6891755,
+          "lat2": 39.5435036
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Miller's Travel Centers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Utah",
+        "county": "Carbon County",
+        "city": "Wellington",
+        "postcode": "84542",
+        "street": "East Main Street",
+        "housenumber": "2195",
+        "iso3166_2": "US-UT",
+        "lon": -110.6893995,
+        "lat": 39.543383,
+        "state_code": "UT",
+        "result_type": "amenity",
+        "formatted": "Miller's Travel Centers, 2195 East Main Street, Wellington, UT 84542, United States of America",
+        "address_line1": "Miller's Travel Centers",
+        "address_line2": "2195 East Main Street, Wellington, UT 84542, United States of America",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG8V6+96",
+        "plus_code_short": "G8V6+96, 84542 Wellington, United States",
+        "rank": {
+          "importance": 4.997711146710945e-05,
+          "popularity": 0.871756661440031,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "513d98141f1fac5bc059e719fb928dc54340f00102f901e90de54500000000c002019203174d696c6c657227732054726176656c2043656e74657273",
+        "bbox": {
+          "lon1": -110.6896382,
+          "lat1": 39.5432938,
+          "lon2": -110.6891609,
+          "lat2": 39.5435085
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Miller's RV and Truck",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Utah",
+        "county": "Carbon County",
+        "city": "Wellington",
+        "postcode": "84542",
+        "street": "East Main Street",
+        "housenumber": "2195",
+        "iso3166_2": "US-UT",
+        "lon": -110.6885843,
+        "lat": 39.5433673,
+        "state_code": "UT",
+        "result_type": "amenity",
+        "formatted": "Miller's RV and Truck, 2195 East Main Street, Wellington, UT 84542, United States of America",
+        "address_line1": "Miller's RV and Truck",
+        "address_line2": "2195 East Main Street, Wellington, UT 84542, United States of America",
+        "category": "service.vehicle.fuel",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG8V6+8H",
+        "plus_code_short": "G8V6+8H, 84542 Wellington, United States",
+        "rank": {
+          "importance": 4.997711146710945e-05,
+          "popularity": 0.871756661440031,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "518042e2c311ac5bc059a09b470f8dc54340f00102f901c256bd4100000000c002019203154d696c6c6572277320525620616e6420547275636b",
+        "bbox": {
+          "lon1": -110.6887145,
+          "lat1": 39.5432287,
+          "lon2": -110.6884541,
+          "lat2": 39.5435058
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chevron",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Utah",
+        "county": "Carbon County",
+        "city": "Wellington",
+        "postcode": "84542",
+        "street": "East Main Street",
+        "housenumber": "2195",
+        "iso3166_2": "US-UT",
+        "lon": -110.6893547,
+        "lat": 39.5430068,
+        "state_code": "UT",
+        "result_type": "amenity",
+        "formatted": "Chevron, 2195 East Main Street, Wellington, UT 84542, United States of America",
+        "address_line1": "Chevron",
+        "address_line2": "2195 East Main Street, Wellington, UT 84542, United States of America",
+        "category": "service.vehicle.fuel",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG8V6+67",
+        "plus_code_short": "G8V6+67, 84542 Wellington, United States",
+        "rank": {
+          "importance": 4.997711146710945e-05,
+          "popularity": 0.871756661440031,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5102f62c631eac5bc059b8c02f3f81c54340f00102f9015f0de54500000000c0020192030743686576726f6e",
+        "bbox": {
+          "lon1": -110.6897638,
+          "lat1": 39.5429666,
+          "lon2": -110.6889457,
+          "lat2": 39.543047
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nine Mile Canyon Kiosk",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Utah",
+        "county": "Carbon County",
+        "city": "Wellington",
+        "postcode": "84542",
+        "street": "East Main Street",
+        "housenumber": "2195",
+        "iso3166_2": "US-UT",
+        "lon": -110.6882299,
+        "lat": 39.5429984,
+        "state_code": "UT",
+        "result_type": "amenity",
+        "formatted": "Nine Mile Canyon Kiosk, 2195 East Main Street, Wellington, UT 84542, United States of America",
+        "address_line1": "Nine Mile Canyon Kiosk",
+        "address_line2": "2195 East Main Street, Wellington, UT 84542, United States of America",
+        "category": "tourism.attraction",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85FFG8V6+5P",
+        "plus_code_short": "G8V6+5P, 84542 Wellington, United States",
+        "rank": {
+          "importance": 4.997711146710945e-05,
+          "popularity": 0.871756661440031,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5147286cf50bac5bc059e2e3b8f880c54340f00103f9018de3c15201000000c002019203164e696e65204d696c652043616e796f6e204b696f736b",
+        "bbox": {
+          "lon1": -110.6882799,
+          "lat1": 39.5429484,
+          "lon2": -110.6881799,
+          "lat2": 39.5430484
+        }
+      }
+    ]
+  },
+  "10028": {
+    "reference_address": "1201 N US Hwy 35, Winamac, IN 46996, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Alliance Bank",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Indiana",
+        "county": "Pulaski County",
+        "city": "Winamac",
+        "postcode": "46996",
+        "street": "50 N",
+        "housenumber": "510",
+        "iso3166_2": "US-IN",
+        "lon": -86.6028581,
+        "lat": 41.0629522,
+        "state_code": "IN",
+        "county_code": "PL",
+        "district": "Monroe Township",
+        "result_type": "building",
+        "formatted": "Alliance Bank, 510 50 N, Winamac, IN 46996, United States of America",
+        "address_line1": "Alliance Bank",
+        "address_line2": "510 50 N, Winamac, IN 46996, United States of America",
+        "category": "service.financial.bank",
+        "timezone": {
+          "name": "America/Indiana/Winamac",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86HM397W+5V",
+        "plus_code_short": "7W+5V Winamac, Pulaski County, United States",
+        "rank": {
+          "importance": 4.207446402681037e-05,
+          "popularity": 1.865619168965726,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 0.008683068017366137,
+          "match_type": "full_match"
+        },
+        "place_id": "513de8233a95a655c0590a1b54d10e884440f00102f9014653f74500000000c0020392030d416c6c69616e63652042616e6be203246f70656e7374726565746d61703a616464726573733a7761792f31313733383336363134",
+        "bbox": {
+          "lon1": -86.6029841,
+          "lat1": 41.0628763,
+          "lon2": -86.6027322,
+          "lat2": 41.0631191
+        }
+      },
+      {
+        "country_code": "us",
+        "housenumber": "1201",
+        "street": "North United States Highway 35",
+        "country": "United States",
+        "county": "Pulaski County",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "\u00a9 OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "46996",
+        "state": "Indiana",
+        "state_code": "IN",
+        "county_code": "PL",
+        "district": "Monroe Township",
+        "city": "Winamac",
+        "iso3166_2": "US-IN",
+        "lon": -86.604289,
+        "lat": 41.073038,
+        "result_type": "building",
+        "formatted": "1201 North United States Highway 35, Winamac, IN 46996, United States of America",
+        "address_line1": "1201 North United States Highway 35",
+        "address_line2": "Winamac, IN 46996, United States of America",
+        "timezone": {
+          "name": "America/Indiana/Winamac",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86HM39FW+67",
+        "plus_code_short": "39FW+67 Winamac, Pulaski County, United States",
+        "rank": {
+          "popularity": 1.865085029301939,
+          "confidence": 0.16666666666666666,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.16666666666666666,
+          "confidence_building_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "514815c5abaca655c059c0ae264f59894440c00203e203466f70656e6164647265737365733a616464726573733a75732f696e2f7374617465776964652d6164647265737365732d73746174653a35303035303239306233343130613263"
+      }
+    ]
+  },
+  "10030": {
+    "reference_address": "6168 N Scenic Hwy, Bastian, VA 24314, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Virginia",
+        "county": "Bland County",
+        "city": "Hicksville",
+        "postcode": "24314",
+        "street": "North Scenic Highway",
+        "housenumber": "6168",
+        "iso3166_2": "US-VA",
+        "lon": -81.14088341432725,
+        "lat": 37.17847016750008,
+        "state_code": "VA",
+        "result_type": "building",
+        "formatted": "6168 North Scenic Highway, Hicksville, VA 24314, United States of America",
+        "address_line1": "6168 North Scenic Highway",
+        "address_line2": "Hicksville, VA 24314, United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "869W5VH5+9J",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 1.599385032524612,
+          "confidence": 0.8228347409582005,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516645de3b044954c059bc5c461cd8964240f00102f9016da7a81900000000c00203",
+        "bbox": {
+          "lon1": -81.1409334,
+          "lat1": 37.1784202,
+          "lon2": -81.1408334,
+          "lat2": 37.1785202
+        }
+      }
+    ]
+  },
+  "10033": {
+    "reference_address": "",
+    "api_error": "no_reference_address",
+    "results": []
+  },
+  "10047": {
+    "reference_address": "215 N Main St, Conrad, MT 59425, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Super 8",
+        "ref": "03279",
+        "other_names": {
+          "ref": "03279"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Montana",
+        "county": "Pondera County",
+        "city": "Conrad",
+        "postcode": "59425",
+        "street": "North Main Street",
+        "housenumber": "215",
+        "iso3166_2": "US-MT",
+        "lon": -111.9409617,
+        "lat": 48.1777819,
+        "state_code": "MT",
+        "result_type": "amenity",
+        "formatted": "Super 8, 215 North Main Street, Conrad, MT 59425, United States of America",
+        "address_line1": "Super 8",
+        "address_line2": "215 North Main Street, Conrad, MT 59425, United States of America",
+        "category": "accommodation.motel",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85WC53H5+4J",
+        "plus_code_short": "H5+4J, 59425 Conrad, United States",
+        "rank": {
+          "importance": 4.393148699163832e-05,
+          "popularity": 0.5685181143066382,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5178126cb738fc5bc0590e29ab8ec1164840f00102f90110ba2b0900000000c0020192030753757065722038",
+        "bbox": {
+          "lon1": -111.9413497,
+          "lat1": 48.1775263,
+          "lon2": -111.940309,
+          "lat2": 48.1779122
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Town Pump",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Montana",
+        "county": "Pondera County",
+        "city": "Conrad",
+        "postcode": "59425",
+        "street": "North Main Street",
+        "housenumber": "215",
+        "iso3166_2": "US-MT",
+        "lon": -111.941229,
+        "lat": 48.1776828,
+        "state_code": "MT",
+        "result_type": "amenity",
+        "formatted": "Town Pump, 215 North Main Street, Conrad, MT 59425, United States of America",
+        "address_line1": "Town Pump",
+        "address_line2": "215 North Main Street, Conrad, MT 59425, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Denver",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85WC53H5+3G",
+        "plus_code_short": "H5+3G, 59425 Conrad, United States",
+        "rank": {
+          "importance": 4.393148699163832e-05,
+          "popularity": 0.5685181143066382,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51ff428f183dfc5bc059e6875b4fbe164840f00103f9016f4adbd100000000c00201920309546f776e2050756d70",
+        "bbox": {
+          "lon1": -111.941279,
+          "lat1": 48.1776328,
+          "lon2": -111.941179,
+          "lat2": 48.1777328
+        }
+      }
+    ]
+  },
+  "10053": {
+    "reference_address": "1302 Raymond Dr, Mendota, IL 61342, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Beck's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Illinois",
+        "county": "LaSalle County",
+        "city": "Mendota",
+        "municipality": "Mendota Township",
+        "postcode": "61342",
+        "street": "Raymond Drive",
+        "housenumber": "1302",
+        "iso3166_2": "US-IL",
+        "lon": -89.0674555,
+        "lat": 41.5547931,
+        "state_code": "IL",
+        "result_type": "amenity",
+        "formatted": "Beck's, 1302 Raymond Drive, Mendota, IL 61342, United States of America",
+        "address_line1": "Beck's",
+        "address_line2": "1302 Raymond Drive, Mendota, IL 61342, United States of America",
+        "category": "service.vehicle.fuel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86HGHW3M+W2",
+        "plus_code_short": "HW3M+W2, 61342 Mendota, United States",
+        "rank": {
+          "importance": 5.000152590214416e-05,
+          "popularity": 1.6561682424010338,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51dc9bdf30514456c059f245d67503c74440f00102f901eba5664f00000000c002019203064265636b2773",
+        "bbox": {
+          "lon1": -89.0677563,
+          "lat1": 41.5547572,
+          "lon2": -89.0671546,
+          "lat2": 41.554829
+        }
+      }
+    ]
+  },
+  "10057": {
+    "reference_address": "1720 W Thompson Rd, Indianapolis, IN 46217, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Indiana",
+        "county": "Marion County",
+        "city": "Indianapolis",
+        "municipality": "Perry Township",
+        "postcode": "46217",
+        "street": "West Thompson Road",
+        "housenumber": "1720",
+        "iso3166_2": "US-IN",
+        "lon": -86.19038414569799,
+        "lat": 39.692517412713826,
+        "state_code": "IN",
+        "result_type": "building",
+        "county_code": "MN",
+        "formatted": "1720 West Thompson Road, Indianapolis, IN 46217, United States of America",
+        "address_line1": "1720 West Thompson Road",
+        "address_line2": "Indianapolis, IN 46217, United States of America",
+        "timezone": {
+          "name": "America/Indiana/Indianapolis",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "86FMMRV5+2R",
+        "plus_code_short": "MRV5+2R Indianapolis, Marion County, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 3.118981278608868,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c9dcfb402f8c55c0591ac21b69a4d84340f00102f90111350b0100000000c00203",
+        "bbox": {
+          "lon1": -86.1904341,
+          "lat1": 39.6924674,
+          "lon2": -86.1903341,
+          "lat2": 39.6925674
+        }
+      }
+    ]
+  },
+  "10058": {
+    "reference_address": "2800 US-431, Abbeville, AL 36310, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Citgo",
+        "ref": "35220002",
+        "other_names": {
+          "ref": "35220002"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Alabama",
+        "county": "Henry County",
+        "city": "Abbeville",
+        "postcode": "36310",
+        "street": "US 431",
+        "housenumber": "2800",
+        "iso3166_2": "US-AL",
+        "lon": -85.2856786,
+        "lat": 31.5499637,
+        "state_code": "AL",
+        "result_type": "amenity",
+        "county_code": "HEN",
+        "formatted": "Citgo, 2800 US 431, Abbeville, AL 36310, United States of America",
+        "address_line1": "Citgo",
+        "address_line2": "2800 US 431, Abbeville, AL 36310, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "863PGPX7+XP",
+        "plus_code_short": "GPX7+XP, 36310 Abbeville, United States",
+        "rank": {
+          "importance": 5.515602349884821e-05,
+          "popularity": 1.3574881403417802,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51b10ae58e485255c059b67cc96bca8c3f40f00102f901ffd6183100000000c00201920305436974676f",
+        "bbox": {
+          "lon1": -85.2857611,
+          "lat1": 31.5498809,
+          "lon2": -85.2855802,
+          "lat2": 31.5500833
+        }
+      }
+    ]
+  },
+  "10065": {
+    "reference_address": "950 S Constitution Ave, Ashdown, AR 71822, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "ref": "US 59;US 71",
+        "other_names": {
+          "ref": "US 59;US 71",
+          "old_ref": "Hwy 32"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arkansas",
+        "county": "Little River County",
+        "city": "Ashdown",
+        "street": "South Constitution Avenue",
+        "iso3166_2": "US-AR",
+        "lon": -94.1195052,
+        "lat": 33.6624666,
+        "state_code": "AR",
+        "housenumber": "950",
+        "result_type": "building",
+        "postcode": "71822",
+        "county_code": "LT",
+        "formatted": "950 South Constitution Avenue, Ashdown, AR 71822, United States of America",
+        "address_line1": "950 South Constitution Avenue",
+        "address_line2": "Ashdown, AR 71822, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8657MV6J+X5",
+        "plus_code_short": "6J+X5 Ashdown, Little River County, United States",
+        "rank": {
+          "importance": 0.05338272907606619,
+          "popularity": 1.333396982316599,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ed6c23f9a58757c0599ed89eb4cbd44040c00203e203466f70656e6164647265737365733a616464726573733a75732f61722f7374617465776964652d6164647265737365732d73746174653a31636130646330613335323665653132",
+        "bbox": {
+          "lon1": -94.1285909,
+          "lat1": 33.6619994,
+          "lon2": -94.1195364,
+          "lat2": 33.6712113
+        }
+      }
+    ]
+  },
+  "10077": {
+    "reference_address": "3400 Service Loop Rd, West Memphis, AR 72301, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Flying J",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arkansas",
+        "county": "Crittenden County",
+        "city": "West Memphis",
+        "postcode": "72301",
+        "street": "Service Loop Road",
+        "housenumber": "3400",
+        "iso3166_2": "US-AR",
+        "lon": -90.1439223,
+        "lat": 35.15418,
+        "state_code": "AR",
+        "result_type": "amenity",
+        "formatted": "Flying J, 3400 Service Loop Road, West Memphis, AR 72301, United States of America",
+        "address_line1": "Flying J",
+        "address_line2": "3400 Service Loop Road, West Memphis, AR 72301, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "867F5V34+MC",
+        "plus_code_short": "5V34+MC West Memphis, Crittenden County, United States",
+        "rank": {
+          "importance": 5.5917448691493364e-05,
+          "popularity": 2.3139001769891605,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "5191eae005368956c05940d9942bbc934140f00102f9019825140d00000000c00201920308466c79696e67204a",
+        "bbox": {
+          "lon1": -90.1442678,
+          "lat1": 35.1539335,
+          "lon2": -90.1435768,
+          "lat2": 35.1544148
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Denny's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Arkansas",
+        "county": "Crittenden County",
+        "city": "West Memphis",
+        "postcode": "72301",
+        "street": "Service Loop Road",
+        "housenumber": "3400",
+        "iso3166_2": "US-AR",
+        "lon": -90.144021,
+        "lat": 35.1543002,
+        "state_code": "AR",
+        "result_type": "amenity",
+        "formatted": "Denny's, 3400 Service Loop Road, West Memphis, AR 72301, United States of America",
+        "address_line1": "Denny's",
+        "address_line2": "3400 Service Loop Road, West Memphis, AR 72301, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "867F5V34+P9",
+        "plus_code_short": "5V34+P9 West Memphis, Crittenden County, United States",
+        "rank": {
+          "importance": 5.5917448691493364e-05,
+          "popularity": 2.3139001769891605,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "inner_part"
+        },
+        "place_id": "51fb3bdba3378956c0591562e41bc0934140f00102f9015b42404a00000000c0020192030744656e6e792773",
+        "bbox": {
+          "lon1": -90.1441543,
+          "lat1": 35.1541857,
+          "lon2": -90.1438876,
+          "lat2": 35.1544148
+        }
+      }
+    ]
+  },
+  "10085": {
+    "reference_address": "550 Wake Ave, El Centro, CA 92243, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "California",
+        "county": "Imperial County",
+        "city": "El Centro",
+        "postcode": "92243",
+        "street": "Wake Avenue",
+        "housenumber": "550",
+        "iso3166_2": "US-CA",
+        "lon": -115.5578420951203,
+        "lat": 32.770690618693,
+        "state_code": "CA",
+        "result_type": "building",
+        "formatted": "550 Wake Avenue, El Centro, CA 92243, United States of America",
+        "address_line1": "550 Wake Avenue",
+        "address_line2": "El Centro, CA 92243, United States of America",
+        "timezone": {
+          "name": "America/Los_Angeles",
+          "offset_STD": "-08:00",
+          "offset_DST": "-07:00",
+          "offset_STD_seconds": -28800,
+          "offset_DST_seconds": -25200,
+          "abbreviation_STD": "PST",
+          "abbreviation_DST": "PDT"
+        },
+        "plus_code": "8546QCCR+7V",
+        "plus_code_short": "QCCR+7V El Centro, Imperial County, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 1.7322388144299714,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ecb754afb3e35cc0596b4f7dfda5624040f00102f901837fcb0b00000000c00203",
+        "bbox": {
+          "lon1": -115.5578921,
+          "lat1": 32.7706406,
+          "lon2": -115.5577921,
+          "lat2": 32.7707406
+        }
+      }
+    ]
+  },
+  "10101": {
+    "reference_address": "4091 Jimmie Dyess Pkwy, Augusta, GA 30909, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "ref": "GA 383",
+        "other_names": {
+          "ref": "GA 383"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Richmond County",
+        "city": "Augusta",
+        "hamlet": "Bel Air Heights",
+        "district": "Bel Ridge",
+        "street": "Jimmie Dyess Parkway",
+        "iso3166_2": "US-GA",
+        "lon": -82.1305904,
+        "lat": 33.4798745,
+        "state_code": "GA",
+        "housenumber": "4091",
+        "result_type": "building",
+        "postcode": "30909",
+        "formatted": "4091 Jimmie Dyess Parkway, Augusta, GA 30909, United States of America",
+        "address_line1": "4091 Jimmie Dyess Parkway",
+        "address_line2": "Augusta, GA 30909, United States of America",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_DST": "-04:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "865VFVH9+WQ",
+        "plus_code_short": "FVH9+WQ, 30909 Augusta, United States",
+        "rank": {
+          "importance": 0.05339876020447086,
+          "popularity": 1.9794215112147546,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb4ad6975b8854c05999d711876cbd4040c00203e203466f70656e6164647265737365733a616464726573733a75732f67612f636f6c756d6269612d6164647265737365732d636f756e74793a38333762653431363137303861333339",
+        "bbox": {
+          "lon1": -82.1289651,
+          "lat1": 33.4600619,
+          "lon2": -82.1191858,
+          "lat2": 33.4749157
+        }
+      }
+    ]
+  },
+  "10104": {
+    "reference_address": "",
+    "api_error": "no_reference_address",
+    "results": []
+  },
+  "10109": {
+    "reference_address": "3302 S Center St, Marshalltown, IA 50158, United States",
+    "api_error": "",
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Iowa",
+        "county": "Marshall County",
+        "city": "Marshalltown",
+        "municipality": "Marshall Township",
+        "postcode": "50158",
+        "street": "South Center Street",
+        "housenumber": "3302",
+        "iso3166_2": "US-IA",
+        "lon": -92.91224987786032,
+        "lat": 42.006817442347206,
+        "state_code": "IA",
+        "result_type": "building",
+        "county_code": "MS",
+        "formatted": "3302 South Center Street, Marshalltown, IA 50158, United States of America",
+        "address_line1": "3302 South Center Street",
+        "address_line2": "Marshalltown, IA 50158, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86J9234Q+P4",
+        "plus_code_short": "234Q+P4 Marshalltown, Marshall County, United States",
+        "rank": {
+          "importance": 9.99999999995449e-06,
+          "popularity": 1.152071108391522,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512acc4f4d623a57c05939f6d964df004540f00102f90195adf30000000000c00203",
+        "bbox": {
+          "lon1": -92.9122999,
+          "lat1": 42.0067674,
+          "lon2": -92.9121999,
+          "lat2": 42.0068674
+        }
+      }
+    ]
+  },
+  "10110": {
+    "reference_address": "1407 N Franklin Blvd, Nampa, ID 83687, United States",
+    "api_error": "",
+    "results": [
+      {
+        "country_code": "us",
+        "housenumber": "1407",
+        "street": "North Franklin Boulevard",
+        "country": "United States",
+        "county": "Canyon County",
+        "datasource": {
+          "sourcename": "openaddresses",
+          "attribution": "\u00a9 OpenAddresses contributors",
+          "license": "BSD-3-Clause License"
+        },
+        "postcode": "83687",
+        "state": "Idaho",
+        "state_code": "ID",
+        "county_code": "CN",
+        "city": "Nampa",
+        "iso3166_2": "US-ID",
+        "lon": -116.553855,
+        "lat": 43.596866,
+        "result_type": "building",
+        "formatted": "1407 North Franklin Boulevard, Nampa, ID 83687, United States of America",
+        "address_line1": "1407 North Franklin Boulevard",
+        "address_line2": "Nampa, ID 83687, United States of America",
+        "timezone": {
+          "name": "America/Boise",
+          "offset_STD": "-07:00",
+          "offset_DST": "-06:00",
+          "offset_STD_seconds": -25200,
+          "offset_DST_seconds": -21600,
+          "abbreviation_STD": "MST",
+          "abbreviation_DST": "MDT"
+        },
+        "plus_code": "85M5HCWW+PF",
+        "plus_code_short": "HCWW+PF Nampa, Canyon County, United States",
+        "rank": {
+          "popularity": 1.090346685536907,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "confidence_street_level": 1,
+          "confidence_building_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5178ee3d5c72235dc059130ce71a66cc4540c00203e203466f70656e6164647265737365733a616464726573733a75732f69642f7374617465776964652d6164647265737365732d73746174653a38393962393639356230303735323765"
+      }
+    ]
+  }
+}

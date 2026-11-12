@@ -1,0 +1,24 @@
+{
+  "input_station_rows": 980,
+  "pilot_rows_excluded": 20,
+  "rows_with_name_geocode_batch_response": 980,
+  "places_calls_completed": 591,
+  "api_price_fields_found_in_fuel_pois": 0,
+  "match_status_counts": {
+    "ambiguous_same_brand_pois": 21,
+    "exact_name_fuel_poi_match": 91,
+    "fuel_poi_candidate_identity_unconfirmed": 28,
+    "nearby_fuel_pois_different_or_unknown_brand": 423,
+    "station_number_match": 28,
+    "no_fuel_poi_returned": 389
+  },
+  "expected_credit_ceiling": 1960,
+  "places_limit": 20,
+  "places_radius_meters": 25000,
+  "price_policy": "Geoapify fuel POIs provide location/category data, not a grade-and-timestamp price feed. CSV average prices are withheld from usable_price until fuel grade and timestamp are known.",
+  "outputs": [
+    "data\\geocoding_rest_980_matches.csv",
+    "data\\geocoding_rest_980_poi_candidates.csv",
+    "data\\geocoding_rest_980_api_results.jsonl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sample_rows": 20,
+  "addresses_supported_by_traceable_location_sources": 18,
+  "source_address_geocoded_rows": 17,
+  "source_address_geocoded_percent": 85.0,
+  "ambiguous_rows": 1,
+  "unresolved_rows": 1,
+  "definition": "A row counts when a source associates the station identity with an address and Geoapify geocodes that address into the input city and state. This measures location resolution, not fuel-price brand eligibility or current operating status.",
+  "api_calls": 18,
+  "api_errors": 2
+}

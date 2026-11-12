@@ -106,10 +106,10 @@ station_id,name,address,city,state,rack_id,average_price,price_record_count,lati
 The verified-coordinate file has these fields:
 
 ```text
-station_id,latitude,longitude,verified_address,source
+station_id,latitude,longitude,verified_address,source,poi_name_aliases
 ```
 
-`station_id` is the join key. Add verified locations to the coordinate file with a traceable source; the API only attaches CSV prices when the station match satisfies the matching rules. Keeping the original price file separate makes it possible to refresh or enrich locations without changing source prices.
+`station_id` is the join key. Add verified locations to the coordinate file with a traceable source. `poi_name_aliases` is optional and is reserved for documented on-site fuel POI names (for example, a travel center whose official location page identifies the fuel brand used at its pumps). It is not a general brand-alias list. The API attaches CSV prices only when the station match satisfies the matching rules. Keeping the original price file separate makes it possible to refresh or enrich locations without changing source prices.
 
 To rebuild the normalized station file from the original CSV:
 

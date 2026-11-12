@@ -1,2 +1,4 @@
-station_id,latitude,longitude,verified_address,source
-9,44.01746,-90.50153,310 East McCoy Boulevard,Kwik Trip official store listing
+station_id,latitude,longitude,verified_address,source,poi_name_aliases
+9,44.01746,-90.50153,310 East McCoy Boulevard,Kwik Trip official store listing,
+2034,41.1602,-104.5207,"4000 I-80 Service Road, Burns, WY 82053-9816",https://www.ta-petro.com/location/wy/ta-cheyenne/,Exxon
+2115,43.53224,-89.98501,1690 E Main St,https://www.kwiktrip.com/Maps-Downloads/Store-List,

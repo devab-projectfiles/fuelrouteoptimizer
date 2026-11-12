@@ -1,0 +1,4 @@
+station_id,query_address,matched_address,latitude,longitude,tiger_line_id,source
+10028,"1201 N US Hwy 35, Winamac, IN 46996","1201 US HWY 35 N, WINAMAC, IN, 46996",41.072714192282,-86.603531199576,15481133,US Census Geocoder Public_AR_Current
+10030,"6168 N Scenic Hwy, Bastian, VA 24314","6168 N SCENIC HWY, BASTIAN, VA, 24314",37.179042756934,-81.140793577323,658132447,US Census Geocoder Public_AR_Current
+10047,"215 N Main St, Conrad, MT 59425","215 N MAIN ST, CONRAD, MT, 59425",48.177887200257,-111.941460496701,204241230,US Census Geocoder Public_AR_Current

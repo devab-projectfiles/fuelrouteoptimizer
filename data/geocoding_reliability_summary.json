@@ -1,0 +1,34 @@
+{
+  "input_file": "data\\geocoded_station_candidates.csv",
+  "audited_rows": 1000,
+  "definition": "Reliable means an independent station coordinate agrees within 250 m; a geocoder confidence score alone is not verification.",
+  "independent_verified_count": 2,
+  "independent_verified_percent": 0.2,
+  "geocoder_agrees_with_independent_count": 0,
+  "geocoder_agreement_percent": 0.0,
+  "classes": {
+    "verified_coordinate_agrees": 0,
+    "verified_coordinate_conflict": 1,
+    "verified_location_geocoder_missing": 1,
+    "street_only": 143,
+    "locality_only": 714,
+    "unverified_poi_candidate": 123,
+    "no_coordinate": 18
+  },
+  "geocoder_status_counts": {
+    "needs_review": 921,
+    "candidate": 60,
+    "not_found": 19
+  },
+  "result_type_counts": {
+    "street": 144,
+    "city": 702,
+    "amenity": 60,
+    "building": 63,
+    "not_found": 19,
+    "suburb": 6,
+    "county": 5,
+    "state": 1
+  },
+  "note": "This is an evidence audit, not a claim that all unmatched locations are wrong. The current files do not include independent POI coverage for the 1,000-row batch."
+}

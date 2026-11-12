@@ -45,5 +45,10 @@ def load_station_data():
             stations[station_id]["longitude"] = float(row["longitude"])
             stations[station_id]["verified_address"] = row["verified_address"]
             stations[station_id]["coordinate_source"] = row["source"]
+            stations[station_id]["poi_name_aliases"] = [
+                alias.strip()
+                for alias in row.get("poi_name_aliases", "").split("|")
+                if alias.strip()
+            ]
 
     return list(stations.values())

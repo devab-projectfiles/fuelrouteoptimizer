@@ -1,0 +1,15 @@
+{
+  "sample_rows": 20,
+  "source_backed_location_matches": 18,
+  "source_backed_location_match_percent": 90.0,
+  "unresolved_or_ambiguous": 2,
+  "strict_name_brand_poi_matches_from_first_api_pass": 4,
+  "strict_name_brand_poi_match_percent": 20.0,
+  "interpretation": "18 of 20 station identities now have source-backed street locations and coordinates. This is location-resolution coverage; it does not mean all 18 fuel brands, price products, or current operating statuses are verified. Two rows remain unmatched/ambiguous.",
+  "coordinate_sources": {
+    "Geoapify address geocoding": 14,
+    "Geoapify named POI geocoding; nearby fuel POI corroboration": 1,
+    "US Census Geocoder Public_AR_Current": 3
+  },
+  "output": "data\\geocoding_test_20_resolution.csv"
+}

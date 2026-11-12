@@ -85,6 +85,13 @@ def find_fuel_stations(route_coordinates, buffer_meters=5000):
 
         if not -90 <= latitude <= 90:
             raise ValueError("Invalid latitude.")
+
+        if not -90 <= longitude <= 90:
+            raise ValueError("Invalid latitude")
+
+        if not 0 < buffer_meters < 10000:
+            raise ValueError("Buffer must be between 0 and 10000 meters.")
+
     simplified_coordinates = simplify_route_coordinates(
         route_coordinates,
         tolerance_meters=100,
