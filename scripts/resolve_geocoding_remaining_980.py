@@ -585,6 +585,7 @@ def write_outputs(rows, station_results, batch_records):
     counts = Counter()
     api_call_count = 0
     price_fields_count = 0
+    request_status_counts = Counter()
 
     for row in rows:
         station_id = row["station_id"]
@@ -634,6 +635,7 @@ def write_outputs(rows, station_results, batch_records):
             "usable_price": "",
         })
         counts[selected.get("match_status", "not_processed")] += 1
+        request_status_counts[selected.get("places_request_status", selected.get("request_status", "not_processed"))] += 1
         if selected.get("request_status") in {"ok", "no_search_anchor"}:
             api_call_count += int(bool(selected.get("search_anchor")))
         price_fields_count += int(bool(selected.get("api_price_available")))
@@ -652,16 +654,27 @@ def write_outputs(rows, station_results, batch_records):
         writer.writerows(candidate_outputs)
 
     geocode_count = sum(station_id in batch_records for station_id in (row["station_id"] for row in rows))
+    high_confidence_count = sum(counts[status] for status in ("station_number_match", "exact_name_fuel_poi_match"))
+    candidate_count = sum(counts[status] for status in ("ambiguous_same_brand_pois", "fuel_poi_candidate_identity_unconfirmed"))
     summary = {
         "input_station_rows": len(rows),
         "pilot_rows_excluded": 20,
         "rows_with_name_geocode_batch_response": geocode_count,
-        "places_calls_completed": api_call_count,
+        "places_successful_lookup_rows": api_call_count,
+        "places_request_status_counts": dict(request_status_counts),
+        "places_request_error_rows": sum(count for status, count in request_status_counts.items()
+                                          if status not in {"ok", "no_search_anchor"}),
+        "high_confidence_identity_matches": high_confidence_count,
+        "high_confidence_identity_match_percent": round(100 * high_confidence_count / len(rows), 1),
+        "identity_candidates_requiring_review": candidate_count,
+        "identity_candidate_percent": round(100 * candidate_count / len(rows), 1),
+        "rows_without_confirmed_station_identity": len(rows) - high_confidence_count,
         "api_price_fields_found_in_fuel_pois": price_fields_count,
+        "usable_prices": 0,
         "match_status_counts": dict(counts),
-        "expected_credit_ceiling": len(rows) + geocode_count,
         "places_limit": PLACE_LIMIT,
         "places_radius_meters": SEARCH_RADIUS_METERS,
+        "coordinate_policy": "Resolved station coordinates are emitted only for high/probable identity matches; all other POI coordinates remain in the candidate file for review.",
         "price_policy": "Geoapify fuel POIs provide location/category data, not a grade-and-timestamp price feed. CSV average prices are withheld from usable_price until fuel grade and timestamp are known.",
         "outputs": [str(MATCHES_FILE.relative_to(BASE_DIR)), str(POIS_FILE.relative_to(BASE_DIR)), str(API_RESULTS_FILE.relative_to(BASE_DIR))],
     }

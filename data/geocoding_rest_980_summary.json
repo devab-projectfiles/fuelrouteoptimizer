@@ -2,19 +2,30 @@
   "input_station_rows": 980,
   "pilot_rows_excluded": 20,
   "rows_with_name_geocode_batch_response": 980,
-  "places_calls_completed": 591,
-  "api_price_fields_found_in_fuel_pois": 0,
-  "match_status_counts": {
-    "ambiguous_same_brand_pois": 21,
-    "exact_name_fuel_poi_match": 91,
-    "fuel_poi_candidate_identity_unconfirmed": 28,
-    "nearby_fuel_pois_different_or_unknown_brand": 423,
-    "station_number_match": 28,
-    "no_fuel_poi_returned": 389
+  "places_successful_lookup_rows": 973,
+  "places_request_status_counts": {
+    "ok": 973,
+    "no_search_anchor": 7
   },
-  "expected_credit_ceiling": 1960,
+  "places_request_error_rows": 0,
+  "high_confidence_identity_matches": 208,
+  "high_confidence_identity_match_percent": 21.2,
+  "identity_candidates_requiring_review": 101,
+  "identity_candidate_percent": 10.3,
+  "rows_without_confirmed_station_identity": 772,
+  "api_price_fields_found_in_fuel_pois": 0,
+  "usable_prices": 0,
+  "match_status_counts": {
+    "ambiguous_same_brand_pois": 42,
+    "exact_name_fuel_poi_match": 157,
+    "fuel_poi_candidate_identity_unconfirmed": 59,
+    "nearby_fuel_pois_different_or_unknown_brand": 664,
+    "station_number_match": 51,
+    "no_fuel_poi_returned": 7
+  },
   "places_limit": 20,
   "places_radius_meters": 25000,
+  "coordinate_policy": "Resolved station coordinates are emitted only for high/probable identity matches; all other POI coordinates remain in the candidate file for review.",
   "price_policy": "Geoapify fuel POIs provide location/category data, not a grade-and-timestamp price feed. CSV average prices are withheld from usable_price until fuel grade and timestamp are known.",
   "outputs": [
     "data\\geocoding_rest_980_matches.csv",
