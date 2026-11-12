@@ -1,0 +1,28 @@
+{
+  "input_rows": 980,
+  "rows_with_address_batch_response": 980,
+  "address_resolution_status_counts": {
+    "same_city_low_precision_result": 670,
+    "same_city_precise_address_result": 191,
+    "not_found": 19,
+    "nearby_city_mismatch": 82,
+    "state_or_country_mismatch": 18
+  },
+  "result_type_counts": {
+    "city": 687,
+    "amenity": 59,
+    "building": 63,
+    "not_found": 19,
+    "suburb": 6,
+    "street": 140,
+    "county": 5,
+    "state": 1
+  },
+  "same_city_precise_address_rows": 191,
+  "same_city_precise_address_percent": 19.5,
+  "interpretation": "This measures whether the original route/exit query geocodes to a precise amenity/building/street result in the expected city and state. It does not by itself verify station identity or current operation.",
+  "outputs": [
+    "data\\geocoding_rest_980_address_geocodes.csv",
+    "data\\geocoding_rest_980_address_geocodes.jsonl"
+  ]
+}
