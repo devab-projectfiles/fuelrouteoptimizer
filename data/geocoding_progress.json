@@ -1,6 +1,6 @@
 {
     "next_index": 1000,
-    "job_id": null,
-    "batch_start": null,
-    "batch_size": 0
+    "job_id": "83e6609de74b44319d361a1b29d142f4",
+    "batch_start": 1000,
+    "batch_size": 1000
 }
